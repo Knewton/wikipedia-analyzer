@@ -1,0 +1,128 @@
+Algebra & Algebra II
+Exponents, Radicals, and Logarithmic Equations & Functions
+Exponential Equations and Functions
+Imaginary and complex numbers
+Logarithms
+Properties of Logarithms
+Solving Logarithmic Equations
+Pythagorean Theorem
+Radicals
+Operations with radical expressions
+Radicals with index > 2
+Rationalizing radicals in the denominator
+Simplifying radical expressions
+Solving and analyzing radical functions
+Simplifying Exponents
+Linear Equations, Expressions, Inequalities & Functions
+Absolute Value Equations and Inequalities
+Domain and Range
+Equation of a Line
+Evaluating Functions
+Evaluating algebraic expressions
+Graphing Linear Equations
+Graphing Linear Inequalities
+Inverse of Functions
+Literal equations
+Operations on Functions
+Piecewise Functions
+Relations and Functions
+Simplifying Expressions
+Slope & Equations of a line
+Slope of a Line
+Solving Single Variable Equations
+Systems of Linear Equations & Inequalities
+Understanding single variable inequalities
+Writing algebraic equations
+Writing algebraic expressions
+Matrix Algebra
+Determinants and Cramer’s Rule
+Matrix Operations
+Properties of Matrices
+Quadratics & Polynomials: Equations, Functions & Factoring
+Adding and Subtracting Polynomials
+Comparing Linear, Quadratic, and Exponential Functions
+Dividing Polynomials
+Factoring Quadratics
+Factoring polynomials
+Multiplying Polynomials
+Solving Polynomial Equations Degree > 2
+Solving Quadratic Equations and Inequalities
+Using the Discriminant
+Rational Expressions, Equations & Functions
+Direct and Inverse Variation
+Domain of Rational Functions
+Operations with Rational Expressions
+Simplifying Rational Expressions
+Solving Rational Equations and Inequalities
+Data Analysis, Probability, & Statistics
+Data Analysis & Statistics
+Measures of Central Tendency
+Measures of Dispersion
+Samples and Populations
+Data Representation
+Bar graph
+Box and whiskers plot
+Circle graph
+Line graph
+Stem and leaf plot
+Venn diagram
+Probability
+Combinations
+Outcomes and Events
+Permutations
+Geometry & Trigonometry
+2-Dimensional Shapes
+Area
+Circles
+Perimeter
+Polygons
+Congruent Figures and Similar Figures
+Triangles
+3-Dimensional Shapes and Solids
+Cone
+Cylinder
+Prism
+Pyramid
+Sphere
+Surface Area
+Volume
+Coordinate and Analytic Geometry
+Cartesian Coordinate Plane
+Distance Formula
+Transformations
+Dilations
+Reflections
+Rotations
+Translations
+Points, Lines, Segments, Rays, Angles and Planes
+Angles
+Angles formed by parallel lines and a transversal
+Complementary Angles
+Supplementary Angles
+Segments
+Trigonometry
+Trigonometric Functions
+Sine, Cosine, and Tangent
+Numbers & Computation
+Number Concepts
+Absolute Value
+Real Numbers
+Operations
+Addition and Subtraction
+Estimation
+Exponents
+Multiplication and Division
+Order of Operations
+Scientific Notation
+Square Roots
+Patterns, Sequences, & Series
+Arithmetic Sequence
+Geometric Sequence
+Recursive Sequence
+Rules-Based
+Series
+Rates, Ratios & Proportions
+Percents
+Proportions
+Rates
+Ratios
