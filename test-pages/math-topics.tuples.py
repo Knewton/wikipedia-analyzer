@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 """
-This program takes the wikipedia names associated with the topics in the Knewton ontology and
-downloads those pages
-These pages will form the training set
+This program takes the text from the Wikipedia pages and generates tuples
+These tuples will form the training set
 """
 import wikipedia
 
