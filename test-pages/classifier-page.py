@@ -6,7 +6,7 @@ It looks up the page and scores it, based on the list of tuples
 import sys
 import wikipedia
 
-def get_tuples(filename):
+def get_tuples(filename, mincount):
     # read the tuple file
     # store pairs of tuple = count
     t = open(filename, 'r')
@@ -17,14 +17,15 @@ def get_tuples(filename):
         if not line: break  # EOF
         pair = line.split('=')
         count = float(pair[0].rstrip())
-        tupledict[pair[1].rstrip()] = count
-        tupletotal = tupletotal + count
+        if(count >= mincount):
+            tupledict[pair[1].rstrip()] = count
+            tupletotal = tupletotal + count
     t.close
     return (tupledict, tupletotal)
 
 def main():
-    tupledict, tupletotal = get_tuples(sys.argv[1])
-    page = sys.argv[2]
+    tupledict, tupletotal = get_tuples(sys.argv[1], sys.argv[2])
+    page = sys.argv[3]
     text = wikipedia.WikipediaPage(page).content.encode('ascii', 'xmlcharrefreplace')
     score = 0.0
     for tupletext in tupledict:
