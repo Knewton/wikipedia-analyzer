@@ -1,0 +1,18 @@
+0.020797 Power of 10
+0.033887 Element (mathematics)
+0.039117 Cross-multiplication
+0.040034 Independent variable
+0.043215 Boolean data type
+0.043276 Degree (angle)
+0.049301 Equals sign
+0.068233 Octahedron
+0.071780 Base 10
+0.074563 Hyperbolic function
+0.105759 Mode (statistics)
+0.105942 Measure (mathematics)
+0.107930 Log-normal distribution
+0.114445 Algebraic variety
+0.124996 Countable
+0.140410 Discrete random variable
+0.156742 Square (algebra)
+0.301281 Linear polynomial

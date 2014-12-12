@@ -29,7 +29,7 @@ def get_tuples(filename, mincount):
     return (tupledict, tupletotal)
 
 def main():
-    tupledict, tupletotal = get_tuples(sys.argv[1], sys.argv[2])
+    tupledict, tupletotal = get_tuples(sys.argv[1], int(sys.argv[2]))
     filename = sys.argv[3]
     f = open(filename, 'r')
     filename = sys.argv[4]
