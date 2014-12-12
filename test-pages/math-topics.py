@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """
 This program takes the topics names in the Knewton ontology and finds related Wikipedia pages
-These pages will form the training set
+A selection of these pages will form the training set
 """
 import wikipedia
 
