@@ -1,5 +1,5 @@
-import wikipedia
 from xml.etree import ElementTree
+
 def xml_convert(path):
     with open(path , 'rt') as  f:
         tree = ElementTree.parse(f)
