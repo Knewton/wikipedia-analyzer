@@ -1,0 +1,404 @@
+Categories found for query: Geometry &amp; Trigonometry|2-Dimensional Shapes|Perimeter
+	Perimeter, 2.00: Elementary geometry|Length
+	Perimeter Highway (Winnipeg), 1.00: Expressways in Manitoba|Infobox road temporary tracking category 1|Ring roads in Canada|Streets and squares in Winnipeg|Urban segments of the Trans-Canada Highway
+	Perimeter 2: New Earth, 1.00: 2009 video games|Real-time strategy video games|Science fiction video games|Video game sequels|Video games developed in Russia|Windows games
+Categories found for query: Geometry &amp; Trigonometry|Polygons|Congruent Figures and Similar Figures
+	Congruence (geometry), 2.00: Euclidean geometry|Polygons|Triangles
+	Triangle, 1.00: Elementary shapes|Triangle geometry|Triangles
+	Similarity (geometry), 1.00: Euclidean geometry|Triangles
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Absolute Value Equations and Inequalities
+	Absolute value, 3.00: Special functions
+	Cauchy–Schwarz inequality, 3.00: Inequalities|Linear algebra|Mathematical analysis|Operator theory|Probabilistic inequalities|Probability theory
+	Triangle inequality, 3.00: Geometric inequalities|Linear algebra|Metric geometry|Theorems in geometry
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Equation of a Line
+	Linear equation, 3.00: Elementary algebra|Equations|Polynomials
+	Homogeneous coordinates, 2.00: Linear algebra|Projective geometry
+	Trilinear coordinates, 2.00: Affine geometry|Coordinate systems|Linear algebra|Triangle geometry
+Categories found for query: Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Multiplying Polynomials
+	Alternating polynomial, 2.00: Polynomials|Symmetric functions
+	Linear combination, 1.00: Linear algebra
+	Algebra tile, 1.00: Mathematics education
+Categories found for query: Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Ratios
+	Ratio, 1.00: Algebra|Elementary mathematics|Ratios
+	Normalization (statistics), 1.00: Statistical ratios|Statistical terminology
+	Financial ratio, 1.00: Financial ratios
+Categories found for query: Algebra|Simplifying Exponents
+	Elementary algebra, 1.00: Algebra|Elementary algebra
+	Order of operations, 1.00: Abstract algebra|Algebra|Mnemonics|Operators (programming)
+	Logarithm, 0.00: Elementary special functions|Logarithms|Scottish inventions
+Categories found for query: Algebra|Radicals|Operations with radical expressions
+	Order of operations, 2.00: Abstract algebra|Algebra|Mnemonics|Operators (programming)
+	Reduction (mathematics), 1.00: Calculus|Linear algebra|Mathematical terminology
+	Radical of an ideal, 1.00: Ideals
+Categories found for query: Algebra|Rational Expressions, Equations &amp; Functions|Domain of Rational Functions
+	Rational function, 2.00: Algebraic varieties|Meromorphic functions|Morphisms of schemes|Rational functions
+	Rational mapping, 1.00: Algebraic geometry
+	Algebraic function, 1.00: Analytic functions|Functions and mappings|Meromorphic functions|Special functions|Types of functions
+Categories found for query: Algebra|Matrix Algebra|Properties of Matrices
+	Centrosymmetric matrix, 3.00: Linear algebra|Matrices
+	Matrix (mathematics), 2.00: Matrices
+	Metzler matrix, 2.00: Matrices
+Categories found for query: Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Arithmetic Sequence
+	Primes in arithmetic progression, 2.00: Prime numbers
+	Arithmetic progression, 2.00: Arithmetic series|Sequences and series
+	Arithmetic mean, 1.00: Means
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Slope &amp; Equations of a line
+	Randles–Sevcik equation, 1.00: Electrochemical equations
+	Ohm's law, 0.00: Circuit theorems|Electronic engineering|Empirical laws
+	MOSFET, 0.00: Transistor types
+Categories found for query: Algebra|Rational Expressions, Equations &amp; Functions|Direct and Inverse Variation
+	Inverse function, 2.00: Basic concepts in set theory|Inverse functions
+	Trigonometric substitution, 0.00: Integral calculus|Trigonometry
+	Integration by substitution, 0.00: Integral calculus
+Categories found for query: Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Comparing Linear, Quadratic, and Exponential Functions
+	Sesquilinear form, 1.00: Functional analysis|Linear algebra
+	Chi-squared distribution, 1.00: Continuous distributions|Exponential family distributions|Infinitely divisible probability distributions|Normal distribution|Probability distributions
+	Leonhard Euler, 0.00: 1707 births|1783 deaths|18th-century Latin-language writers|18th-century Swiss mathematicians|AC with 15 elements|Ballistics experts|Blind people from Switzerland|Deaths from cerebral hemorrhage|Fellows of the American Academy of Arts and Sciences|Fluid dynamicists|Full Members of the St Petersburg Academy of Sciences|Latin squares|Leonhard Euler|Mathematical analysts|Mathematics of infinitesimals|Members of the Prussian Academy of Sciences|Members of the Royal Swedish Academy of Sciences|Mental calculators|Number theorists|Optical physicists|People celebrated in the Lutheran liturgical calendar|People with eidetic memory|Saint Petersburg State University faculty|Swiss Protestants|Swiss emigrants to the Russian Empire|Swiss mathematicians|Swiss music theorists|Swiss physicists|University of Basel alumni
+Categories found for query: Numbers &amp; Computation|Multiplication and Division|Multiplication and Division with Whole Numbers
+	Natural number, 1.00: Cardinal numbers|Elementary mathematics|Integers|Number theory|Numbers
+	Negative number, 1.00: Chinese mathematical discoveries|Elementary arithmetic|Integers|Numbers
+	Number, 1.00: Accuracy disputes from November 2014|All accuracy disputes|Group theory|Mathematical objects|Numbers
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Understanding single variable inequalities
+	Derivative, 2.00: Accuracy disputes from June 2014|All accuracy disputes|Differential calculus|Functions and mappings|Linear operators in calculus|Mathematical analysis
+	Leggett–Garg inequality, 1.00: Inequalities|Interpretations of quantum mechanics|Physics theorems|Quantum information science
+	Elementary algebra, 1.00: Algebra|Elementary algebra
+Categories found for query: Algebra|Logarithms|Properties of Logarithms
+	Natural logarithm, 1.00: E (mathematical constant)|Elementary special functions|Logarithms
+	Leonhard Euler, 0.00: 1707 births|1783 deaths|18th-century Latin-language writers|18th-century Swiss mathematicians|AC with 15 elements|Ballistics experts|Blind people from Switzerland|Deaths from cerebral hemorrhage|Fellows of the American Academy of Arts and Sciences|Fluid dynamicists|Full Members of the St Petersburg Academy of Sciences|Latin squares|Leonhard Euler|Mathematical analysts|Mathematics of infinitesimals|Members of the Prussian Academy of Sciences|Members of the Royal Swedish Academy of Sciences|Mental calculators|Number theorists|Optical physicists|People celebrated in the Lutheran liturgical calendar|People with eidetic memory|Saint Petersburg State University faculty|Swiss Protestants|Swiss emigrants to the Russian Empire|Swiss mathematicians|Swiss music theorists|Swiss physicists|University of Basel alumni
+	Fermat quotient, 0.00: Number theory
+Categories found for query: Numbers &amp; Computation|Addition and Subtraction|Estimation
+	Density estimation, 1.00: Estimation of densities|Non-parametric statistics
+	Minimum distance estimation, 1.00: Estimation theory|Mathematical modeling|Statistical distance measures
+	Good–Turing frequency estimation, 1.00: Categorical data|Probability assessment
+Categories found for query: Data Analysis, Probability, &amp; Statistics|Data Analysis &amp; Statistics|Measures of Central Tendency
+	Statistical geography, 3.00: Fields of application of statistics|Human geography|Spatial data analysis
+	Central tendency, 3.00: Multivariate statistics|Statistical terminology|Summary statistics
+	Spatial descriptive statistics, 3.00: Spatial data analysis
+Categories found for query: Algebra|Logarithms|Solving Logarithmic Equations
+	List of logarithmic identities, 2.00: Logarithms|Mathematical identities
+	Quadratic equation, 2.00: Elementary algebra|Equations|Polynomials
+	Logarithm, 1.00: Elementary special functions|Logarithms|Scottish inventions
+Categories found for query: Geometry &amp; Trigonometry|Transformations|Dilations
+	Conformal group, 1.00: Conformal geometry
+	Mydriasis, 0.00: Diseases of the eye and adnexa|Medical signs
+	Pupillary response, 0.00: Eye
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Graphing Linear Equations
+	Linear equation, 3.00: Elementary algebra|Equations|Polynomials
+	System of linear equations, 3.00: Equations|Linear algebra|Numerical linear algebra
+	Linear algebra, 2.00: Linear algebra|Numerical analysis
+Categories found for query: Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Solving Polynomial Equations Degree &gt; 2
+	Ising model, 0.00: Concepts in physics|Exactly solvable models|Lattice models|Markov networks|Spin models|Statistical mechanics
+	Butterworth filter, 0.00: Electronic design|Linear filters|Network synthesis filters
+	List of NP-complete problems, 0.00: Dynamic lists|Mathematics-related lists|NP-complete problems
+Categories found for query: Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Percents
+	Fraction (mathematics), 1.00: Division (mathematics)|Elementary arithmetic|Fractions (mathematics)|Numbers
+	Christianity in Thailand, 0.00: Christianity in Asia|Christianity in Thailand
+	Percentage point, 0.00: Mathematical terminology|Statistical terminology
+Categories found for query: Geometry &amp; Trigonometry|Polygons|Triangles
+	Marching triangles, 2.00: Geometric algorithms|Triangle geometry
+	Special right triangles, 2.00: Euclidean plane geometry|Triangles
+	Triangle, 2.00: Elementary shapes|Triangle geometry|Triangles
+Categories found for query: Numbers &amp; Computation|Number Concepts|Absolute Value
+	Absolute value, 2.00: Special functions
+	Absolute value (algebra), 2.00: Abstract algebra
+	Salem number, 2.00: Algebraic numbers
+Categories found for query: Algebra|Rational Expressions, Equations &amp; Functions|Solving Rational Equations and Inequalities
+	Equation solving, 3.00: Equations|Inverse functions
+	Equation, 2.00: Elementary algebra|Equations
+	Cubic function, 2.00: Elementary algebra|Equations|Polynomials
+Categories found for query: Algebra|Pythagorean Theorem
+	Pythagorean theorem, 2.00: Angle|Area|Equations|Euclidean plane geometry|History of geometry|Proof without words|Pythagoras|Theorems in plane geometry|Triangles
+	Pythagorean tiling, 1.00: Euclidean tilings
+	Pythagorean expectation, 1.00: Baseball statistics|Baseball terminology|Bill James|Sports records and statistics
+Categories found for query: Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Solving Quadratic Equations and Inequalities
+	Equation solving, 3.00: Equations|Inverse functions
+	Inequality (mathematics), 2.00: Elementary algebra|Inequalities
+	Equation, 2.00: Elementary algebra|Equations
+Categories found for query: Algebra|Radicals|Rationalizing radicals in the denominator
+	Algebraic fraction, 1.00: Elementary algebra|Fractions (mathematics)
+	Rationalisation (mathematics), 1.00: Elementary algebra|Fractions (mathematics)
+	Conjugate (algebra), 1.00: Algebra
+Categories found for query: Geometry &amp; Trigonometry|Angles|Segments
+	Line segment, 1.00: Elementary geometry|Linear algebra
+	Intrastromal corneal ring segments, 1.00: Eye surgery
+	List of abbreviations for market segments, 1.00: Business terms|Lists of abbreviations|Marketing
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Simplifying Expressions
+	Two-element Boolean algebra, 1.00: Boolean algebra|Elementary algebra
+	Algebra tile, 1.00: Mathematics education
+	Elementary algebra, 1.00: Algebra|Elementary algebra
+Categories found for query: Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Volume
+	Volume, 1.00: Concepts in physics|Volume
+	Volume fraction, 1.00: Dimensionless numbers of chemistry|Physical chemistry|Thermodynamics
+	Blood volume, 1.00: Blood
+Categories found for query: Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Using the Discriminant
+	Casus irreducibilis, 1.00: Abstract algebra|Polynomials
+	Linear discriminant analysis, 1.00: Classification algorithms|Multivariate statistics|Statistical classification
+	Kernel Fisher discriminant analysis, 1.00: Multivariate statistics
+Categories found for query: Numbers &amp; Computation|Multiplication and Division|Order of Operations
+	Order of operations, 2.00: Abstract algebra|Algebra|Mnemonics|Operators (programming)
+	Train order operation, 1.00: Rail transportation in North America|Railway signalling block systems
+	Order of precedence, 1.00: Orders of precedence
+Categories found for query: Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Rules-Based
+	Informationist poetry, 0.00: British literary movements|Poetry movements|Scottish literary movements
+	Machine translation, 0.00: Artificial intelligence applications|Computational linguistics|Computer-assisted translation|Machine translation|Tasks of natural language processing
+	GNU Anubis, 0.00: GNU Project software
+Categories found for query: Algebra|Matrix Algebra|Matrix Operations
+	Quaternionic matrix, 2.00: Linear algebra|Matrices
+	LINPACK, 1.00: Computer benchmarks|Fortran libraries|Numerical linear algebra|Numerical software
+	Kronecker product, 1.00: Matrix theory
+Categories found for query: Data Analysis, Probability, &amp; Statistics|Data Analysis &amp; Statistics|Measures of Dispersion
+	Statistical geography, 3.00: Fields of application of statistics|Human geography|Spatial data analysis
+	Spatial descriptive statistics, 3.00: Spatial data analysis
+	Statistical dispersion, 2.00: Statistical deviation and dispersion|Summary statistics
+Categories found for query: Numbers &amp; Computation|Multiplication and Division|Scientific Notation
+	Scientific notation, 2.00: Measurement|Notation|Numeral systems
+	Scientific pitch notation, 2.00: Musical notation|Pitch (music)
+	Helmholtz pitch notation, 1.00: Musical notation|Pitch (music)
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Writing algebraic equations
+	Algebraic function, 2.00: Analytic functions|Functions and mappings|Meromorphic functions|Special functions|Types of functions
+	Boolean algebra, 2.00: Algebraic logic|Boolean algebra
+	Cauchy–Riemann equations, 2.00: Complex analysis|Harmonic functions|Partial differential equations
+Categories found for query: Algebra|Radicals|Radicals with index &gt; 2
+	Index of Windows games (G), 1.00: Video game lists by platform|Windows games
+	2009 24 Hours of Le Mans, 0.00: 2009 in French motorsport|2009 in motorsport|24 Hours of Le Mans races
+	2007 24 Hours of Le Mans, 0.00: 2007 in French motorsport|2007 in motorsport|24 Hours of Le Mans races
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Writing algebraic expressions
+	Algebraic function, 2.00: Analytic functions|Functions and mappings|Meromorphic functions|Special functions|Types of functions
+	Boolean algebra, 2.00: Algebraic logic|Boolean algebra
+	Magma (algebra), 2.00: Algebraic structures|Binary operations|Non-associative algebra
+Categories found for query: Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Proportions
+	Divine Proportions, 1.00: 2002 racehorse births|Cartier Award winners|French Thoroughbred Classic Race winners|French racehorses|Northern Dancer bloodline|Racehorses bred in Kentucky|Racehorses trained in France|Thoroughbred family 1|Thoroughbred racehorses
+	Big Fish: A Novel of Mythic Proportions, 1.00: 1998 novels|Debut novels
+	Law of definite proportions, 1.00: Amount of substance|Chemical formulas|Stoichiometry
+Categories found for query: Algebra|Exponents, Radicals, and Logarithmic Equations &amp; Functions|Exponential Equations and Functions
+	Equation, 2.00: Elementary algebra|Equations
+	Exponential growth, 2.00: Exponentials|Mathematical modeling|Ordinary differential equations
+	Exponential function, 2.00: Analytic functions|E (mathematical constant)|Elementary special functions|Exponentials|Special hypergeometric functions
+Categories found for query: Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Pyramid
+	Pyramid (geometry), 2.40: Geometric shapes|Polyhedra|Prismatoid polyhedra|Pyramids|Pyramids and bipyramids|Self-dual polyhedra
+	Great Pyramid of Giza, 2.00: 26th-century BC architecture|Ancient Egyptian pyramids|Former world's tallest buildings|Giza Plateau|Khufu
+	Pyramid, 1.00: Monument types|Pyramids
+Categories found for query: Data Analysis, Probability, &amp; Statistics|Data Representation|Box and whiskers plot
+	Seven-number summary, 1.00: Summary statistics
+	Box plot, 1.00: Statistical charts and diagrams|Statistical outliers
+	Interquartile range, 1.00: Scale statistics
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Evaluating Functions
+	Linear dynamical system, 1.00: Dynamical systems
+	Extraction ratio, 0.00: Renal physiology
+	Edax (computing), 0.00: Abstract strategy games|Reversi software
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Graphing Linear Inequalities
+	Discontinuous linear map, 2.00: Functional analysis|Functions and mappings
+	Linear inequality, 2.00: Linear algebra|Linear programming|Polyhedra
+	Inequality (mathematics), 2.00: Elementary algebra|Inequalities
+Categories found for query: Numbers &amp; Computation|Addition and Subtraction|Addition and Subtraction with Negative Numbers
+	Negative number, 2.00: Chinese mathematical discoveries|Elementary arithmetic|Integers|Numbers
+	Complex number, 1.00: Complex numbers
+	Number, 1.00: Accuracy disputes from November 2014|All accuracy disputes|Group theory|Mathematical objects|Numbers
+Categories found for query: Algebra|Rational Expressions, Equations &amp; Functions|Simplifying Rational Expressions
+	Rational trigonometry, 1.00: Trigonometry|University of New South Wales faculty
+	Regular expression, 1.00: Automata theory|Formal languages|Pattern matching|Programming constructs|Regular expressions
+	Computer algebra system, 1.00: Computer algebra systems
+Categories found for query: Data Analysis, Probability, &amp; Statistics|Data Representation|Stem and leaf plot
+	Scatter plot, 1.00: Quality control tools|Statistical charts and diagrams
+	Box plot, 1.00: Statistical charts and diagrams|Statistical outliers
+	Stem-and-leaf display, 1.00: Exploratory data analysis|Statistical charts and diagrams
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Inverse of Functions
+	List of integrals of inverse trigonometric functions, 2.00: Integrals|Mathematics-related lists
+	Inverse functions and differentiation, 2.00: Differentiation rules|Inverse functions
+	Inverse function, 2.00: Basic concepts in set theory|Inverse functions
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Evaluating algebraic expressions
+	Algebraic function, 2.00: Analytic functions|Functions and mappings|Meromorphic functions|Special functions|Types of functions
+	Expression (mathematics), 2.00: Abstract algebra|Evaluation|Logical expressions
+	Algebraic data type, 1.00: Composite data types|Data types|Functional programming|Type theory
+Categories found for query: Geometry &amp; Trigonometry|Transformations|Translations
+	Modern English Bible translations, 1.00: Bible translations into English|Bible versions and translations
+	Bible translations into Chinese, 1.00: Bible translations by language|Bible translations into Chinese|Chinese literature|Christian missions in China|Translators of the Bible into Chinese
+	Translations, 1.00: 1980 plays|Irish language|Plays by Brian Friel|Plays set in Ireland|Toponymy|Translation
+Categories found for query: Data Analysis, Probability, &amp; Statistics|Data Representation|Line graph
+	Line graph of a hypergraph, 2.00: Graph families|Hypergraphs
+	Digital line graph, 2.00: Cartography|GIS file formats|United States Geological Survey
+	Line graph, 2.00: Graph families|Graph operations|Intersection classes of graphs
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Domain and Range
+	Inverse function, 1.00: Basic concepts in set theory|Inverse functions
+	Injective function, 1.00: Basic concepts in set theory|Functions and mappings|Types of functions
+	Function (mathematics), 1.00: Basic concepts in set theory|Elementary mathematics|Functions and mappings
+Categories found for query: Geometry &amp; Trigonometry|Coordinate and Analytic Geometry|Cartesian Coordinate Plane
+	Cartesian coordinate system, 4.80: Analytic geometry|Coordinate systems|Dimension|Elementary mathematics|René Descartes
+	Analytic geometry, 2.40: Analytic geometry
+	Quadrant (plane geometry), 2.00: Euclidean plane geometry
+Categories found for query: Geometry &amp; Trigonometry|Transformations|Reflections
+	Reflections (The Carpenters album), 1.00: 1998 compilation albums|The Carpenters compilation albums
+	Large Interior with Three Reflections, 1.00: 1993 paintings|Paintings by Roy Lichtenstein
+	Reflections (Chet Atkins and Doc Watson album), 1.00: 1980 albums|Albums produced by Chet Atkins|Chet Atkins albums|Doc Watson albums|RCA Records albums
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Relations and Functions
+	Demonic composition, 1.00: Mathematical relations
+	Function (mathematics), 1.00: Basic concepts in set theory|Elementary mathematics|Functions and mappings
+	Publicist, 1.00: Media occupations|Public relations people by role|Theatrical management|Theatrical professions
+Categories found for query: Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Geometric Sequence
+	Geometric progression, 2.00: Mathematical series|Sequences and series
+	Arithmetico-geometric sequence, 2.00: Mathematical series
+	Preferred number, 1.00: Industrial design|Logarithmic scales of measurement|Numbers|Use British (Oxford) English from December 2011
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Slope of a Line
+	Slope, 1.00: Analytic geometry|Elementary mathematics
+	Sweep line algorithm, 1.00: Geometric algorithms
+	Bohr–Mollerup theorem, 1.00: Gamma and related functions|Theorems in complex analysis
+Categories found for query: Geometry &amp; Trigonometry|Coordinate and Analytic Geometry|Distance Formula
+	Distance, 2.00: Elementary mathematics|Length|Metric geometry
+	Inversive distance, 2.00: Inversive geometry
+	Law of cosines, 2.00: Angle|Theorems in plane geometry|Triangle geometry|Trigonometry
+Categories found for query: Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Series
+	List of programs broadcast by Showcase, 1.00: Lists of television series by network|Showcase network shows
+	Animated series, 1.00: Animated series|Television genres
+	Encore Series, 1.00: 2000s live albums|Duran Duran albums|Genesis (band) live albums|Live album series|Peter Gabriel albums|The Who live albums|Use British English from August 2011
+Categories found for query: Data Analysis, Probability, &amp; Statistics|Probability|Outcomes and Events
+	Event (probability theory), 1.00: Probability theory
+	Coherence (philosophical gambling strategy), 1.00: Probability theory|Thought experiments|Wagering
+	Outcome (probability), 1.00: Probability
+Categories found for query: Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Surface Area
+	Total body surface area, 2.00: Skin anatomy
+	Surface area, 2.00: Area
+	Specific surface area, 2.00: Porous media|Surface chemistry
+Categories found for query: Numbers &amp; Computation|Addition and Subtraction|Exponents
+	Subinoy Roy, 1.00: Indian male singers|Living people|Rabindra Sangeet exponents|Year of birth missing (living people)
+	Ising critical exponents, 1.00: Critical exponents (phase transitions)
+	Why Does Love Do This to Me: The Exponents Greatest Hits, 1.00: 2011 greatest hits albums|The Exponents albums|Universal Music Group compilation albums
+Categories found for query: Algebra|Exponents, Radicals, and Logarithmic Equations &amp; Functions|Imaginary and complex numbers
+	Imaginary unit, 3.00: Algebraic numbers|Complex numbers|Mathematical constants
+	Imaginary number, 3.00: Complex numbers
+	Complex number, 2.00: Complex numbers
+Categories found for query: Geometry &amp; Trigonometry|2-Dimensional Shapes|Circles
+	Five circles theorem, 2.00: Circles|Theorems in plane geometry
+	Circle, 2.00: Circles|Conic sections|Curves|Elementary shapes|Pi
+	Problem of Apollonius, 1.00: Conformal geometry|Euclidean plane geometry|History of geometry|Incidence geometry
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Literal equations
+	Quadratic formula, 2.00: Elementary algebra|Equations|Polynomials
+	Pipe network analysis, 1.00: Equations of fluid dynamics|Fluid dynamics|Networks|Piping
+	Consensus theorem, 1.00: Boolean algebra|Theorems in propositional logic
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Piecewise Functions
+	Piecewise linear function, 3.00: Real analysis|Types of functions
+	Piecewise, 2.00: Functions and mappings
+	Piecewise linear manifold, 2.00: Geometric topology|Manifolds|Structures on manifolds
+Categories found for query: Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Dividing Polynomials
+	Irreducible polynomial, 2.00: Abstract algebra|Algebra|Polynomials
+	Divided power structure, 2.00: Commutative algebra|Polynomials
+	Polynomial long division, 2.00: Computer algebra|Division (mathematics)|Polynomials
+Categories found for query: Geometry &amp; Trigonometry|Angles|Angles formed by parallel lines and a transversal
+	Transversal (geometry), 2.00: Elementary geometry
+	Transversal plane, 2.00: Multi-dimensional geometry
+	Parallel (geometry), 2.00: Affine geometry|Elementary geometry
+Categories found for query: Geometry &amp; Trigonometry|2-Dimensional Shapes|Area
+	Area, 1.20: Area
+	Harrisonburg, Virginia metropolitan area, 1.00: Geography of Rockingham County, Virginia|Harrisonburg, Virginia|Harrisonburg metropolitan area
+	Rockford, Illinois metropolitan area, 1.00: Metropolitan areas of Illinois|Rockford metropolitan area
+Categories found for query: Numbers &amp; Computation|Multiplication and Division|Multiplication and Division with Negative Numbers
+	Negative number, 2.00: Chinese mathematical discoveries|Elementary arithmetic|Integers|Numbers
+	Natural number, 1.00: Cardinal numbers|Elementary mathematics|Integers|Number theory|Numbers
+	Complex number, 1.00: Complex numbers
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Solving Single Variable Equations
+	System of linear equations, 3.00: Equations|Linear algebra|Numerical linear algebra
+	Equation, 2.00: Elementary algebra|Equations
+	Differential equation, 1.00: Differential equations
+Categories found for query: Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Factoring Quadratics
+	Irreducible polynomial, 1.00: Abstract algebra|Algebra|Polynomials
+	Factorization, 1.00: Arithmetic|Elementary algebra
+	Quartic function, 1.00: Elementary algebra|Equations|Polynomials
+Categories found for query: Numbers &amp; Computation|Multiplication and Division|Square Roots
+	List of square roots, 2.00: Mathematics-related lists
+	Square root, 2.00: Elementary mathematics|Elementary special functions
+	Methods of computing square roots, 2.00: Computer arithmetic algorithms|Root-finding algorithms
+Categories found for query: Algebra|Radicals|Simplifying radical expressions
+	Nested radical, 2.00: Algebra
+	Nth root, 1.00: Elementary algebra
+	Reduction (mathematics), 1.00: Calculus|Linear algebra|Mathematical terminology
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Operations on Functions
+	Idempotence, 2.00: Abstract algebra|Binary operations|Closure operators|Mathematical relations|Theoretical computer science
+	Operation (mathematics), 1.00: Abstract algebra|Elementary mathematics
+	Bounded variation, 0.00: Calculus of variations|Measure theory|Real analysis
+Categories found for query: Data Analysis, Probability, &amp; Statistics|Data Representation|Bar graph
+	Misleading graph, 2.00: Ethics and statistics|Laymen and statistics|Misuse of statistics
+	FolderSize, 0.00: Disk usage analysis software
+	Boss key, 0.00: History of software|Video game culture
+Categories found for query: Data Analysis, Probability, &amp; Statistics|Probability|Combinations
+	Suit combination – K10 missing, 1.00: Suit combinations
+	Ǵ, 1.00: Specific letter-diacritic combinations
+	Ǹ, 1.00: Specific letter-diacritic combinations
+Categories found for query: Algebra|Rational Expressions, Equations &amp; Functions|Operations with Rational Expressions
+	Closed-form expression, 2.00: Algebra|Special functions
+	Expression (mathematics), 2.00: Abstract algebra|Evaluation|Logical expressions
+	Algebraic expression, 1.00: Elementary algebra
+Categories found for query: Data Analysis, Probability, &amp; Statistics|Probability|Permutations
+	Generalized permutation matrix, 1.00: Matrices|Permutations|Sparse matrices
+	Parity of a permutation, 1.00: Group theory|Parity (mathematics)|Permutations
+	Cyclic permutation, 1.00: Permutations
+Categories found for query: Geometry &amp; Trigonometry|Angles|Complementary Angles
+	Colatitude, 1.00: Orientation (geometry)|Spherical geometry
+	Vertex angle, 1.00: Euclidean geometry
+	List of geometry topics, 1.00: Geometry|Mathematics-related lists
+Categories found for query: Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Prism
+	Cuboid, 1.20: Elementary shapes|Polyhedra|Prismatoid polyhedra|Space-filling polyhedra|Zonohedra
+	Uniform antiprismatic prism, 1.00: Polychora
+	Prism (geometry), 1.00: Prismatoid polyhedra|Uniform polyhedra
+Categories found for query: Geometry &amp; Trigonometry|Angles|Supplementary Angles
+	Transversal (geometry), 1.00: Elementary geometry
+	Euclidean geometry, 1.00: Elementary geometry|Euclidean geometry
+	Vertex angle, 1.00: Euclidean geometry
+Categories found for query: Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Rates
+	Macieira de Rates, 1.00: Parishes of Barcelos Municipality, Portugal
+	Rates (tax), 1.00: Local taxation in Hong Kong|Local taxation in the United Kingdom|Local taxation in the United States|Property taxes|Taxation in Australia|Taxation in Israel|Taxation in New Zealand
+	Rates in the United Kingdom, 1.00: Local government in the United Kingdom|Rates in the United Kingdom
+Categories found for query: Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Systems of Linear Equations &amp; Inequalities
+	Multiplicative calculus, 0.00: Non-Newtonian calculus
+	White noise, 0.00: Data compression|Noise|Stochastic processes|Time series analysis
+	Negative resistance, 0.00: Electricity|Microwave technology|Physical quantities
+Categories found for query: Geometry &amp; Trigonometry|Trigonometric Functions|Sine, Cosine, and Tangent
+	Trigonometric functions, 3.00: Analytic functions|Elementary special functions|Trigonometry
+	List of trigonometric identities, 2.00: Mathematical identities|Mathematics-related lists|Trigonometry
+	Exact trigonometric constants, 2.00: Algebraic numbers|Trigonometry
+Categories found for query: Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Adding and Subtracting Polynomials
+	Polynomial long division, 2.00: Computer algebra|Division (mathematics)|Polynomials
+	Orthogonality, 2.00: Abstract algebra|Factoring|Linear algebra
+	Polynomial arithmetic, 2.00: Algebra|Polynomials
+Categories found for query: Data Analysis, Probability, &amp; Statistics|Data Representation|Venn diagram
+	Venn diagram, 2.00: Diagrams|Graphical concepts in set theory|Statistical charts and diagrams
+	Diagram, 1.00: Diagrams|Infographics
+	John Venn, 1.00: 1834 births|1923 deaths|19th-century Anglican clergy|19th-century philosophers|Alumni of Gonville and Caius College, Cambridge|Clapham Sect|English logicians|English mathematicians|English philosophers|Fellows of Gonville and Caius College, Cambridge|Fellows of the Royal Society|Mathematicians from Kingston upon Hull|People associated with the University of Hull|Use British English from August 2014
+Categories found for query: Numbers &amp; Computation|Number Concepts|Real Numbers
+	Real number, 3.00: Elementary mathematics|Real algebraic geometry|Real numbers
+	Extended real number line, 3.00: Infinity|Real numbers
+	Unit interval, 2.00: 1 (number)|Sets of real numbers|Topology
+Categories found for query: Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Factoring polynomials
+	Irreducible polynomial, 2.00: Abstract algebra|Algebra|Polynomials
+	Polynomial long division, 2.00: Computer algebra|Division (mathematics)|Polynomials
+	Factorization of polynomials, 2.00: Computer algebra|Polynomials
+Categories found for query: Data Analysis, Probability, &amp; Statistics|Data Analysis &amp; Statistics|Samples and Populations
+	Statistics, 2.00: Auxiliary sciences of history|Data|Evaluation methods|Formal sciences|Information|Mathematical and quantitative methods (economics)|Mathematical sciences|Research methods|Scientific method|Statistics
+	Shape of the distribution, 2.00: Data analysis|Statistical terminology
+	Decile, 1.00: Summary statistics
+Categories found for query: Algebra|Radicals|Solving and analyzing radical functions
+	Creativity, 1.00: Aptitude|Cognition|Concepts in aesthetics|Creativity|Educational psychology|Problem solving
+	Polynomial, 1.00: Algebra|Polynomials
+	Galois theory, 0.00: Galois theory
+Categories found for query: Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Recursive Sequence
+	Aliquot sequence, 1.00: Arithmetic functions|Divisor function
+	Recurrence relation, 1.00: Algebra|Recurrence relations|Theory of computation
+	List of Numbers episodes (season 2), 1.00: 2005 television seasons|2006 television seasons|Lists of Numbers (TV series) episodes
+Categories found for query: Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Cylinder
+	Cylinder (geometry), 3.00: Elementary shapes|Euclidean solid geometry|Quadrics|Surfaces
+	Cylinder head, 1.00: Cylinder head|Engine technology
+	Cylinder (locomotive), 1.00: Locomotive parts|Steam locomotive technologies
+Categories found for query: Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Cone
+	Cone, 2.00: Elementary shapes|Surfaces
+	Volcanic cone, 1.00: Pyroclastic cones|Volcanic cones|Volcanic landforms
+	Williams Cone, 1.00: Cinder cones of British Columbia|Holocene volcanoes|Monogenetic volcanoes|Northern Cordilleran Volcanic Province|Stikine Country|Tahltan Highland
+Categories found for query: Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Sphere
+	Sphere, 3.00: Differential geometry|Differential topology|Elementary geometry|Elementary shapes|Homogeneous spaces|Spheres|Surfaces|Topology
+	Circle of a sphere, 2.00: Curves|Rotational symmetry|Spherical geometry
+	Riemann sphere, 2.00: Projective geometry|Riemann surfaces|Spheres
+Categories found for query: Data Analysis, Probability, &amp; Statistics|Data Representation|Circle graph
+	Circle graph, 2.00: Circles|Geometric graphs|Intersection classes of graphs
+	List of graph theory topics, 1.00: Graph theory|Mathematics-related lists
+	List of circle topics, 1.00: Circles|Mathematics-related lists
+Categories found for query: Geometry &amp; Trigonometry|Transformations|Rotations
+	Rotations in 4-dimensional Euclidean space, 2.00: All accuracy disputes|Four-dimensional geometry|Quaternions|Rotation
+	Rotation group SO(3), 1.00: Euclidean solid geometry|Lie groups|Rotation in three dimensions|Rotational symmetry
+	Quaquaversal tiling, 1.00: Discrete geometry|Tessellation
