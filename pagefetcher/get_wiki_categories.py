@@ -108,7 +108,8 @@ def get_categories(knewton_path, analyzed_query_count, best_match_query_count, o
         for page_title in relevant_category_keys:
             category_path = categories[page_title]
             links.update(link_map[page_title])
-            linkset_list.append(link_map[page_title])
+            links.add(page_title)
+            linkset_list.append(link_map[page_title] + [page_title])
             weight_list.append(category_relevance_score[page_title])
 
             if len(category_path):
