@@ -1,91 +1,1585 @@
-Geometry &amp; Trigonometry|Polygons|Congruent Figures and Similar Figures: Triangle, Translation (geometry), Theorem, Spherical geometry, Solution of triangles, Similarity (geometry), Shape, Reflection (mathematics), Parabola, Hyperbolic geometry, Geometry, Euclidean space, Euclidean plane isometry, Euclidean group, Euclidean geometry, Euclidean distance, Edge (geometry), Eccentricity (mathematics), Distance, Corresponding sides, Circle, Area, Angle, American Mathematical Monthly
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Absolute Value Equations and Inequalities: Triangle inequality, Subadditivity, Real number, Pythagorean theorem, Norm (mathematics), Minkowski inequality, Metric space, Metric (mathematics), Mathematics, Mathematical analysis, Inner product space, Euclidean space, Encyclopedia of Mathematics, Derivative, Continuous function
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Equation of a Line: Real number, Polynomial, Mathematics, Field (mathematics), Determinant, Complex number, Cartesian coordinate system, Barycentric coordinates (mathematics)
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Multiplying Polynomials: Polynomial, Module (mathematics)
-Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Ratios: Percent
-Algebra|Simplifying Exponents: X axis, Subtraction, Real number, Pure mathematics, Programming language, Probability theory, Pi, Perl, Number theory, Number, Nth root, Multiplication, Mathematics, Mathematical analysis, Leonhard Euler, John Wiley & Sons, Integer, Information theory, Graph of a function, Expression (mathematics), Exponentiation, Exponent, Division (mathematics), Differential geometry, Coordinate, Complex number, Commutativity, Calculus, C (programming language), Asymptotic, Algebraic geometry, Addition
-Algebra|Radicals|Operations with radical expressions: Nth root, Mathematics
-Algebra|Rational Expressions, Equations &amp; Functions|Domain of Rational Functions: Riemann sphere, Polynomial function, Polynomial, Mathematics, Function field of an algebraic variety, Function (mathematics), Field of fractions, Field extension, Field (mathematics), Equivalence class, Complex analysis, Abstract algebra
-Algebra|Matrix Algebra|Properties of Matrices: Symmetric matrix, Stochastic matrix, Real numbers, Matrix product, Matrix exponential, Matrix (mathematics), Mathematics, Linear algebra, Identity matrix, Field (mathematics), Eigenvector, Associative algebra
-Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Arithmetic Sequence: Summation, Problems involving arithmetic progressions, Pell number, Mathematics, MathWorld, Lucas number, Eric W. Weisstein, Arithmetic progression
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Slope &amp; Equations of a line: Silicon, Resistor, Quantum mechanics, I–V curve, Gauss's law, Electrical conductivity, Capacitance, Atom
-Algebra|Rational Expressions, Equations &amp; Functions|Direct and Inverse Variation: Smooth function, Mathematics, Jacobian matrix and determinant, Inverse function theorem, Injective function, Implicit function, Hyperbolic function, Function composition, Derivative, Continuous function, Chain rule, Calculus
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Comparing Linear, Quadratic, and Exponential Functions: Tensor product, Real number, Quadratic form, Imaginary unit, Gamma function, Encyclopedia of Mathematics, Complex number
-Numbers &amp; Computation|Multiplication and Division|Multiplication and Division with Whole Numbers: Transcendental number, Total order, Surreal number, Superreal number, Supernatural numbers, Subtraction, Subset, Split-complex number, Set theory, Set (mathematics), Serial number, Sedenion, Roman numerals, Ring of periods, Ring (mathematics), Richard Dedekind, Real numbers, Real number, Rational number, Quotient, Quaternion, Quadratic formula, Pythagoras, Principia Mathematica, Prime number, Paul Halmos, P-adic number, Ordinal number, Olmec, Octonion, Numerical digit, Numeral system, Number theory, Number line, Number, Nominal number, Nicolas Chuquet, Natural number, Multiplication, Minus sign, Merriam-Webster, Measurement, Mathematics, MathWorld, List of types of numbers, Liber Abaci, Levi-Civita field, Irrational number, Integer, Infinitesimal calculus, Indian mathematics, India, Hyperreal number, Hypercomplex number, History of zero, Greek mathematics, Exponentiation, Euclidean division, Euclidean algorithm, Euclid's Elements, Eric W. Weisstein, Encyclopedia of Mathematics, Empty set, Easter, Dual number, Division (mathematics), Divisibility, Diophantus, Dionysius Exiguus, Counting, Countable set, Constructible number, Computus, Computable number, Complex number, Commutative, Coefficient, China, Cayley–Dickson construction, Cardinality, Cardinal number, Brahmagupta, Blackboard bold, Bijection, Bhāskara II, Bertrand Russell, Arithmetical set, Arithmetical operations, Arithmetica, Ancient Greece, Algebraic number, Addition, Absolute value, 3 (number), 2 (number), 1 (number), 0 (number)
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Understanding single variable inequalities: Real number, Logarithm, Linear function, Leonhard Euler, Graph of a function, Differential geometry, Differential equation, Complex number, Calculus
-Algebra|Logarithms|Properties of Logarithms: Schanuel's conjecture, Real number, Proof that e is irrational, Pierre de Fermat, Pi, On-Line Encyclopedia of Integer Sequences, Number theory, List of representations of e, Lindemann–Weierstrass theorem, John Wiley & Sons, John Napier, Irrational number, Harmonic series (mathematics), Half-life, Gottfried Wilhelm Leibniz, Generalized continued fraction, Function (mathematics), Fermat's little theorem, Exponential growth, Exponential function, Exponential decay, Euler's identity, Euler's formula, Eric W. Weisstein, E (mathematical constant), Coprime, Compound interest, Complex number, Calculus
-Numbers &amp; Computation|Addition and Subtraction|Estimation: Statistics, Spectral density estimation, Simple linear regression, Mean, Histogram
-Data Analysis, Probability, &amp; Statistics|Data Analysis &amp; Statistics|Measures of Central Tendency: Statistical dispersion, Standard deviation, Spatial analysis, Kriging, Geostatistics, GIS, Descriptive statistics, Correlogram, Centroid
-Algebra|Logarithms|Solving Logarithmic Equations: Real number, Prosthaphaeresis, Number, Nth root, Natural logarithm, Mathematics, Mathematical table, MathWorld, Irrational number, Integral, Imaginary unit, Graph of a function, Exponentiation, Exponential function, Eric W. Weisstein, Encyclopedia of Mathematics, Derivative, Complex number, Complex logarithm, Branch cut, Babylonian mathematics, Algorithm
-Geometry &amp; Trigonometry|Transformations|Dilations: Visual system, Sexual arousal, Retina, Pupillary light reflex, Pupil, PubMed Identifier, Optic nerve, Oculomotor nerve, OCLC, Nystagmus, Miosis, Iris sphincter muscle, Iris dilator muscle, Human eye, Extraocular muscles, Ciliary muscle, Central nervous system, Anisocoria, Accommodation (eye)
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Graphing Linear Equations: Zero vector, Vector space, Vector projection, Transpose, Transformation matrix, Three-dimensional space, System of linear equations, Sparse matrix, Simultaneous equations, Set (mathematics), Scalar (mathematics), Row space, Real number, Rank (linear algebra), Projection (linear algebra), Polynomial, Physics, Outer product, Orthogonality, Ordinary least squares, Numerical stability, Numerical linear algebra, Nonlinear system, Module (mathematics), Minor (linear algebra), Matrix multiplication, Matrix decomposition, Matrix (mathematics), Mathematics, Mathematical model, Linearly independent, Linear transformation, Linear span, Linear map, Linear independence, Linear equation over a ring, Linear equation, Linear combination, Linear algebra, Kernel (linear algebra), Invertible matrix, Inner product space, Hyperplane, Gram–Schmidt process, Gaussian elimination, Floating point, Field (mathematics), Euclidean vector, Euclidean space, Equation solving, Engineering, Encyclopedia of Mathematics, Elementary algebra, Eigenvalues and eigenvectors, Economics, Dual space, Dot product, Determinant, Cramer's rule, Computer science, Complex number, Comparison of numerical analysis software, Comparison of linear algebra libraries, Column space, Cartesian coordinate system, Block matrix, Basis (linear algebra), Basic Linear Algebra Subprograms, Applied mathematics, Algorithm
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Solving Polynomial Equations Degree &gt; 2: NP-complete, Mathematical Reviews
-Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Percents: Permille, Percentage, Parts-per notation, Multiplicative inverse
-Geometry &amp; Trigonometry|Polygons|Triangles: Trigonometry, Trigonometric functions, Triangle, Spherical geometry, Right triangle, Pythagorean triple, Pythagorean theorem, Pentagon, Isosceles triangle, Integer triangle, Hyperbolic geometry, Hexagon, Heronian triangle, Geometry, Euler diagram, Degree (angle), Decagon
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Solving Single Variable Equations: Variable (math), Solution set, Real number, Rational number, Polynomial, Physics, Numerical linear algebra, Nonlinear system, Mathematics, Mathematical model, Linearization, Linear equation, Linear algebra, Integer, Gaussian elimination, Field (mathematics), Euclidean vector, Equation solving, Engineering, Elementary algebra, Economics, Dimension, Computer simulation, Computer science, Complex number, Chemistry, Cartesian coordinate system, Approximation, Algorithm
-Algebra|Rational Expressions, Equations &amp; Functions|Solving Rational Equations and Inequalities: Zero of a function, Trigonometry, The Nine Chapters on the Mathematical Art, Systems of polynomial equations, System of linear equations, Solution set, Root-finding algorithm, Root of a function, René Descartes, Real number, Rational number, Quintic equation, Quartic equation, Quadratic formula, Quadratic equation, Polynomial, Number, Mathematics, Linear equation, Linear algebra, Line (geometry), Integer, Inflection point, Identity (mathematics), Greek mathematics, Function (mathematics), Field (mathematics), Expression (mathematics), Equality (mathematics), Domain of a function, Diophantus, Diophantine equations, Diophantine equation, Differential equation, Derivative, Degree of a polynomial, Conic section, Complex number, Algorithm, Algebraic equation
-Algebra|Pythagorean Theorem: Thābit ibn Qurra, Right triangle, Pythagorean triple, Hypotenuse, Euclidean space, Euclidean geometry, ArXiv
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Solving Quadratic Equations and Inequalities: Systems of polynomial equations, System of linear equations, Subtraction, Solution set, Root-finding algorithm, Real number, Rational number, Quadratic equation, Polynomial, Number, Multiplication, Mathematics, Linear algebra, Line (geometry), Integer, Inequation, Identity (mathematics), Function (mathematics), Field (mathematics), Expression (mathematics), Equality (mathematics), Domain of a function, Division (mathematics), Diophantine equations, Diophantine equation, Differential equation, Conic section, Complex number, Algorithm, Addition
-Algebra|Radicals|Rationalizing radicals in the denominator: Rationalisation (mathematics), Monomial, Fraction (mathematics), Difference of two squares, Binomial, Algebra
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Simplifying Expressions: Variable (mathematics), Subtraction, Operation (mathematics), Multiplication, Mathematics, Linear equation, Integers, Integer, Factorization, Distributive property, Completing the square, Commutativity, Binary operation, Algebra, Addition, Abstract algebra
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Using the Discriminant: Statistics, Ronald Fisher, Kernel trick, Factor analysis, Dot product
-Algebra|Matrix Algebra|Matrix Operations: Matrix multiplication, Matrix addition, Matrix (mathematics), Determinant, Associativity
-Data Analysis, Probability, &amp; Statistics|Data Analysis &amp; Statistics|Measures of Dispersion: Standard deviation, Spatial analysis, Kriging, Geostatistics, GIS, Descriptive statistics, Correlogram, Centroid, Central tendency
-Numbers &amp; Computation|Multiplication and Division|Scientific Notation: Znamenny chant, Virtual pitch, Tuplet, Trill (music), Tremolo, Transposition (music), Transposing instrument, Transcription (music), Tonguing, Tone deafness, Tonal memory, Time signature, Tie (music), Tenuto, Tempo, Tablature, Swaralipi, Stem (music), Staff (music), Staccato, Staccatissimo, Slur (music), Simplified Music Notation, Sight-reading, Sheet music, Sharp (music), Shakuhachi musical notation, Semi-staccato, Scientific pitch notation, Scale (music), Rest (music), Repeat sign, Relative pitch, Rehearsal letter, Portato, Pitch class, Pitch circularity, Pitch (music), Piano key frequencies, Percussion notation, Parsons code, Ossia, Ornament (music), Octave, Numbered musical notation, Note value, Note head, Note, Neume, Natural (music), Musical notation, Musical mode, Music publisher (sheet music), Music publisher (popular music), Music engraving, Mordent, Middle C, Mensural notation, Marcato, List of musical symbols, Letter notation, Legato, Ledger line, Lead sheet, Klavarskribo, Key signature, Kepatihan notation, Interval (music), History of music publishing, Graphic notation, Grace note, Frequency, Flat (music), Figured bass, Fifteenth, Fermata, Eye music, Enharmonic, Ear training, Dynamics (music), Dotted note, Damping (music), Dal Segno, Da capo, Cue note, Concert pitch, Clef, Classical music, Chromatic scale, Chord chart, Chinese musical notation, Caesura, Braille music, Beam (music), Bar (music), Articulation (music), Accidental (music), Accent (music), Absolute pitch
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Writing algebraic equations: Polynomial, Mathematics, Mathematical analysis, MathWorld, Lars Ahlfors, Function composition, Function (mathematics), Field (mathematics), Eric W. Weisstein, Elementary algebra, Complex function, Complex analysis, Calculus, Analytic function, Abstract algebra
-Algebra|Radicals|Radicals with index &gt; 2: Zytek, Yokohama Rubber Company, Vitaphone Racing, United States, United Kingdom, Truth in 24, Triple Crown of Motorsport, Tracy Krohn, Total S.A., Tomáš Enge, Tom Kristensen, Tim Greaves, Thomas Erdos, The Race (The Goodies), Team LNT, Sébastien Bourdais, Switzerland, Sweden, Stéphane Sarrazin, Stéphane Ortelli, Stuart Hall (racing driver), Stefan Mücke, Standing start, Spyker Cars, Spyker C8, Spain, Soheil Ayari, Seth Neiman, Saudi Arabia, Sarthe, Saleen, Russia, Romain Dumas, Robert Bell (racing driver), Risi Competizione, Rinaldo Capello, Richard Lietz, Radio Le Mans, Radical Sportscars, Portugal, Porsche 911 GT3, Porsche, Pirelli, Philipp Peter, Peugeot 908 HDi FAP, Peugeot, Petit Le Mans, Peter Kox, Pescarolo Sport, Pescarolo 01, Penske Racing, Pedro Lamy, Patrick Long, Patrice Goueslard, PSA HDi engine, Oreca, Olivier Beretta, Oliver Gavin, OAK Racing, Nicolas Prost, Nicolas Minassian, Nicolas Lapierre, Netherlands, Monaco, Mike Rockenfeller, Mike Newton (racing driver), Mika Salo, Miguel Amaral, Michelin, Michel Vaillant (film), Matthew Marsh (racing driver), Marco Werner, Marco Apicella, Marcel Fässler (racing driver), Marc Rostan, Marc Gené, Lucas Luhr, Luc Alphand, Lola B05/40, List of female 24 Hours of Le Mans drivers, List of Le Mans Prototypes, List of 24 hours of Le Mans records, List of 24 Hours of Le Mans winners, List of 24 Hours of Le Mans fatal accidents, Le Mans Series, Le Mans Prototype, Le Mans Legend, Le Mans Classic, Le Mans 24 Hours video games, Le Mans (film), Le Mans, Lawrence Tomlinson, Larbre Compétition, Lamborghini Murciélago, Lamborghini, Krohn Racing, Karim Ojjeh, Jörg Bergmeister, Judd (engine), Juan Barazi, João Barbosa, Jonny Kane, Johnny O'Connell, Joest Racing, Jeroen Bleekemolen, Jean-Christophe Boullion, Jean de Pourtales, Jaroslav Janiš, Japan, Jan Magnussen, Jan Charouz, Jamie Campbell-Walter, Jaime Melo, Jacques Nicolet, JMB Racing, Italy, IMSA Performance, Hong Kong, Harold Primat, Guillaume Moreau, Greaves Motorsport, Germany, France, Flying Lizard Motorsports, Finland, Ferrari F430, Ferrari, Fabio Babini, Emmanuel Collard, Dunlop Tyres, Dunlop Bridge, Diesel fuel, Diesel engine, Didier André, Denmark, David Brabham, Darren Turner, Danny Watts, Czech Republic, Creation Autosportif, Courage Compétition, Courage Competition, Corvette Racing, Claude-Yves Gosselin, Circuit de la Sarthe, Christophe Tinseau, Christophe Bouchut, Chevrolet Corvette C6.R, Chevrolet, Charouz Racing System, Casper Elgaard, Bruce Jouanny, Brazil, Benoît Tréluyer, Belgium, Barazi-Epsilon, BMS Scuderia Italia, Automobile Club de l'Ouest, Austria, Australia, Audi R10 TDI, Audi, Aston Martin Racing, Aston Martin DBR9, Aston Martin, Antonio García (racing driver), Andrew Kirkaldy (racing driver), Andrea Belicchi, American Le Mans Series, Allan Simonsen (racing driver), Allan McNish, Alexandre Prémat, Advanced Engine Research, AF Corse, 24 heures d'amant, 24 Hours of Le Mans (motorcycle race), 24 Hours of Le Mans, 2015 24 Hours of Le Mans, 2014 24 Hours of Le Mans, 2013 24 Hours of Le Mans, 2012 24 Hours of Le Mans, 2011 24 Hours of Le Mans, 2010 24 Hours of Le Mans, 2008 24 Hours of Le Mans, 2006 24 Hours of Le Mans, 2005 24 Hours of Le Mans, 2004 24 Hours of Le Mans, 2003 24 Hours of Le Mans, 2002 24 Hours of Le Mans, 2001 24 Hours of Le Mans, 2000 24 Hours of Le Mans, 1999 24 Hours of Le Mans, 1998 24 Hours of Le Mans, 1997 24 Hours of Le Mans, 1996 24 Hours of Le Mans, 1995 24 Hours of Le Mans, 1994 24 Hours of Le Mans, 1993 24 Hours of Le Mans, 1992 24 Hours of Le Mans, 1991 24 Hours of Le Mans, 1990 24 Hours of Le Mans, 1989 24 Hours of Le Mans, 1988 24 Hours of Le Mans, 1987 24 Hours of Le Mans, 1986 24 Hours of Le Mans, 1985 24 Hours of Le Mans, 1984 24 Hours of Le Mans, 1983 24 Hours of Le Mans, 1982 24 Hours of Le Mans, 1981 24 Hours of Le Mans, 1980 24 Hours of Le Mans, 1979 24 Hours of Le Mans, 1978 24 Hours of Le Mans, 1977 24 Hours of Le Mans, 1976 24 Hours of Le Mans, 1975 24 Hours of Le Mans, 1974 24 Hours of Le Mans, 1973 24 Hours of Le Mans, 1972 24 Hours of Le Mans, 1971 24 Hours of Le Mans, 1970 24 Hours of Le Mans, 1969 24 Hours of Le Mans, 1968 24 Hours of Le Mans, 1967 24 Hours of Le Mans, 1966 24 Hours of Le Mans, 1965 24 Hours of Le Mans, 1964 24 Hours of Le Mans, 1963 24 Hours of Le Mans, 1962 24 Hours of Le Mans, 1961 24 Hours of Le Mans, 1960 24 Hours of Le Mans, 1959 24 Hours of Le Mans, 1958 24 Hours of Le Mans, 1957 24 Hours of Le Mans, 1956 24 Hours of Le Mans, 1955 24 Hours of Le Mans, 1954 24 Hours of Le Mans, 1953 24 Hours of Le Mans, 1952 24 Hours of Le Mans, 1951 24 Hours of Le Mans, 1950 24 Hours of Le Mans, 1949 24 Hours of Le Mans, 1939 24 Hours of Le Mans, 1938 24 Hours of Le Mans, 1937 24 Hours of Le Mans, 1936 24 Hours of Le Mans, 1935 24 Hours of Le Mans, 1934 24 Hours of Le Mans, 1933 24 Hours of Le Mans, 1932 24 Hours of Le Mans, 1931 24 Hours of Le Mans, 1930 24 Hours of Le Mans, 1929 24 Hours of Le Mans, 1928 24 Hours of Le Mans, 1927 24 Hours of Le Mans, 1926 24 Hours of Le Mans, 1925 24 Hours of Le Mans, 1924 24 Hours of Le Mans, 1923 24 Hours of Le Mans
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Writing algebraic expressions: Set (mathematics), Ring (mathematics), Polynomial, Mathematics, Mathematical analysis, MathWorld, Group theory, Group (mathematics), Function (mathematics), Field (mathematics), Eric W. Weisstein, Elementary algebra, Element (mathematics), Division (mathematics), Computer science, Category theory, Calculus, Binary operation, Algebraic structure, Abstract algebra
-Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Proportions: United States
-Algebra|Exponents, Radicals, and Logarithmic Equations &amp; Functions|Exponential Equations and Functions: Variable (mathematics), Transcendental function, Sound, Real number, Proportionality (mathematics), Polynomial, Physics, Malthusian catastrophe, List of exponential topics, Linear function, Function (mathematics), Exponentiation, Exponential decay, Engineering, Economics, Domain of a function, Differential equation, Difference equation, Derivative, Degree of a polynomial, Compound interest, Complex number, Chemistry, Biology, Approximation
-Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Pyramid: Step pyramid, Square pyramid, Sneferu, Seven Wonders of the Ancient World, Red Pyramid, Pyramidion, Pyramid (disambiguation), Polygon, Memphis, Egypt, Mastaba, List of archaeoastronomical sites by country, Lincoln Cathedral, Limestone, Khufu, Herodotus, Giza Necropolis, Frustum, Egyptian pyramids, Egypt, Cairo
-Data Analysis, Probability, &amp; Statistics|Data Representation|Box and whiskers plot: Z-test, Wilcoxon signed-rank test, Wavelet, Wald test, Vector autoregression, Variance, U-statistic, Trend estimation, Time series, Time domain, System identification, Survival function, Survival analysis, Survey methodology, Sufficient statistic, Student's t-test, Stratified sampling, Stem-and-leaf display, Statistics, Statistical theory, Statistical process control, Statistical power, Statistical population, Statistical inference, Statistical hypothesis testing, Statistical graphics, Statistical dispersion, Statistical classification, Stationary process, Standard error, Standard deviation, Spectral density estimation, Spearman's rank correlation coefficient, Spatial analysis, Social statistics, Skewness, Simultaneous equations model, Simple linear regression, Shapiro–Wilk test, Shape of the distribution, Semiparametric regression, Seasonal adjustment, Score test, Scatter plot, Scan statistic, Sampling distribution, Sampling (statistics), Sample size determination, Run chart, Robust statistics, Robust regression, Replication (statistics), Reliability engineering, Regression model validation, Regression analysis, Record value, Rank statistics, Rank correlation, Range (statistics), Randomized experiment, Randomization test, Random assignment, Radar chart, Q–Q plot, Questionnaire, Quasi-experiment, Quartile, Quality control, Psychometrics, Proportional hazards model, Probability distribution, Probability density function, Probabilistic design, Prior probability, Principal component analysis, Power (statistics), Posterior probability, Poisson regression, Pie chart, Permutation test, Percentile, Pearson product-moment correlation coefficient, Partition of sums of squares, Partial correlation, Partial autocorrelation function, Parametric statistics, Outline of statistics, Outlier, Ordinary least squares, Order statistic, Optimal design, Opinion poll, Official statistics, Observational study, Normal distribution, Nonparametric regression, Nonlinear regression, Natural experiment, National accounts, Multivariate statistics, Multivariate analysis of variance, Multivariate adaptive regression splines, Moment (mathematics), Mode (statistics), Mixed model, Minimum-variance unbiased estimator, Minimum distance estimation, Midhinge, Mid-range, Methods engineering, Method of moments (statistics), Medical statistics, Median-unbiased estimator, Median, Mean, McNemar's test, Maximum likelihood, Maximum a posteriori estimation, Mann–Whitney U test, Logistic regression, Log-rank test, Location parameter, Ljung–Box test, List of statistics articles, List of fields of application of statistics, Linear regression, Likelihood-ratio test, L-moment, Kurtosis, Kruskal–Wallis one-way analysis of variance, Kriging, Kolmogorov–Smirnov test, Kendall tau rank correlation coefficient, Kaplan–Meier estimator, Jarque–Bera test, Isotonic regression, Interquartile range, Interdecile range, Index of dispersion, Homoscedasticity, Histogram, Heteroscedasticity, Harmonic mean, Grouped data, Graphical model, Granger causality, Goodness of fit, Geostatistics, Geometric mean, Geographic information system, Generalized linear model, General linear model, G-test, Frequentist inference, Frequency domain, Frequency distribution, Fourier analysis, Forest plot, Five-number summary, Fan chart (statistics), Failure rate, Factorial experiment, Factor analysis, F-test, Exponential smoothing, Exponential family, Experiment, Estimator, Errors and residuals in statistics, Epidemiology, Environmental statistics, Engineering statistics, Empirical distribution function, Efficiency (statistics), Effect size, Econometrics, Durbin–Watson statistic, Design of experiments, Descriptive statistics, Density estimation, Demographic statistics, Degrees of freedom (statistics), Decomposition of time series, Data collection, Cross-correlation, Crime statistics, Credible interval, Count data, Correlogram, Correlation and dependence, Copula (probability theory), Control chart, Continuous probability distribution, Contingency table, Confounding, Confidence interval, Completeness (statistics), Cointegration, Cohen's kappa, Coefficient of variation, Coefficient of determination, Cluster sampling, Cluster analysis, Clinical trial, Clinical study design, Chi-square test, Chemometrics, Census, Categorical variable, Cartography, Breusch–Godfrey test, Box–Jenkins, Box plot, Bootstrapping (statistics), Blocking (statistics), Biplot, Biostatistics, Bioinformatics, Binomial regression, Bias of an estimator, Bayesian probability, Bayesian linear regression, Bayesian inference, Bayes factor, Bayes estimator, Bar chart, Autoregressive–moving-average model, Autoregressive conditional heteroskedasticity, Autocorrelation, Asymptotic theory (statistics), Arithmetic mean, Anderson–Darling test, Analysis of variance, Analysis of covariance, Akaike information criterion, Actuarial science, Accelerated failure time model
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Graphing Linear Inequalities: Triangle inequality, Real number, Ordered field, Multiplication, Mathematics, Mathematical Reviews, Linear programming, Linear form, Function (mathematics), Convex set, Column vector, Cauchy–Schwarz inequality, Addition
-Numbers &amp; Computation|Addition and Subtraction|Addition and Subtraction with Negative Numbers: Transcendental number, Total order, Surreal number, Superreal number, Supernatural numbers, Subtraction, Split-complex number, Sign function, Sedenion, Ring of periods, Ring (mathematics), Real numbers, Real number, Rational number, Quaternion, Quadratic formula, Quadratic equation, Princeton University Press, P-adic number, Ordinal number, Octonion, Number line, Number, Nicolas Chuquet, Natural number, Minus sign, List of types of numbers, Liber Abaci, Levi-Civita field, Irrational number, Integer, Infinitesimal calculus, Indian mathematics, India, Hyperreal number, Hypercomplex number, History of zero, Greek mathematics, Exponentiation, Dual number, Division (mathematics), Distributive law, Diophantus, Countable set, Constructible number, Computable number, Complex number, Coefficient, Cayley–Dickson construction, Cardinal number, Brahmagupta, Bhāskara II, Arithmetical set, Arithmetica, Algebraic number, Additive inverse, Addition, Absolute value, 0 (number)
-Algebra|Rational Expressions, Equations &amp; Functions|Simplifying Rational Expressions: String matching, Real number, Programming language, Polynomial, Integer, Algorithm
-Data Analysis, Probability, &amp; Statistics|Data Representation|Stem and leaf plot: Z-test, Wilcoxon signed-rank test, Wavelet, Wald test, Vector autoregression, Variance, U-statistic, Trend estimation, Time series, Time domain, System identification, Survival function, Survival analysis, Survey methodology, Sufficient statistic, Student's t-test, Stratified sampling, Stem-and-leaf display, Statistics, Statistical theory, Statistical process control, Statistical power, Statistical population, Statistical inference, Statistical hypothesis testing, Statistical graphics, Statistical dispersion, Statistical classification, Stationary process, Standard error, Standard deviation, Spectral density estimation, Spearman's rank correlation coefficient, Spatial analysis, Social statistics, Skewness, Simultaneous equations model, Simple linear regression, Shapiro–Wilk test, Shape of the distribution, Semiparametric regression, Seasonal adjustment, Score test, Scatter plot, Scan statistic, Sampling distribution, Sampling (statistics), Sample size determination, Run chart, Robust statistics, Robust regression, Replication (statistics), Reliability engineering, Regression model validation, Regression analysis, Record value, Rank statistics, Rank correlation, Range (statistics), Randomized experiment, Randomization test, Random assignment, Radar chart, Q–Q plot, Questionnaire, Quasi-experiment, Quality control, Psychometrics, Proportional hazards model, Probability distribution, Probabilistic design, Prior probability, Principal component analysis, Power (statistics), Posterior probability, Poisson regression, Pie chart, Permutation test, Percentile, Pearson product-moment correlation coefficient, Partition of sums of squares, Partial correlation, Partial autocorrelation function, Parametric statistics, Outline of statistics, Outlier, Ordinary least squares, Order statistic, Optimal design, Opinion poll, Official statistics, Observational study, Nonparametric regression, Nonlinear regression, Natural experiment, National accounts, Multivariate statistics, Multivariate analysis of variance, Multivariate adaptive regression splines, Moment (mathematics), Mode (statistics), Mixed model, Minimum-variance unbiased estimator, Minimum distance estimation, Methods engineering, Method of moments (statistics), Medical statistics, Median-unbiased estimator, Median, Mean, McNemar's test, Maximum likelihood, Maximum a posteriori estimation, Mann–Whitney U test, Logistic regression, Log-rank test, Location parameter, Ljung–Box test, List of statistics articles, List of fields of application of statistics, Linear regression, Likelihood-ratio test, L-moment, Kurtosis, Kruskal–Wallis one-way analysis of variance, Kriging, Kolmogorov–Smirnov test, Kendall tau rank correlation coefficient, Kaplan–Meier estimator, John Tukey, Jarque–Bera test, Isotonic regression, Interquartile range, Index of dispersion, Homoscedasticity, Histogram, Heteroscedasticity, Harmonic mean, Grouped data, Graphical model, Granger causality, Goodness of fit, Geostatistics, Geometric mean, Geographic information system, Generalized linear model, General linear model, G-test, Frequentist inference, Frequency domain, Frequency distribution, Fourier analysis, Forest plot, Fan chart (statistics), Failure rate, Factorial experiment, Factor analysis, F-test, Exponential smoothing, Exponential family, Exploratory data analysis, Experiment, Estimator, Errors and residuals in statistics, Epidemiology, Environmental statistics, Engineering statistics, Empirical distribution function, Efficiency (statistics), Effect size, Econometrics, Durbin–Watson statistic, Design of experiments, Descriptive statistics, Density estimation, Demographic statistics, Degrees of freedom (statistics), Decomposition of time series, Data collection, Cross-correlation, Crime statistics, Credible interval, Count data, Correlogram, Correlation and dependence, Copula (probability theory), Control chart, Continuous probability distribution, Contingency table, Confounding, Confidence interval, Completeness (statistics), Cointegration, Cohen's kappa, Coefficient of variation, Coefficient of determination, Cluster sampling, Cluster analysis, Clinical trial, Clinical study design, Chi-square test, Chemometrics, Census, Categorical variable, Cartography, Breusch–Godfrey test, Box–Jenkins, Box plot, Bootstrapping (statistics), Blocking (statistics), Biplot, Biostatistics, Bioinformatics, Binomial regression, Bias of an estimator, Bayesian probability, Bayesian linear regression, Bayesian inference, Bayes factor, Bayes estimator, Bar chart, Autoregressive–moving-average model, Autoregressive conditional heteroskedasticity, Autocorrelation, Asymptotic theory (statistics), Arithmetic mean, Anderson–Darling test, Analysis of variance, Analysis of covariance, Akaike information criterion, Actuarial science, Accelerated failure time model
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Inverse of Functions: Trigonometric functions, Reflection (mathematics), Multiplicative inverse, Mathematics, Inverse trigonometric functions, Inverse trigonometric function, Inverse function theorem, Function (mathematics), Continuous function, Chain rule, Calculus
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Evaluating algebraic expressions: Special functions, Mathematics, Functional programming, Function (mathematics), Algebraic expression, Algebraic closure
-Geometry &amp; Trigonometry|Transformations|Translations: Old Testament, Christianity
-Data Analysis, Probability, &amp; Statistics|Data Representation|Line graph: Mathematical Reviews, Intersection graph, Hypergraph, Discrete Mathematics (journal), Diamond graph, Clique (graph theory)
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Domain and Range: Trigonometric functions, Surjective function, Surjective, Subset, Square root, Smooth function, Single-valued function, Several complex variables, Set theory, Set (mathematics), Sequence, Retract (category theory), Restriction (mathematics), Real-valued function, Real number, Rational function, Range (mathematics), Polynomial, Partial function, Natural logarithm, Multivalued function, Multiplicative inverse, Multiplication, Morphism, Monotonic function, Measurable function, Mathematics, Map (mathematics), Linear map, Lambda calculus, John Wiley & Sons, Inverse function, Integer-valued function, Integer, Injective function, Indecomposability, Implicit function, Image (mathematics), Identity function, Horizontal line test, Homomorphism, Function space, Function of several real variables, Function of a real variable, Function of a complex variable, Function composition, Function (mathematics), Formula, Finite set, Fiber (mathematics), Encyclopedia of Mathematics, Element (mathematics), Domain of a function, Continuous function, Constructive mathematics, Constant function, Composition of functions, Complex-valued function, Codomain, Category theory, Category of sets, Cartesian plane, Boolean-valued function, Boolean function, Bijective function, Bijective, Bijection, Axiom of choice, Analytic function, Algebraic function, Addition
-Geometry &amp; Trigonometry|Coordinate and Analytic Geometry|Cartesian Coordinate Plane: Vertical direction, Versor, Units of measurement, Unit vectors, Unit length, Unit hyperbola, Unit circle, Tuple, Transpose, Translation (geometry), Toroidal coordinates, Time, Thumb, Subscript, Spherical coordinates, Spherical coordinate system, Space (mathematics), Sign (mathematics), Shear mapping, Rotation matrix, Rotation (mathematics), Rotation (geometry), Roman numeral, Right-hand rule, Right hand rule, René Descartes, Relation (mathematics), Reflection (mathematics), Record (computer science), Real number, Real n-space, Quaternion, Quadrant (plane geometry), Pythagoras's theorem, Prolate spheroidal coordinates, Prime Meridian, Pressure, Positive and negative numbers, Polar coordinate system, Point (geometry), PlanetMath, Plane (geometry), Pierre de Fermat, Physics, Philosopher, Philip M. Morse, Perspective (graphical), Perpendicular, Paraboloidal coordinates, Parabolic cylindrical coordinates, Parabolic coordinates, Orthogonal projection, Orthogonal coordinates, Orthogonal coordinate system, Orthogonal, Orthant, Origin (mathematics), Orientation (mathematics), Ordinate, Ordered pair, Octant (solid geometry), Oblate spheroidal coordinates, OCLC, Number line, Number, Nicole Oresme, Middle finger, Matrix (mathematics), Mathematician, Linear algebra, Line (geometry), Library of Congress Control Number, Latinisation (literature), Latin, La Géométrie, Jones diagram, Isaac Newton, Index finger, Imaginary unit, Image processing, If and only if, Identity matrix, Hyperplane, Horizontal plane, Horizontal and vertical, Herman Feshbach, Henry Margenau, Half-space (geometry), Group theory, Graph of a function, Gottfried Wilhelm Leibniz, Glide reflection, Frans van Schooten, Euclidean vector, Euclidean transformation, Euclidean space, Euclidean plane isometry, Euclidean plane, Euclidean geometry, Euclidean distance, Equations, Engineering, Elliptic cylindrical coordinates, Elliptic coordinates, Ellipsoidal coordinates, Display buffer, Dimension (mathematics), Dimension, Differential geometry, Determinant, Dauphin of France, Cylindrical coordinates, Cylindrical coordinate system, Curve, Coordinate system, Coordinate rotations and reflections, Conical coordinates, Computer-aided geometric design, Computer programming, Computer graphics, Computational geometry, Complex number, Clockwise, Cartesian product, Calculus, Bispherical coordinates, Bipolar cylindrical coordinates, Bipolar coordinates, Bijective, Axes conventions, Astronomy, Array data type, Analytic geometry, Algebra, Affine transformation, Abscissa, 3D projection
-Geometry &amp; Trigonometry|Transformations|Reflections: Record producer, Record label, Music genre
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Relations and Functions: Mathematics, Binary relation
-Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Geometric Sequence: Series (mathematics), Mathematics, Harmonic series (mathematics), Geometric series, Divergent series, Derivative, Arithmetic progression, Alternating series
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Slope of a Line: Mathematics
-Geometry &amp; Trigonometry|Coordinate and Analytic Geometry|Distance Formula: Vector (geometry), Pythagorean theorem, Non-Euclidean geometry, Circle, Cartesian coordinate system
-Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Series: CSI: NY, CSI: Miami, CSI: Crime Scene Investigation
-Data Analysis, Probability, &amp; Statistics|Probability|Outcomes and Events: Venn diagram, Uncountably infinite, Tree diagram (probability theory), Sigma-algebra, Set (mathematics), Sample space, Real numbers, Random variable, Probability theory, Probability space, Probability measure, Probability axioms, Probability, Prentice Hall, Power set, Playing card, Mutually exclusive events, Measure theory, Marginal distribution, Law of total probability, Law of large numbers, Joint probability distribution, Independence (probability theory), Experiment (probability theory), Elementary event, Conditional probability, Conditional independence, Complementary event, Boole's inequality, Bayes' theorem
-Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Surface Area: Surface-area-to-volume ratio
-Algebra|Exponents, Radicals, and Logarithmic Equations &amp; Functions|Imaginary and complex numbers: William Rowan Hamilton, Unit complex number, Transcendental number, Surreal number, Superreal number, Supernatural numbers, Square root, Square (algebra), Split-complex number, Sedenion, Root of unity, Root of a function, Ring of periods, René Descartes, Real number, Rational number, Rafael Bombelli, Quotient ring, Quaternion, Principal value, Polynomial ring, Polynomial, P-adic number, Ordinal number, Octonion, Number line, Number, Nth root, Natural number, Multivalued function, Multiplicative inverse, Matrix (mathematics), List of types of numbers, Levi-Civita field, Leonhard Euler, Isomorphism, Irrational number, Integer, Imaginary unit, Imaginary number, Identity matrix, Hyperreal number, Hypercomplex number, Gerolamo Cardano, Fundamental theorem of algebra, Euler's formula, Electrical engineering, Electric current, Dual number, De Moivre's formula, Countable set, Constructible number, Computable number, Complex plane, Complex number, Complex logarithm, Complex function, Complex conjugate, Cayley–Dickson construction, Caspar Wessel, Cardinal number, Automorphism, Arithmetical set, Argument (complex analysis), Arg (mathematics), Algebraic number, Algebraic closure, Additive inverse, Absolute value, 2 × 2 real matrices
-Geometry &amp; Trigonometry|2-Dimensional Shapes|Circles: Tangent lines to circles, Tangent, Stereographic projection, Squaring the circle, Sphere, Radius, Proclus, Power of a point, Point (geometry), Perpendicular bisector, MathWorld, Line (geometry), Limiting case (mathematics), Incircle and excircles of a triangle, Geometry, Focus (geometry), Euclidean geometry, Euclid's Elements, Eric W. Weisstein, Ellipse, Eccentricity (mathematics), Conic section, Circle, Cartesian coordinate system, C. Stanley Ogilvy, Archimedes, Apollonius of Perga, Annulus (mathematics), Angle bisector theorem
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Piecewise Functions: Spline (mathematics), Piecewise linear function, PDIFF, Mathematics, Function (mathematics), Continuous function, Absolute value
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Dividing Polynomials: Rational root theorem, Quartic function, Polynomial, Mathematics, Ideal (ring theory), Degree of a polynomial, Algorithm
-Geometry &amp; Trigonometry|Angles|Angles formed by parallel lines and a transversal: Proclus, Playfair's axiom, Plane (geometry), Parallel postulate, Parallel lines, Line (geometry), Geometry, Euclid, Congruence (geometry)
-Geometry &amp; Trigonometry|2-Dimensional Shapes|Area: White (U.S. Census), United States Census Bureau, Race (United States Census), Per capita income, Pacific Islander (U.S. Census), Native American (U.S. Census), Latino (U.S. Census), Hispanic (U.S. Census), Comma-separated values, Census-designated place, Census, Asian (U.S. Census), African American (U.S. Census)
-Numbers &amp; Computation|Multiplication and Division|Multiplication and Division with Negative Numbers: Transcendental number, Total order, Surreal number, Superreal number, Supernatural numbers, Subtraction, Split-complex number, Sign function, Sedenion, Ring of periods, Ring (mathematics), Real numbers, Real number, Rational number, Quaternion, Quadratic equation, Princeton University Press, P-adic number, Ordinal number, Octonion, Number line, Number, Natural number, List of types of numbers, Levi-Civita field, Irrational number, Integer, India, Hyperreal number, Hypercomplex number, Exponentiation, Dual number, Division (mathematics), Distributive law, Countable set, Constructible number, Computable number, Complex number, Coefficient, Cayley–Dickson construction, Cardinal number, Brahmagupta, Arithmetical set, Algebraic number, Additive inverse, Addition, Absolute value, 0 (number)
-Numbers &amp; Computation|Number Concepts|Absolute Value: Zentralblatt MATH, Valuation (algebra), Ultrametric, Real number, Norm (mathematics), Mathematics, Field (mathematics), Encyclopedia of Mathematics, Absolute value (disambiguation), Absolute value
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Factoring Quadratics: Unique factorization domain, Real number, Rational number, Quadratic polynomial, Quadratic formula, Quadratic equation, Prime number, Polynomial factorization, Polynomial, PlanetMath, Mathematics, Irreducible polynomial, Integer, Fundamental theorem of algebra, Function (mathematics), Field (mathematics), Factorization of polynomials, Discriminant, Degree of a polynomial, Cubic function, Computer algebra system, Complex number, Algorithm
-Numbers &amp; Computation|Multiplication and Division|Square Roots: Taylor series, Square root of a matrix, Square root of 5, Square root of 3, Square root of 2, Square root, Square number, Slide rule, Shifting nth root algorithm, Real number, Rate of convergence, Quadratic irrational, Quadratic integer, Periodic continued fraction, Newton's method, Natural number, Natural logarithm, Methods of computing square roots, Integer square root, Inequality of arithmetic and geometric means, Imaginary unit, Hero of Alexandria, Geometric mean, Generalized continued fraction, Exponentiation, Continued fraction, Complex number, Absolute value
-Algebra|Radicals|Simplifying radical expressions: Nth root
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Operations on Functions: Zentralblatt MATH, Vector space, Unary operation, Truth value, Real number, Plane (mathematics), Multiplication, Mathematics, Mathematical Reviews, Intersection (set theory), Identity function, Function composition, Function (mathematics), Encyclopedia of Mathematics, Complex number, Binary operation, Absolute value
-Data Analysis, Probability, &amp; Statistics|Probability|Combinations: Ń, Z, Y, X, W, V, U, T, S, Roman numerals, R, Q, Punctuation, Palaeography, P, O, N, M, List of Latin-script letters, Latin script in Unicode, Latin alphabets, L, K, J, ISO/IEC 646, ISO basic Latin alphabet, I, History of the Latin alphabet, H, G, F, E, Diacritic, D, C, B, A
-Algebra|Rational Expressions, Equations &amp; Functions|Operations with Rational Expressions: Variable (mathematics), Trigonometric functions, Term (logic), Subtraction, Square root, Special functions, Series (mathematics), Rational expression, Polynomial expression, Operation (mathematics), Multiplication, Mathematics, Mathematical constant, MathWorld, Logarithm, Limit (mathematics), Inverse trigonometric functions, Inverse hyperbolic function, Integral, Hyperbolic function, Gamma function, Function (mathematics), Formal power series, Factorial, Expression (mathematics), Exponentiation, Eric W. Weisstein, Equation, Elementary arithmetic, Division (mathematics), Differential (mathematics), Continued fraction, Constant (mathematics), Closed-form expression, Bessel function, Arithmetic expression, Arithmetic, Analytical expression, Algebraic expression, Algebra, Addition
-Data Analysis, Probability, &amp; Statistics|Probability|Permutations: Well-defined, Symmetric group, Subgroup, Permutation matrix, Permutation, Mathematics, Cycle notation, Coxeter group, Bijection
-Geometry &amp; Trigonometry|Angles|Complementary Angles: Triangle, Supplementary angles, Polytope, Polyhedron, Polygon, Geometry, Dihedral angle, Complementary angles, Astronomy, Angle
-Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Prism: Volume, Uniform polyhedron, Truncated trapezohedron, Truncated tetrahedron, Truncated octahedron, Truncated icosidodecahedron, Truncated icosahedron, Truncated dodecahedron, Truncated cuboctahedron, Truncated cube, Triangular prism, Triakis tetrahedron, Triakis octahedron, Triakis icosahedron, Trapezohedron, Tetrakis hexahedron, Tetrahedron, Square (geometry), Square, Snub dodecahedron, Snub cube, Semiregular polyhedron, Schläfli symbol, Rhombicuboctahedron, Rhombicosidodecahedron, Rhombic triacontahedron, Rhombic dodecahedron, Regular polyhedron, Regular polygon, Rectangle, Pyramid (geometry), Prism (geometry), Polytope, Polyhedron, Polychoron, Platonic solid, Pentakis dodecahedron, Pentagonal prism, Pentagonal icositetrahedron, Pentagonal hexecontahedron, Pentagon, Parallelepiped, Octahedron, Octagonal prism, MathWorld, List of spherical symmetry groups, Icosidodecahedron, Icosahedron, Hosohedron, Hexagonal prism, Heptagonal prism, Gyroelongated bipyramid, George Olshevsky, Geometry, Frustum, Face (geometry), Eric W. Weisstein, Duoprism, Dual polyhedron, Dodecahedron, Disdyakis triacontahedron, Disdyakis dodecahedron, Dihedron, Deltoidal icositetrahedron, Deltoidal hexecontahedron, Cupola (geometry), Cuboctahedron, Cube, Coxeter-Dynkin diagram, Coxeter diagram, Congruence (geometry), Catalan solid, Bipyramid, Bicupola (geometry), Archimedean solid, Antiprism
-Geometry &amp; Trigonometry|Angles|Supplementary Angles: Vertex (geometry), Triangle, Supplementary angles, Right angle, Radian, Proof by contradiction, Proclus, Polygon, Point (geometry), Playfair's axiom, Plane (geometry), Parallel postulate, Parallel (geometry), Menelaus' theorem, Line (mathematics), Geometry, Euclid, Degree (angle), Congruence (geometry), Complementary angles, Angle
-Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Rates: United Kingdom, Property tax, Domestic rates in Northern Ireland, Council Tax, Business rates in Scotland, Business rates in Northern Ireland, Business rates in England and Wales
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Systems of Linear Equations &amp; Inequalities: Physics, International Standard Serial Number, Continuous function, Chaos theory, Amplifier
-Geometry &amp; Trigonometry|Trigonometric Functions|Sine, Cosine, and Tangent: Versine, Uses of trigonometry, Unit circle, Trigonometry, Trigonometric tables, Trigonometric substitution, Trigonometric identity, Trigonometric functions, Triangle, Taylor series, Sine, Right triangle, Real number, Rational number, Ratio, Radian, Pythagorean theorem, Ptolemy's theorem, Ptolemy's table of chords, Ptolemy, Proofs of trigonometric identities, Pi, Outline of trigonometry, Niven's theorem, Mathematics, MathWorld, List of trigonometric identities, List of integrals of trigonometric functions, List of integrals of inverse trigonometric functions, Leonhard Euler, Law of tangents, Law of sines, Law of cotangents, Law of cosines, Inverse trigonometric functions, Inverse function, Integral, Hypotenuse, Hyperbolic function, History of trigonometry, Golden ratio, Generating trigonometric tables, Generalized trigonometry, Exsecant, Exact trigonometric constants, Euler's formula, Eric W. Weisstein, Differentiation of trigonometric functions, Differential equation, Derivative, Degree (angle), Cosine, Complex number, Chord (geometry), Calculus, Angle, Abramowitz and Stegun
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Adding and Subtracting Polynomials: Polynomial, Algebra
-Data Analysis, Probability, &amp; Statistics|Data Representation|Venn diagram: Venn diagram, Statistics, Set theory, Schematic, Randolph diagram, Probability, Logic, Formal language, Euler diagram, Computer science
-Numbers &amp; Computation|Number Concepts|Real Numbers: Unit interval, Uncountable set, Transcendental number, Total order, Topology, Surreal number, Supremum, Superreal number, Supernatural numbers, Subset, Split-complex number, Set (mathematics), Sedenion, Ring of periods, Real projective line, Real number, Real line, Real analysis, Rational number, Quaternion, P-adic number, Ordinal number, Order topology, Octonion, Number, Natural number, Measure (mathematics), Mathematics, List of types of numbers, Levi-Civita field, Irrational number, Integer, Infimum, Hyperreal number, Hypercomplex number, Homeomorphism, Field (mathematics), Exponential function, Dual number, Dimension, Countable set, Contractible, Continuous function, Constructible number, Computable number, Complex number, Complete lattice, Compact space, Cayley–Dickson construction, Cardinality of the continuum, Cardinal number, Calculus, Arithmetical set, Algebraic number, Absolute value
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Factoring polynomials: Up to, Unique factorization domain, Rational root theorem, Quartic function, Primitive polynomial (ring theory), Polynomial ring, Polynomial, Multivariate polynomial, Mathematics, International Standard Serial Number, Greatest common divisor, Gauss's lemma (polynomial), Fundamental theorem of algebra, Finitely generated field extension, Field of reals, Field (mathematics), Factorization of polynomials over finite fields, Degree of a polynomial, Cubic function, Computer algebra system, Complex number, Algorithm
-Data Analysis, Probability, &amp; Statistics|Data Analysis &amp; Statistics|Samples and Populations: Z-test, Wilcoxon signed-rank test, Wavelet, Wald test, Vector autoregression, Variance, U-statistic, Trend estimation, Time series, Time domain, System identification, Survival function, Survival analysis, Survey methodology, Sufficient statistic, Student's t-test, Stratified sampling, Stem-and-leaf display, Statistics, Statistical theory, Statistical process control, Statistical power, Statistical population, Statistical inference, Statistical hypothesis testing, Statistical graphics, Statistical dispersion, Statistical classification, Stationary process, Standard error, Standard deviation, Spectral density estimation, Spearman's rank correlation coefficient, Spatial analysis, Social statistics, Skewness, Simultaneous equations model, Simple linear regression, Shapiro–Wilk test, Semiparametric regression, Seasonal adjustment, Score test, Scatter plot, Scan statistic, Sampling distribution, Sampling (statistics), Sample size determination, Run chart, Robust statistics, Robust regression, Replication (statistics), Reliability engineering, Regression model validation, Regression analysis, Record value, Rank statistics, Rank correlation, Range (statistics), Randomized experiment, Randomization test, Random assignment, Radar chart, Q–Q plot, Questionnaire, Quasi-experiment, Quality control, Psychometrics, Proportional hazards model, Probability distribution, Probabilistic design, Prior probability, Principal component analysis, Power (statistics), Posterior probability, Poisson regression, Pie chart, Permutation test, Percentile, Pearson product-moment correlation coefficient, Partition of sums of squares, Partial correlation, Partial autocorrelation function, Parametric statistics, Outline of statistics, Ordinary least squares, Order statistic, Optimal design, Opinion poll, Official statistics, Observational study, Normal distribution, Nonparametric regression, Nonlinear regression, Natural experiment, National accounts, Multivariate statistics, Multivariate analysis of variance, Multivariate adaptive regression splines, Moment (mathematics), Mode (statistics), Mixed model, Minimum-variance unbiased estimator, Minimum distance estimation, Methods engineering, Method of moments (statistics), Medical statistics, Median-unbiased estimator, Median, Mean, McNemar's test, Maximum likelihood, Maximum a posteriori estimation, Mann–Whitney U test, Logistic regression, Log-rank test, Location parameter, Ljung–Box test, List of statistics articles, List of fields of application of statistics, Linear regression, Likelihood-ratio test, L-moment, Kurtosis, Kruskal–Wallis one-way analysis of variance, Kriging, Kolmogorov–Smirnov test, Kendall tau rank correlation coefficient, Kaplan–Meier estimator, Jarque–Bera test, Isotonic regression, Interquartile range, Index of dispersion, Homoscedasticity, Histogram, Heteroscedasticity, Harmonic mean, Grouped data, Graphical model, Granger causality, Goodness of fit, Geostatistics, Geometric mean, Geographic information system, Generalized linear model, General linear model, G-test, Frequentist inference, Frequency domain, Frequency distribution, Fourier analysis, Forest plot, Fan chart (statistics), Failure rate, Factorial experiment, Factor analysis, F-test, Exponential smoothing, Exponential family, Experiment, Estimator, Errors and residuals in statistics, Epidemiology, Environmental statistics, Engineering statistics, Empirical distribution function, Efficiency (statistics), Effect size, Econometrics, Durbin–Watson statistic, Design of experiments, Descriptive statistics, Density estimation, Demographic statistics, Degrees of freedom (statistics), Decomposition of time series, Data collection, Cross-correlation, Crime statistics, Credible interval, Count data, Correlogram, Correlation and dependence, Copula (probability theory), Control chart, Continuous probability distribution, Contingency table, Confounding, Confidence interval, Completeness (statistics), Cointegration, Cohen's kappa, Coefficient of variation, Coefficient of determination, Cluster sampling, Cluster analysis, Clinical trial, Clinical study design, Chi-square test, Chemometrics, Census, Categorical variable, Cartography, Breusch–Godfrey test, Box–Jenkins, Box plot, Bootstrapping (statistics), Blocking (statistics), Biplot, Biostatistics, Bioinformatics, Binomial regression, Bias of an estimator, Bayesian probability, Bayesian linear regression, Bayesian inference, Bayes factor, Bayes estimator, Bar chart, Autoregressive–moving-average model, Autoregressive conditional heteroskedasticity, Autocorrelation, Asymptotic theory (statistics), Arithmetic mean, Anderson–Darling test, Analysis of variance, Analysis of covariance, Akaike information criterion, Actuarial science, Accelerated failure time model
-Algebra|Radicals|Solving and analyzing radical functions: Évariste Galois, Viète's formulas, Serge Lang, Root of a function, Rational number, Rational function, Quadratic equation, Niels Henrik Abel, Niccolò Fontana Tartaglia, Monic polynomial, Mathematics, Lodovico Ferrari, Group theory, Gerolamo Cardano, Finite field, Field (mathematics), Encyclopedia of Mathematics, Economics, Complex number, Cambridge University Press, Bartel Leendert van der Waerden, Analogy, Algebraic geometry, Algebraic equation, Abstraction, Abstract algebra, Abel–Ruffini theorem
-Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Recursive Sequence: Time series analysis, Mathematics, MathWorld, Function (mathematics), Eric W. Weisstein, Continued fraction, Chaos theory
-Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Cylinder: Wikisource, Volume, Tycho Brahe Planetarium, Triangular prism, Surface area, Surface, Steinmetz solid, Spherical coordinate system, Semi-major axis, Ruled surface, Rotation matrix, Riemann sums, Regular polygon, Radius, Quadric surface, Quadric, Punctured plane, Projective geometry, Prism (geometry), Polyhedron, Plücker conoid, Peter Lax, Pentagonal prism, Parabola, Octagonal prism, List of spherical symmetry groups, Line segment, Infinity, Hyperbola, Homeomorphism, Hexagonal prism, Heptagonal prism, Hendecagonal prism, Greek language, Formula, Enneagonal prism, Encyclopædia Britannica Eleventh Edition, Ellipse, Eccentricity (mathematics), Dual polyhedron, Dodecagonal prism, Differential geometry, Diameter, Degenerate conic, Decagonal prism, Cylindrical coordinate system, Cylindrical conic, Cube, Cross section (geometry), Cone (geometry), Cartesian coordinates, Bipyramid, Bicone, Apex (geometry), Annulus (mathematics)
-Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Sphere: Topology, Topological manifold, Spherical coordinates, Rotation group SO(3), Longitude, Latitude, Great circle, Geometry, Gaussian curvature, Equator, Compact space
-Data Analysis, Probability, &amp; Statistics|Data Representation|Circle graph: Treewidth, Tree (graph theory), String graph, Outerplanar graph, Interval graph, Graph theory, Girth (graph theory), Circle, Chordal graph
-Geometry &amp; Trigonometry|Transformations|Rotations: Vector space, Subgroup, Special orthogonal group, Reflection (mathematics), Quaternions and spatial rotation, Quaternion, Plane of rotation, Orthogonal matrix, Orthogonal group, Orthogonal, Orientation (vector space), Lorentz group, Lie group, Isomorphic, Isometry, Inverse function, Identity matrix, Group (mathematics), Euclidean space, Determinant
+Geometry &amp; Trigonometry|2-Dimensional Shapes|Perimeter:
+	http://en.wikipedia.org/wiki/Perimeter: 23636
+
+Geometry &amp; Trigonometry|Polygons|Congruent Figures and Similar Figures:
+	http://en.wikipedia.org/wiki/Angle: 1196
+	http://en.wikipedia.org/wiki/Area: 1209
+	http://en.wikipedia.org/wiki/Hyperbolic_geometry: 241291
+	http://en.wikipedia.org/wiki/Eccentricity_(mathematics): 1239472
+	http://en.wikipedia.org/wiki/Spherical_geometry: 174026
+	http://en.wikipedia.org/wiki/Similarity_(geometry): 39377
+	http://en.wikipedia.org/wiki/Translation_(geometry): 204682
+	http://en.wikipedia.org/wiki/Euclidean_plane_isometry: 1989599
+	http://en.wikipedia.org/wiki/Theorem: 30977
+	http://en.wikipedia.org/wiki/Corresponding_sides_and_corresponding_angles: 3407326
+	http://en.wikipedia.org/wiki/Circle: 6220
+	http://en.wikipedia.org/wiki/Solution_of_triangles: 22228915
+	http://en.wikipedia.org/wiki/Triangle: 30654
+	http://en.wikipedia.org/wiki/Parabola: 23231
+	http://en.wikipedia.org/wiki/Edge_(geometry): 12158034
+	http://en.wikipedia.org/wiki/Distance: 39378
+	http://en.wikipedia.org/wiki/Euclidean_distance: 53932
+	http://en.wikipedia.org/wiki/Euclidean_group: 652164
+	http://en.wikipedia.org/wiki/Geometry: 18973446
+	http://en.wikipedia.org/wiki/Euclidean_geometry: 9417
+	http://en.wikipedia.org/wiki/Euclidean_space: 9697
+	http://en.wikipedia.org/wiki/Reflection_(mathematics): 295829
+	http://en.wikipedia.org/wiki/Congruence_(geometry): 39330
+	http://en.wikipedia.org/wiki/Shape: 169191
+	http://en.wikipedia.org/wiki/American_Mathematical_Monthly: 1179483
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Absolute Value Equations and Inequalities:
+	http://en.wikipedia.org/wiki/Norm_(mathematics): 990534
+	http://en.wikipedia.org/wiki/Encyclopedia_of_Mathematics: 4647594
+	http://en.wikipedia.org/wiki/Triangle_inequality: 53941
+	http://en.wikipedia.org/wiki/Continuous_function: 6122
+	http://en.wikipedia.org/wiki/Euclidean_space: 9697
+	http://en.wikipedia.org/wiki/Derivative: 7921
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Inner_product_space: 14856
+	http://en.wikipedia.org/wiki/Pythagorean_theorem: 26513034
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Equation of a Line:
+	http://en.wikipedia.org/wiki/Slope: 29368
+	http://en.wikipedia.org/wiki/Field_(mathematics): 10603
+	http://en.wikipedia.org/wiki/Determinant: 8468
+	http://en.wikipedia.org/wiki/Encyclopedia_of_Mathematics: 4647594
+	http://en.wikipedia.org/wiki/Scalar_(mathematics): 3588331
+	http://en.wikipedia.org/wiki/Three-dimensional_space: 3054853
+	http://en.wikipedia.org/wiki/Affine_space: 298834
+	http://en.wikipedia.org/wiki/Linear_equation: 17570
+	http://en.wikipedia.org/wiki/Line_(geometry): 946975
+	http://en.wikipedia.org/wiki/Coefficient: 51203
+	http://en.wikipedia.org/wiki/Cartesian_coordinate_system: 7706
+	http://en.wikipedia.org/wiki/Euclidean_space: 9697
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/Polynomial: 23000
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+
+Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Multiplying Polynomials:
+	http://en.wikipedia.org/wiki/Polynomial: 23000
+
+Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Ratios:
+	http://en.wikipedia.org/wiki/Dyadic_rational: 56263
+	http://en.wikipedia.org/wiki/Continued_fraction: 46802
+	http://en.wikipedia.org/wiki/Ratio: 87837
+	http://en.wikipedia.org/wiki/Divisor: 49492
+	http://en.wikipedia.org/wiki/Egyptian_fraction: 336349
+	http://en.wikipedia.org/wiki/Reduction_(mathematics): 1033865
+	http://en.wikipedia.org/wiki/Lowest_common_denominator: 378200
+	http://en.wikipedia.org/wiki/Interval_(music): 49171
+	http://en.wikipedia.org/wiki/Fraction_(mathematics): 1704824
+	http://en.wikipedia.org/wiki/Irreducible_fraction: 14822
+	http://en.wikipedia.org/wiki/Algebraic_fraction: 8559560
+	http://en.wikipedia.org/wiki/Decimal: 8214
+	http://en.wikipedia.org/wiki/Aspect_ratio: 1021
+	http://en.wikipedia.org/wiki/Golden_ratio: 12386
+	http://en.wikipedia.org/wiki/Division_(mathematics): 53696
+	http://en.wikipedia.org/wiki/Integer: 14563
+	http://en.wikipedia.org/wiki/Percentage: 64493
+	http://en.wikipedia.org/wiki/Standard-definition_television: 27767
+	http://en.wikipedia.org/wiki/Unit_fraction: 491316
+	http://en.wikipedia.org/wiki/Silver_ratio: 920526
+	http://en.wikipedia.org/wiki/Quotient: 332640
+
+Algebra|Simplifying Exponents:
+	http://en.wikipedia.org/wiki/Leonhard_Euler: 17902
+	http://en.wikipedia.org/wiki/Exponentiation: 99491
+	http://en.wikipedia.org/wiki/Addition: 61338
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/Graph_of_a_function: 87352
+	http://en.wikipedia.org/wiki/Perl: 23939
+	http://en.wikipedia.org/wiki/Differential_geometry: 8625
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Pi: 23601
+	http://en.wikipedia.org/wiki/Asymptote: 3107
+	http://en.wikipedia.org/wiki/Calculus: 5176
+	http://en.wikipedia.org/wiki/Commutative_property: 294390
+	http://en.wikipedia.org/wiki/Cartesian_coordinate_system: 7706
+	http://en.wikipedia.org/wiki/Nth_root: 235029
+	http://en.wikipedia.org/wiki/Mathematical_analysis: 48396
+	http://en.wikipedia.org/wiki/Subtraction: 74141
+	http://en.wikipedia.org/wiki/Multiplication: 20845
+	http://en.wikipedia.org/wiki/Integer: 14563
+	http://en.wikipedia.org/wiki/Logarithm: 17860
+	http://en.wikipedia.org/wiki/Information_theory: 14773
+	http://en.wikipedia.org/wiki/Expression_(mathematics): 609125
+	http://en.wikipedia.org/wiki/John_Wiley_%26_Sons: 537930
+	http://en.wikipedia.org/wiki/Coordinate_system: 81931
+	http://en.wikipedia.org/wiki/Probability_theory: 23542
+	http://en.wikipedia.org/wiki/Number_theory: 21527
+	http://en.wikipedia.org/wiki/Exponentiation: 99491
+	http://en.wikipedia.org/wiki/Pure_mathematics: 457210
+	http://en.wikipedia.org/wiki/Number: 21690
+	http://en.wikipedia.org/wiki/Division_(mathematics): 53696
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+	http://en.wikipedia.org/wiki/Algebraic_geometry: 1997
+
+Algebra|Radicals|Operations with radical expressions:
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+
+Algebra|Rational Expressions, Equations &amp; Functions|Domain of Rational Functions:
+	http://en.wikipedia.org/wiki/Polynomial: 23000
+	http://en.wikipedia.org/wiki/Numerical_analysis: 21506
+	http://en.wikipedia.org/wiki/Interpolation: 14569
+	http://en.wikipedia.org/wiki/Constant_function: 320861
+	http://en.wikipedia.org/wiki/Rational_function: 361210
+
+Algebra|Matrix Algebra|Properties of Matrices:
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Matrix_(mathematics): 20556859
+	http://en.wikipedia.org/wiki/Linear_algebra: 18422
+
+Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Arithmetic Sequence:
+	http://en.wikipedia.org/wiki/1_%E2%88%92_2_%2B_4_%E2%88%92_8_%2B_%E2%8B%AF: 9939158
+	http://en.wikipedia.org/wiki/Geometric_progression: 23474670
+	http://en.wikipedia.org/wiki/Encyclopedia_of_Mathematics: 4647594
+	http://en.wikipedia.org/wiki/MathWorld: 374235
+	http://en.wikipedia.org/wiki/Arithmetic_progression: 168389
+	http://en.wikipedia.org/wiki/Generalized_hypergeometric_function: 361184
+	http://en.wikipedia.org/wiki/1_%E2%88%92_1_%2B_2_%E2%88%92_6_%2B_24_%E2%88%92_120_%2B_...: 34659370
+	http://en.wikipedia.org/wiki/Riemann%27s_differential_equation: 2071666
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Hypergeometric_function_of_a_matrix_argument: 8664461
+	http://en.wikipedia.org/wiki/Hypergeometric_function: 2055223
+	http://en.wikipedia.org/wiki/Cube_(algebra): 451445
+	http://en.wikipedia.org/wiki/Power_of_two: 376948
+	http://en.wikipedia.org/wiki/Square_number: 213919
+	http://en.wikipedia.org/wiki/Factorial: 10606
+	http://en.wikipedia.org/wiki/1/4_%2B_1/16_%2B_1/64_%2B_1/256_%2B_%E2%8B%AF: 10073845
+	http://en.wikipedia.org/wiki/Arithmetico-geometric_sequence: 37668047
+	http://en.wikipedia.org/wiki/Heptagonal_number: 509019
+	http://en.wikipedia.org/wiki/Figurate_number: 325260
+	http://en.wikipedia.org/wiki/Pell_number: 1355482
+	http://en.wikipedia.org/wiki/List_of_OEIS_sequences: 36473908
+	http://en.wikipedia.org/wiki/Periodic_sequence: 810250
+	http://en.wikipedia.org/wiki/Fibonacci_number: 10918
+	http://en.wikipedia.org/wiki/1_%E2%88%92_2_%2B_3_%E2%88%92_4_%2B_%E2%8B%AF: 9702578
+	http://en.wikipedia.org/wiki/1_%2B_2_%2B_4_%2B_8_%2B_%E2%8B%AF: 9552145
+	http://en.wikipedia.org/wiki/Eric_W._Weisstein: 836189
+	http://en.wikipedia.org/wiki/Divergent_series: 876428
+	http://en.wikipedia.org/wiki/1/2_%E2%88%92_1/4_%2B_1/8_%E2%88%92_1/16_%2B_%E2%8B%AF: 9944002
+	http://en.wikipedia.org/wiki/Polygonal_number: 213996
+	http://en.wikipedia.org/wiki/Pentagonal_number: 504786
+	http://en.wikipedia.org/wiki/Series_(mathematics): 15287
+	http://en.wikipedia.org/wiki/Lauricella_hypergeometric_series: 4016820
+	http://en.wikipedia.org/wiki/Triangular_number: 213915
+	http://en.wikipedia.org/wiki/Hexagonal_number: 494013
+	http://en.wikipedia.org/wiki/1/2_%2B_1/4_%2B_1/8_%2B_1/16_%2B_%E2%8B%AF: 10073693
+	http://en.wikipedia.org/wiki/Harmonic_progression_(mathematics): 24307466
+	http://en.wikipedia.org/wiki/Convergent_series: 1743431
+	http://en.wikipedia.org/wiki/Grandi%27s_series: 7830441
+	http://en.wikipedia.org/wiki/1_%2B_2_%2B_3_%2B_4_%2B_%E2%8B%AF: 9723822
+	http://en.wikipedia.org/wiki/Infinite_arithmetic_series: 9920776
+	http://en.wikipedia.org/wiki/Harmonic_series_(mathematics): 142488
+	http://en.wikipedia.org/wiki/Lucas_number: 398404
+	http://en.wikipedia.org/wiki/Complete_sequence: 28055142
+	http://en.wikipedia.org/wiki/Power_of_10: 1161104
+	http://en.wikipedia.org/wiki/Sequence: 27838
+	http://en.wikipedia.org/wiki/Number: 21690
+	http://en.wikipedia.org/wiki/Elliptic_hypergeometric_series: 19953217
+	http://en.wikipedia.org/wiki/Integer_sequence: 51421
+	http://en.wikipedia.org/wiki/Summation: 246160
+	http://en.wikipedia.org/wiki/Divergent_geometric_series: 9777020
+	http://en.wikipedia.org/wiki/Elliptic_hypergeometric_series: 19953217
+	http://en.wikipedia.org/wiki/1_%2B_1_%2B_1_%2B_1_%2B_%E2%8B%AF: 9929142
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Slope &amp; Equations of a line:
+	http://en.wikipedia.org/wiki/Ferrocene: 60710
+	http://en.wikipedia.org/wiki/Cyclic_voltammetry: 1101849
+	http://en.wikipedia.org/wiki/Randles%E2%80%93Sevcik_equation: 28290623
+	http://en.wikipedia.org/wiki/Faraday_constant: 58648
+	http://en.wikipedia.org/wiki/Ferrocenium_tetrafluoroborate: 23664837
+	http://en.wikipedia.org/wiki/Mass_diffusivity: 9808551
+
+Algebra|Rational Expressions, Equations &amp; Functions|Direct and Inverse Variation:
+	http://en.wikipedia.org/wiki/Inverse_relation: 3941020
+	http://en.wikipedia.org/wiki/Function_of_several_real_variables: 39783039
+	http://en.wikipedia.org/wiki/Function_of_several_real_variables: 39783039
+	http://en.wikipedia.org/wiki/If_and_only_if: 14922
+	http://en.wikipedia.org/wiki/Kepler%27s_equation: 32172638
+	http://en.wikipedia.org/wiki/Maxima_and_minima: 298420
+	http://en.wikipedia.org/wiki/Surjective_function: 27873
+	http://en.wikipedia.org/wiki/Section_(category_theory): 10630303
+	http://en.wikipedia.org/wiki/Inverse_functions_and_differentiation: 148064
+	http://en.wikipedia.org/wiki/Encyclopedia_of_Mathematics: 4647594
+	http://en.wikipedia.org/wiki/Axiom_of_choice: 840
+	http://en.wikipedia.org/wiki/Single-valued_function: 1954969
+	http://en.wikipedia.org/wiki/Boolean-valued_function: 2757237
+	http://en.wikipedia.org/wiki/Multiplication: 20845
+	http://en.wikipedia.org/wiki/Inverse_hyperbolic_function: 3804557
+	http://en.wikipedia.org/wiki/Sine: 5010838
+	http://en.wikipedia.org/wiki/Constant_function: 320861
+	http://en.wikipedia.org/wiki/Logarithm: 17860
+	http://en.wikipedia.org/wiki/Integer-valued_function: 39818965
+	http://en.wikipedia.org/wiki/Maxima_and_minima: 298420
+	http://en.wikipedia.org/wiki/Sign_(mathematics): 7951270
+	http://en.wikipedia.org/wiki/Square_root: 29208
+	http://en.wikipedia.org/wiki/Range_(mathematics): 275991
+	http://en.wikipedia.org/wiki/Several_complex_variables: 360243
+	http://en.wikipedia.org/wiki/Section_(category_theory): 10630303
+	http://en.wikipedia.org/wiki/Bijection: 3942
+	http://en.wikipedia.org/wiki/Morphism: 27716891
+	http://en.wikipedia.org/wiki/Lambda_calculus: 18203
+	http://en.wikipedia.org/wiki/Function_space: 340630
+	http://en.wikipedia.org/wiki/Exponentiation: 99491
+	http://en.wikipedia.org/wiki/Celsius: 19593040
+	http://en.wikipedia.org/wiki/Polynomial: 23000
+	http://en.wikipedia.org/wiki/Function_composition: 195947
+	http://en.wikipedia.org/wiki/Inverse_element: 45199
+	http://en.wikipedia.org/wiki/Cubic_function: 243709
+	http://en.wikipedia.org/wiki/Additive_inverse: 228312
+	http://en.wikipedia.org/wiki/Injective_function: 45196
+	http://en.wikipedia.org/wiki/Involution_(mathematics): 293450
+	http://en.wikipedia.org/wiki/Fahrenheit: 11524
+	http://en.wikipedia.org/wiki/Analytic_function: 61478
+	http://en.wikipedia.org/wiki/Formula: 164040
+	http://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant: 195351
+	http://en.wikipedia.org/wiki/Algebraic_function: 974169
+	http://en.wikipedia.org/wiki/Reflection_(mathematics): 295829
+	http://en.wikipedia.org/wiki/Smoothness: 1408000
+	http://en.wikipedia.org/wiki/Set_(mathematics): 26691
+	http://en.wikipedia.org/wiki/Principal_value: 408225
+	http://en.wikipedia.org/wiki/Real-valued_function: 22284647
+	http://en.wikipedia.org/wiki/Calculus: 5176
+	http://en.wikipedia.org/wiki/Function_of_a_real_variable: 1268958
+	http://en.wikipedia.org/wiki/Set_theory: 27553
+	http://en.wikipedia.org/wiki/Equation: 9284
+	http://en.wikipedia.org/wiki/Continuous_function: 6122
+	http://en.wikipedia.org/wiki/Image_(mathematics): 579311
+	http://en.wikipedia.org/wiki/Rational_function: 361210
+	http://en.wikipedia.org/wiki/Cube_root: 292506
+	http://en.wikipedia.org/wiki/Subscript_and_superscript: 12690616
+	http://en.wikipedia.org/wiki/Inverse_function: 14907
+	http://en.wikipedia.org/wiki/E_(mathematical_constant): 9633
+	http://en.wikipedia.org/wiki/Hyperbolic_function: 56567
+	http://en.wikipedia.org/wiki/%E2%88%921: 449568
+	http://en.wikipedia.org/wiki/Linear_map: 18102
+	http://en.wikipedia.org/wiki/Inverse_function_theorem: 287229
+	http://en.wikipedia.org/wiki/Indecomposability: 17422461
+	http://en.wikipedia.org/wiki/Principal_branch: 972441
+	http://en.wikipedia.org/wiki/Category_theory: 5869
+	http://en.wikipedia.org/wiki/Invertible_matrix: 217122
+	http://en.wikipedia.org/wiki/Boolean_function: 753349
+	http://en.wikipedia.org/wiki/Iterated_function: 1448702
+	http://en.wikipedia.org/wiki/Cube_(algebra): 451445
+	http://en.wikipedia.org/wiki/Monotonic_function: 48260
+	http://en.wikipedia.org/wiki/Invertible_matrix: 217122
+	http://en.wikipedia.org/wiki/Complex_analysis: 5759
+	http://en.wikipedia.org/wiki/Implicit_function: 250896
+	http://en.wikipedia.org/wiki/Inverse_trigonometric_functions: 374220
+	http://en.wikipedia.org/wiki/Addition: 61338
+	http://en.wikipedia.org/wiki/Subtraction: 74141
+	http://en.wikipedia.org/wiki/Measurable_function: 44055
+	http://en.wikipedia.org/wiki/Integer: 14563
+	http://en.wikipedia.org/wiki/Trigonometric_functions: 30367
+	http://en.wikipedia.org/wiki/Horizontal_line_test: 56874
+	http://en.wikipedia.org/wiki/Function_(mathematics): 185427
+	http://en.wikipedia.org/wiki/Lagrange_inversion_theorem: 94158
+	http://en.wikipedia.org/wiki/Level_set: 559622
+	http://en.wikipedia.org/wiki/Complex-valued_function: 4415007
+	http://en.wikipedia.org/wiki/Fiber_(mathematics): 6603892
+	http://en.wikipedia.org/wiki/Inverse_trigonometric_functions: 374220
+	http://en.wikipedia.org/wiki/Number: 21690
+	http://en.wikipedia.org/wiki/Archive: 316723
+	http://en.wikipedia.org/wiki/Division_(mathematics): 53696
+	http://en.wikipedia.org/wiki/Codomain: 50264
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+	http://en.wikipedia.org/wiki/Identity_function: 15069
+	http://en.wikipedia.org/wiki/Sine: 5010838
+	http://en.wikipedia.org/wiki/Singleton_(mathematics): 381798
+	http://en.wikipedia.org/wiki/Natural_logarithm: 21476
+	http://en.wikipedia.org/wiki/Uniqueness_quantification: 276894
+	http://en.wikipedia.org/wiki/Derivative: 7921
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Function_composition: 195947
+	http://en.wikipedia.org/wiki/Multivalued_function: 222367
+	http://en.wikipedia.org/wiki/Square_root: 29208
+	http://en.wikipedia.org/wiki/Roman_type: 1926335
+	http://en.wikipedia.org/wiki/Restriction_(mathematics): 1589032
+	http://en.wikipedia.org/wiki/Chain_rule: 6113
+	http://en.wikipedia.org/wiki/Partial_function: 23577
+	http://en.wikipedia.org/wiki/Multiplicative_inverse: 229940
+	http://en.wikipedia.org/wiki/Trigonometric_functions: 30367
+	http://en.wikipedia.org/wiki/Sunset: 190933
+	http://en.wikipedia.org/wiki/Constructivism_(mathematics): 21059
+	http://en.wikipedia.org/wiki/Sequence: 27838
+	http://en.wikipedia.org/wiki/Bijection: 3942
+	http://en.wikipedia.org/wiki/Domain_of_a_function: 50263
+
+Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Comparing Linear, Quadratic, and Exponential Functions:
+	http://en.wikipedia.org/wiki/Imaginary_unit: 52358
+	http://en.wikipedia.org/wiki/Encyclopedia_of_Mathematics: 4647594
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/Tensor_product: 30844
+	http://en.wikipedia.org/wiki/Quadratic_form: 251478
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+
+Numbers &amp; Computation|Multiplication and Division|Multiplication and Division with Whole Numbers:
+	http://en.wikipedia.org/wiki/Natural_number: 21474
+	http://en.wikipedia.org/wiki/Division_(mathematics): 53696
+	http://en.wikipedia.org/wiki/Ancient_Greece: 66540
+	http://en.wikipedia.org/wiki/Mathematical_induction: 18881
+	http://en.wikipedia.org/wiki/Remainder: 502897
+	http://en.wikipedia.org/wiki/Identity_element: 14962
+	http://en.wikipedia.org/wiki/Brahmagupta: 297206
+	http://en.wikipedia.org/wiki/Ring_(mathematics): 48404
+	http://en.wikipedia.org/wiki/Giuseppe_Peano: 13043
+	http://en.wikipedia.org/wiki/Multiplication: 20845
+	http://en.wikipedia.org/wiki/Quaternion: 51440
+	http://en.wikipedia.org/wiki/Ishango_bone: 5508956
+	http://en.wikipedia.org/wiki/Group_(mathematics): 19447
+	http://en.wikipedia.org/wiki/Rational_number: 19727024
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/Order_of_operations: 212980
+	http://en.wikipedia.org/wiki/Integer: 14563
+	http://en.wikipedia.org/wiki/Peano_axioms: 25005
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+	http://en.wikipedia.org/wiki/Quotient: 332640
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Understanding single variable inequalities:
+	http://en.wikipedia.org/wiki/EPR_paradox: 10296
+	http://en.wikipedia.org/wiki/Quantum_entanglement: 25336
+	http://en.wikipedia.org/wiki/Bell_test_experiments: 886766
+	http://en.wikipedia.org/wiki/Bell%27s_theorem: 56369
+	http://en.wikipedia.org/wiki/Continuous_function: 6122
+	http://en.wikipedia.org/wiki/Quantum_mechanics: 25202
+	http://en.wikipedia.org/wiki/Physics: 22939
+	http://en.wikipedia.org/wiki/Quantum_decoherence: 185732
+
+Algebra|Logarithms|Properties of Logarithms:
+
+Numbers &amp; Computation|Addition and Subtraction|Estimation:
+
+Data Analysis, Probability, &amp; Statistics|Data Analysis &amp; Statistics|Measures of Central Tendency:
+	http://en.wikipedia.org/wiki/Descriptive_statistics: 8187
+	http://en.wikipedia.org/wiki/Spatial_analysis: 3190431
+	http://en.wikipedia.org/wiki/Correlogram: 5483693
+	http://en.wikipedia.org/wiki/Geostatistics: 51531
+	http://en.wikipedia.org/wiki/Statistical_dispersion: 23773247
+	http://en.wikipedia.org/wiki/Standard_deviation: 27590
+	http://en.wikipedia.org/wiki/Central_tendency: 5794
+	http://en.wikipedia.org/wiki/Kriging: 477026
+
+Algebra|Logarithms|Solving Logarithmic Equations:
+	http://en.wikipedia.org/wiki/Logarithm: 17860
+	http://en.wikipedia.org/wiki/List_of_logarithmic_identities: 18019
+	http://en.wikipedia.org/wiki/Derivative: 7921
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/Integral: 15532
+	http://en.wikipedia.org/wiki/MathWorld: 374235
+	http://en.wikipedia.org/wiki/Complex_logarithm: 4870290
+	http://en.wikipedia.org/wiki/Exponential_function: 9678
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Branch_point: 483173
+	http://en.wikipedia.org/wiki/Natural_logarithm: 21476
+	http://en.wikipedia.org/wiki/Eric_W._Weisstein: 836189
+
+Geometry &amp; Trigonometry|Transformations|Dilations:
+	http://en.wikipedia.org/wiki/Inversive_geometry: 295844
+	http://en.wikipedia.org/wiki/N-sphere: 39782
+	http://en.wikipedia.org/wiki/Conformal_geometry: 295907
+	http://en.wikipedia.org/wiki/Group_(mathematics): 19447
+	http://en.wikipedia.org/wiki/Quadratic_form: 251478
+	http://en.wikipedia.org/wiki/Homothetic_transformation: 386138
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Graphing Linear Equations:
+	http://en.wikipedia.org/wiki/Field_(mathematics): 10603
+	http://en.wikipedia.org/wiki/Cartesian_coordinate_system: 7706
+	http://en.wikipedia.org/wiki/Equation_solving: 537048
+	http://en.wikipedia.org/wiki/Hyperplane: 99862
+	http://en.wikipedia.org/wiki/Scalar_(mathematics): 3588331
+	http://en.wikipedia.org/wiki/Simultaneous_equations: 249617
+	http://en.wikipedia.org/wiki/Three-dimensional_space: 3054853
+	http://en.wikipedia.org/wiki/Linear_equation: 17570
+	http://en.wikipedia.org/wiki/Determinant: 8468
+	http://en.wikipedia.org/wiki/Nonlinear_system: 146103
+	http://en.wikipedia.org/wiki/Linear_map: 18102
+	http://en.wikipedia.org/wiki/Elementary_algebra: 9710
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/System_of_linear_equations: 113087
+	http://en.wikipedia.org/wiki/Linear_algebra: 18422
+	http://en.wikipedia.org/wiki/Polynomial: 23000
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Linear_equation_over_a_ring: 40862848
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+
+Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Solving Polynomial Equations Degree &gt; 2:
+
+Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Percents:
+	http://en.wikipedia.org/wiki/Per_mille: 248896
+	http://en.wikipedia.org/wiki/Parts-per_notation: 145865
+	http://en.wikipedia.org/wiki/Percentage: 64493
+	http://en.wikipedia.org/wiki/Multiplicative_inverse: 229940
+
+Geometry &amp; Trigonometry|Polygons|Triangles:
+	http://en.wikipedia.org/wiki/Geometry: 18973446
+	http://en.wikipedia.org/wiki/Pentagon: 20741014
+	http://en.wikipedia.org/wiki/Special_right_triangles: 2278116
+	http://en.wikipedia.org/wiki/Triangle: 30654
+	http://en.wikipedia.org/wiki/Euler_diagram: 2427526
+	http://en.wikipedia.org/wiki/Isosceles_triangle: 315428
+	http://en.wikipedia.org/wiki/Trigonometric_functions: 30367
+	http://en.wikipedia.org/wiki/Pythagorean_triple: 24172
+	http://en.wikipedia.org/wiki/Degree_(angle): 1195294
+	http://en.wikipedia.org/wiki/Spherical_geometry: 174026
+	http://en.wikipedia.org/wiki/Pythagorean_theorem: 26513034
+	http://en.wikipedia.org/wiki/Hyperbolic_geometry: 241291
+	http://en.wikipedia.org/wiki/Heronian_triangle: 731959
+	http://en.wikipedia.org/wiki/Decagon: 327393
+	http://en.wikipedia.org/wiki/Integer_triangle: 27430123
+	http://en.wikipedia.org/wiki/Hexagon: 59733
+	http://en.wikipedia.org/wiki/Right_triangle: 39420
+	http://en.wikipedia.org/wiki/Trigonometry: 18717261
+
+Numbers &amp; Computation|Number Concepts|Absolute Value:
+	http://en.wikipedia.org/wiki/Field_(mathematics): 10603
+	http://en.wikipedia.org/wiki/Ultrametric_space: 333996
+	http://en.wikipedia.org/wiki/Absolute_value: 991
+	http://en.wikipedia.org/wiki/Valuation_(algebra): 347049
+	http://en.wikipedia.org/wiki/Absolute_value_(algebra): 5042667
+	http://en.wikipedia.org/wiki/Norm_(mathematics): 990534
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+
+Algebra|Rational Expressions, Equations &amp; Functions|Solving Rational Equations and Inequalities:
+	http://en.wikipedia.org/wiki/Equation_solving: 537048
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/Differential_equation: 1424309
+	http://en.wikipedia.org/wiki/Line_(geometry): 946975
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Identity_(mathematics): 298428
+	http://en.wikipedia.org/wiki/Solution_set: 567840
+	http://en.wikipedia.org/wiki/Quadratic_equation: 25175
+	http://en.wikipedia.org/wiki/System_of_linear_equations: 113087
+	http://en.wikipedia.org/wiki/Function_(mathematics): 185427
+	http://en.wikipedia.org/wiki/Integer: 14563
+	http://en.wikipedia.org/wiki/Diophantine_equation: 9109
+	http://en.wikipedia.org/wiki/Root-finding_algorithm: 153299
+	http://en.wikipedia.org/wiki/Algorithm: 775
+	http://en.wikipedia.org/wiki/Linear_algebra: 18422
+	http://en.wikipedia.org/wiki/Equation: 9284
+	http://en.wikipedia.org/wiki/Expression_(mathematics): 609125
+	http://en.wikipedia.org/wiki/Rational_number: 19727024
+	http://en.wikipedia.org/wiki/Equality_(mathematics): 90446
+	http://en.wikipedia.org/wiki/Diophantine_equation: 9109
+	http://en.wikipedia.org/wiki/Number: 21690
+	http://en.wikipedia.org/wiki/Domain_of_a_function: 50263
+	http://en.wikipedia.org/wiki/Polynomial: 23000
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+	http://en.wikipedia.org/wiki/System_of_polynomial_equations: 27420015
+
+Algebra|Pythagorean Theorem:
+	http://en.wikipedia.org/wiki/Differential_equation: 1424309
+	http://en.wikipedia.org/wiki/List_of_trigonometric_identities: 25804104
+	http://en.wikipedia.org/wiki/Trigonometric_functions: 30367
+	http://en.wikipedia.org/wiki/Pythagorean_expectation: 315477
+	http://en.wikipedia.org/wiki/Pythagorean_trigonometric_identity: 1050741
+	http://en.wikipedia.org/wiki/Sine: 5010838
+	http://en.wikipedia.org/wiki/Right_triangle: 39420
+	http://en.wikipedia.org/wiki/Pythagorean_theorem: 26513034
+
+Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Solving Quadratic Equations and Inequalities:
+	http://en.wikipedia.org/wiki/Field_(mathematics): 10603
+	http://en.wikipedia.org/wiki/Inequality_(mathematics): 89489
+	http://en.wikipedia.org/wiki/Addition: 61338
+	http://en.wikipedia.org/wiki/Function_(mathematics): 185427
+	http://en.wikipedia.org/wiki/Conic_section: 19008673
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/Equality_(mathematics): 90446
+	http://en.wikipedia.org/wiki/Division_(mathematics): 53696
+	http://en.wikipedia.org/wiki/Domain_of_a_function: 50263
+	http://en.wikipedia.org/wiki/Subtraction: 74141
+	http://en.wikipedia.org/wiki/Integer: 14563
+	http://en.wikipedia.org/wiki/Multiplication: 20845
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+	http://en.wikipedia.org/wiki/Inequation: 89486
+
+Algebra|Radicals|Rationalizing radicals in the denominator:
+	http://en.wikipedia.org/wiki/Monomial: 357416
+	http://en.wikipedia.org/wiki/Fraction_(mathematics): 1704824
+	http://en.wikipedia.org/wiki/Rationalisation_(mathematics): 16458571
+
+Geometry &amp; Trigonometry|Angles|Segments:
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Simplifying Expressions:
+
+Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Volume:
+
+Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Using the Discriminant:
+
+Numbers &amp; Computation|Multiplication and Division|Order of Operations:
+	http://en.wikipedia.org/wiki/Order_of_operations: 212980
+
+Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Rules-Based:
+
+Algebra|Matrix Algebra|Matrix Operations:
+	http://en.wikipedia.org/wiki/Matrix_(mathematics): 20556859
+
+Data Analysis, Probability, &amp; Statistics|Data Analysis &amp; Statistics|Measures of Dispersion:
+	http://en.wikipedia.org/wiki/Descriptive_statistics: 8187
+	http://en.wikipedia.org/wiki/Spatial_analysis: 3190431
+	http://en.wikipedia.org/wiki/Correlogram: 5483693
+	http://en.wikipedia.org/wiki/Geostatistics: 51531
+	http://en.wikipedia.org/wiki/Statistical_dispersion: 23773247
+	http://en.wikipedia.org/wiki/Central_tendency: 5794
+	http://en.wikipedia.org/wiki/Kriging: 477026
+
+Numbers &amp; Computation|Multiplication and Division|Scientific Notation:
+	http://en.wikipedia.org/wiki/Scientific_pitch_notation: 1043937
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Writing algebraic equations:
+	http://en.wikipedia.org/wiki/Lars_Ahlfors: 61636
+	http://en.wikipedia.org/wiki/Complex_analysis: 5759
+	http://en.wikipedia.org/wiki/MathWorld: 374235
+	http://en.wikipedia.org/wiki/Complex-valued_function: 4415007
+	http://en.wikipedia.org/wiki/Analytic_function: 61478
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Eric_W._Weisstein: 836189
+
+Algebra|Radicals|Radicals with index &gt; 2:
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Writing algebraic expressions:
+
+Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Proportions:
+	http://en.wikipedia.org/wiki/Chemical_element: 5659
+	http://en.wikipedia.org/wiki/Oxygen: 22303
+	http://en.wikipedia.org/wiki/Atomic_theory: 2844
+	http://en.wikipedia.org/wiki/Joseph_Proust: 365836
+	http://en.wikipedia.org/wiki/France: 5843419
+	http://en.wikipedia.org/wiki/John_Dalton: 44112
+	http://en.wikipedia.org/wiki/Chemical_compound: 21347411
+	http://en.wikipedia.org/wiki/Law_of_definite_proportions: 17981
+	http://en.wikipedia.org/wiki/Chemistry: 5180
+	http://en.wikipedia.org/wiki/Stoichiometry: 28650
+	http://en.wikipedia.org/wiki/Law_of_multiple_proportions: 18339
+
+Algebra|Exponents, Radicals, and Logarithmic Equations &amp; Functions|Exponential Equations and Functions:
+	http://en.wikipedia.org/wiki/Compound_interest: 434428
+	http://en.wikipedia.org/wiki/Exponentiation: 99491
+	http://en.wikipedia.org/wiki/Economics: 9223
+	http://en.wikipedia.org/wiki/Proportionality_(mathematics): 81863
+	http://en.wikipedia.org/wiki/Malthusian_catastrophe: 20942
+	http://en.wikipedia.org/wiki/Exponential_growth: 191933
+	http://en.wikipedia.org/wiki/List_of_exponential_topics: 490054
+	http://en.wikipedia.org/wiki/Exponential_decay: 330320
+	http://en.wikipedia.org/wiki/Exponential_function: 9678
+	http://en.wikipedia.org/wiki/Physics: 22939
+
+Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Pyramid:
+
+Data Analysis, Probability, &amp; Statistics|Data Representation|Box and whiskers plot:
+	http://en.wikipedia.org/wiki/Multivariate_analysis_of_variance: 682847
+	http://en.wikipedia.org/wiki/Simultaneous_equations_model: 250436
+	http://en.wikipedia.org/wiki/Poisson_regression: 2708102
+	http://en.wikipedia.org/wiki/Midhinge: 12559595
+	http://en.wikipedia.org/wiki/Resampling_(statistics): 3763850
+	http://en.wikipedia.org/wiki/Minimum_distance_estimation: 19456533
+	http://en.wikipedia.org/wiki/Stationary_process: 329898
+	http://en.wikipedia.org/wiki/Statistical_power: 238695
+	http://en.wikipedia.org/wiki/National_accounts: 1378125
+	http://en.wikipedia.org/wiki/Failure_rate: 1336960
+	http://en.wikipedia.org/wiki/Density_estimation: 554671
+	http://en.wikipedia.org/wiki/Statistical_inference: 27577
+	http://en.wikipedia.org/wiki/Interquartile_range: 14812
+	http://en.wikipedia.org/wiki/Completeness_(statistics): 194618
+	http://en.wikipedia.org/wiki/Asymptotic_theory_(statistics): 26024794
+	http://en.wikipedia.org/wiki/Scan_statistic: 41565937
+	http://en.wikipedia.org/wiki/Bootstrapping_(statistics): 6885770
+	http://en.wikipedia.org/wiki/Nonparametric_regression: 4536068
+	http://en.wikipedia.org/wiki/Generalized_linear_model: 747122
+	http://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test: 1954987
+	http://en.wikipedia.org/wiki/Statistical_process_control: 593680
+	http://en.wikipedia.org/wiki/Moment_(mathematics): 368684
+	http://en.wikipedia.org/wiki/Chemometrics: 314204
+	http://en.wikipedia.org/wiki/Errors_and_residuals_in_statistics: 461509
+	http://en.wikipedia.org/wiki/Histogram: 13266
+	http://en.wikipedia.org/wiki/Simple_linear_regression: 2593771
+	http://en.wikipedia.org/wiki/Demographic_statistics: 8189
+	http://en.wikipedia.org/wiki/Percentile: 354907
+	http://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines: 18475546
+	http://en.wikipedia.org/wiki/Semiparametric_regression: 4536125
+	http://en.wikipedia.org/wiki/Frequency_domain: 370346
+	http://en.wikipedia.org/wiki/Radar_chart: 8432961
+	http://en.wikipedia.org/wiki/Statistical_classification: 1579244
+	http://en.wikipedia.org/wiki/Binomial_regression: 4916857
+	http://en.wikipedia.org/wiki/McNemar%27s_test: 3305230
+	http://en.wikipedia.org/wiki/Cluster_sampling: 5797
+	http://en.wikipedia.org/wiki/Range_(statistics): 27588
+	http://en.wikipedia.org/wiki/Effect_size: 437276
+	http://en.wikipedia.org/wiki/General_linear_model: 877698
+	http://en.wikipedia.org/wiki/Likelihood-ratio_test: 45035
+	http://en.wikipedia.org/wiki/Exponential_smoothing: 1890727
+	http://en.wikipedia.org/wiki/Chi-square_test: 226680
+	http://en.wikipedia.org/wiki/Confidence_interval: 280911
+	http://en.wikipedia.org/wiki/Variance: 32344
+	http://en.wikipedia.org/wiki/Run_chart: 6392749
+	http://en.wikipedia.org/wiki/Proportional_hazards_model: 5352267
+	http://en.wikipedia.org/wiki/List_of_statistics_articles: 191457
+	http://en.wikipedia.org/wiki/Cartography: 7294
+	http://en.wikipedia.org/wiki/Nonlinear_regression: 1045012
+	http://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics): 2321606
+	http://en.wikipedia.org/wiki/Jarque%E2%80%93Bera_test: 30865916
+	http://en.wikipedia.org/wiki/Granger_causality: 1648224
+	http://en.wikipedia.org/wiki/Environmental_statistics: 8919339
+	http://en.wikipedia.org/wiki/Ljung%E2%80%93Box_test: 6534294
+	http://en.wikipedia.org/wiki/Median: 18837
+	http://en.wikipedia.org/wiki/Experiment: 59861
+	http://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U_test: 433164
+	http://en.wikipedia.org/wiki/Survey_methodology: 272134
+	http://en.wikipedia.org/wiki/Robust_statistics: 2885691
+	http://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient: 235623
+	http://en.wikipedia.org/wiki/Arithmetic_mean: 612
+	http://en.wikipedia.org/wiki/Statistics: 26685
+	http://en.wikipedia.org/wiki/Bayes_estimator: 6978815
+	http://en.wikipedia.org/wiki/Decomposition_of_time_series: 7579995
+	http://en.wikipedia.org/wiki/Outline_of_statistics: 28651
+	http://en.wikipedia.org/wiki/Harmonic_mean: 14463
+	http://en.wikipedia.org/wiki/Breusch%E2%80%93Godfrey_test: 17097662
+	http://en.wikipedia.org/wiki/Durbin%E2%80%93Watson_statistic: 4864529
+	http://en.wikipedia.org/wiki/Spectral_density_estimation: 13070117
+	http://en.wikipedia.org/wiki/Wavelet: 50903
+	http://en.wikipedia.org/wiki/Reliability_engineering: 1724836
+	http://en.wikipedia.org/wiki/Partial_correlation: 8771567
+	http://en.wikipedia.org/wiki/Clinical_trial: 241717
+	http://en.wikipedia.org/wiki/Minimum-variance_unbiased_estimator: 1583470
+	http://en.wikipedia.org/wiki/Z-test: 332213
+	http://en.wikipedia.org/wiki/Optimal_design: 1292142
+	http://en.wikipedia.org/wiki/Record_value: 41828578
+	http://en.wikipedia.org/wiki/Factor_analysis: 253492
+	http://en.wikipedia.org/wiki/Skewness: 28212
+	http://en.wikipedia.org/wiki/Box_plot: 160960
+	http://en.wikipedia.org/wiki/Sampling_(statistics): 160361
+	http://en.wikipedia.org/wiki/Outlier: 160951
+	http://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test: 16714
+	http://en.wikipedia.org/wiki/Geostatistics: 51531
+	http://en.wikipedia.org/wiki/Probabilistic_design: 9499804
+	http://en.wikipedia.org/wiki/Homoscedasticity: 294428
+	http://en.wikipedia.org/wiki/Census: 6889
+	http://en.wikipedia.org/wiki/Credible_interval: 3408427
+	http://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient: 221708
+	http://en.wikipedia.org/wiki/Kurtosis: 16848
+	http://en.wikipedia.org/wiki/Natural_experiment: 170141
+	http://en.wikipedia.org/wiki/Kendall_tau_rank_correlation_coefficient: 7287830
+	http://en.wikipedia.org/wiki/Posterior_probability: 357672
+	http://en.wikipedia.org/wiki/Mode_(statistics): 1432127
+	http://en.wikipedia.org/wiki/Q%E2%80%93Q_plot: 4031859
+	http://en.wikipedia.org/wiki/Box%E2%80%93Jenkins: 2399066
+	http://en.wikipedia.org/wiki/Geometric_mean: 13046
+	http://en.wikipedia.org/wiki/Sufficient_statistic: 140841
+	http://en.wikipedia.org/wiki/Statistical_hypothesis_testing: 30284
+	http://en.wikipedia.org/wiki/Isotonic_regression: 2836143
+	http://en.wikipedia.org/wiki/Statistical_dispersion: 23773247
+	http://en.wikipedia.org/wiki/Estimator: 10043
+	http://en.wikipedia.org/wiki/Cross-correlation: 714163
+	http://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator: 3168650
+	http://en.wikipedia.org/wiki/Order_statistic: 160986
+	http://en.wikipedia.org/wiki/Prior_probability: 472877
+	http://en.wikipedia.org/wiki/Wald_test: 1600352
+	http://en.wikipedia.org/wiki/Graphical_model: 447298
+	http://en.wikipedia.org/wiki/Trend_estimation: 477060
+	http://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance: 1198757
+	http://en.wikipedia.org/wiki/Biplot: 14306166
+	http://en.wikipedia.org/wiki/Biostatistics: 3878
+	http://en.wikipedia.org/wiki/Stratified_sampling: 27596
+	http://en.wikipedia.org/wiki/Seasonal_adjustment: 7579959
+	http://en.wikipedia.org/wiki/Clinical_study_design: 2944829
+	http://en.wikipedia.org/wiki/Statistical_graphics: 15934463
+	http://en.wikipedia.org/wiki/Actuarial_science: 189373
+	http://en.wikipedia.org/wiki/Psychometrics: 24982
+	http://en.wikipedia.org/wiki/Maximum_a_posteriori_estimation: 1792433
+	http://en.wikipedia.org/wiki/Methods_engineering: 1399085
+	http://en.wikipedia.org/wiki/System_identification: 552466
+	http://en.wikipedia.org/wiki/Official_statistics: 18646178
+	http://en.wikipedia.org/wiki/Regression_model_validation: 15935860
+	http://en.wikipedia.org/wiki/Principal_component_analysis: 76340
+	http://en.wikipedia.org/wiki/Multivariate_statistics: 19384
+	http://en.wikipedia.org/wiki/Maximum_likelihood: 140806
+	http://en.wikipedia.org/wiki/Anderson%E2%80%93Darling_test: 3479881
+	http://en.wikipedia.org/wiki/Econometrics: 10390
+	http://en.wikipedia.org/wiki/Analysis_of_covariance: 404926
+	http://en.wikipedia.org/wiki/Ranking: 1482394
+	http://en.wikipedia.org/wiki/Factorial_experiment: 1827237
+	http://en.wikipedia.org/wiki/Quartile: 25170
+	http://en.wikipedia.org/wiki/Student%27s_t-test: 536080
+	http://en.wikipedia.org/wiki/Bayesian_probability: 4890
+	http://en.wikipedia.org/wiki/Statistical_theory: 27579
+	http://en.wikipedia.org/wiki/Probability_density_function: 43487
+	http://en.wikipedia.org/wiki/Categorical_variable: 821165
+	http://en.wikipedia.org/wiki/Standard_deviation: 27590
+	http://en.wikipedia.org/wiki/Statistical_power: 238695
+	http://en.wikipedia.org/wiki/Cohen%27s_kappa: 1701650
+	http://en.wikipedia.org/wiki/Forest_plot: 11394359
+	http://en.wikipedia.org/wiki/Analysis_of_variance: 634
+	http://en.wikipedia.org/wiki/L-moment: 24350828
+	http://en.wikipedia.org/wiki/Log-rank_test: 11871026
+	http://en.wikipedia.org/wiki/Confounding: 3105999
+	http://en.wikipedia.org/wiki/Bayesian_inference: 49571
+	http://en.wikipedia.org/wiki/Epidemiology: 66997
+	http://en.wikipedia.org/wiki/Bayesian_linear_regression: 7519917
+	http://en.wikipedia.org/wiki/Akaike_information_criterion: 690512
+	http://en.wikipedia.org/wiki/Bioinformatics: 4214
+	http://en.wikipedia.org/wiki/Mean: 19192
+	http://en.wikipedia.org/wiki/Empirical_distribution_function: 2690455
+	http://en.wikipedia.org/wiki/Crime_statistics: 177487
+	http://en.wikipedia.org/wiki/Contingency_table: 935515
+	http://en.wikipedia.org/wiki/Autoregressive%E2%80%93moving-average_model: 764848
+	http://en.wikipedia.org/wiki/Resampling_(statistics): 3763850
+	http://en.wikipedia.org/wiki/Survival_analysis: 419259
+	http://en.wikipedia.org/wiki/Fan_chart_(statistics): 41668689
+	http://en.wikipedia.org/wiki/Sample_size_determination: 1776839
+	http://en.wikipedia.org/wiki/Frequentist_inference: 15537745
+	http://en.wikipedia.org/wiki/Statistical_population: 27585
+	http://en.wikipedia.org/wiki/G-test: 914820
+	http://en.wikipedia.org/wiki/Randomized_experiment: 6033300
+	http://en.wikipedia.org/wiki/Sampling_distribution: 520670
+	http://en.wikipedia.org/wiki/Autocorrelation: 2724
+	http://en.wikipedia.org/wiki/Observational_study: 6326483
+	http://en.wikipedia.org/wiki/Partition_of_sums_of_squares: 3446092
+	http://en.wikipedia.org/wiki/Coefficient_of_variation: 1012687
+	http://en.wikipedia.org/wiki/Time_domain: 173419
+	http://en.wikipedia.org/wiki/List_of_fields_of_application_of_statistics: 19938249
+	http://en.wikipedia.org/wiki/Survival_function: 30876757
+	http://en.wikipedia.org/wiki/Regression_analysis: 826997
+	http://en.wikipedia.org/wiki/Bayes_factor: 824552
+	http://en.wikipedia.org/wiki/Exponential_family: 339174
+	http://en.wikipedia.org/wiki/Probability_distribution: 23543
+	http://en.wikipedia.org/wiki/Shapiro%E2%80%93Wilk_test: 2690983
+	http://en.wikipedia.org/wiki/Opinion_poll: 277315
+	http://en.wikipedia.org/wiki/Questionnaire: 956483
+	http://en.wikipedia.org/wiki/Parametric_statistics: 223366
+	http://en.wikipedia.org/wiki/Mixed_model: 5431921
+	http://en.wikipedia.org/wiki/Design_of_experiments: 9541
+	http://en.wikipedia.org/wiki/Accelerated_failure_time_model: 15704862
+	http://en.wikipedia.org/wiki/Count_data: 15690807
+	http://en.wikipedia.org/wiki/Cointegration: 1822603
+	http://en.wikipedia.org/wiki/Standard_error: 552520
+	http://en.wikipedia.org/wiki/Pie_chart: 728487
+	http://en.wikipedia.org/wiki/Replication_(statistics): 10306262
+	http://en.wikipedia.org/wiki/Shape_of_the_distribution: 9330700
+	http://en.wikipedia.org/wiki/Data_collection: 11501746
+	http://en.wikipedia.org/wiki/Heteroscedasticity: 612440
+	http://en.wikipedia.org/wiki/Robust_regression: 2713327
+	http://en.wikipedia.org/wiki/Engineering_statistics: 9546
+	http://en.wikipedia.org/wiki/Control_chart: 435754
+	http://en.wikipedia.org/wiki/Correlation_and_dependence: 157057
+	http://en.wikipedia.org/wiki/Social_statistics: 285943
+	http://en.wikipedia.org/wiki/Descriptive_statistics: 8187
+	http://en.wikipedia.org/wiki/Medical_statistics: 11082896
+	http://en.wikipedia.org/wiki/Coefficient_of_determination: 1500869
+	http://en.wikipedia.org/wiki/Quasi-experiment: 11864322
+	http://en.wikipedia.org/wiki/U-statistic: 16811057
+	http://en.wikipedia.org/wiki/Kriging: 477026
+	http://en.wikipedia.org/wiki/Copula_(probability_theory): 1793003
+	http://en.wikipedia.org/wiki/Ordinary_least_squares: 1651906
+	http://en.wikipedia.org/wiki/Vector_autoregression: 2399016
+	http://en.wikipedia.org/wiki/Index_of_dispersion: 16693606
+	http://en.wikipedia.org/wiki/Location_parameter: 17516
+	http://en.wikipedia.org/wiki/Goodness_of_fit: 2474821
+	http://en.wikipedia.org/wiki/Bias_of_an_estimator: 8450479
+	http://en.wikipedia.org/wiki/Spatial_analysis: 3190431
+	http://en.wikipedia.org/wiki/Stem-and-leaf_display: 977649
+	http://en.wikipedia.org/wiki/Correlogram: 5483693
+	http://en.wikipedia.org/wiki/Method_of_moments_(statistics): 2175504
+	http://en.wikipedia.org/wiki/Median: 18837
+	http://en.wikipedia.org/wiki/Time_series: 406624
+	http://en.wikipedia.org/wiki/Linear_regression: 17903
+	http://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity: 610752
+	http://en.wikipedia.org/wiki/Blocking_(statistics): 1822339
+	http://en.wikipedia.org/wiki/Logistic_regression: 226631
+	http://en.wikipedia.org/wiki/Geographic_information_system: 12398
+	http://en.wikipedia.org/wiki/Cluster_analysis: 669675
+	http://en.wikipedia.org/wiki/Fourier_analysis: 11659
+	http://en.wikipedia.org/wiki/Rank_correlation: 3316627
+	http://en.wikipedia.org/wiki/Mid-range: 2814021
+	http://en.wikipedia.org/wiki/Score_test: 1599160
+	http://en.wikipedia.org/wiki/Random_assignment: 2940730
+	http://en.wikipedia.org/wiki/Frequency_distribution: 226943
+	http://en.wikipedia.org/wiki/Grouped_data: 27705422
+	http://en.wikipedia.org/wiki/Efficiency_(statistics): 27250866
+	http://en.wikipedia.org/wiki/Probability_distribution: 23543
+	http://en.wikipedia.org/wiki/Quality_control: 41613
+	http://en.wikipedia.org/wiki/Scatter_plot: 412544
+	http://en.wikipedia.org/wiki/Normal_distribution: 21462
+	http://en.wikipedia.org/wiki/F-test: 318976
+	http://en.wikipedia.org/wiki/Bar_chart: 393311
+	http://en.wikipedia.org/wiki/Partial_autocorrelation_function: 16862495
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Evaluating Functions:
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Graphing Linear Inequalities:
+	http://en.wikipedia.org/wiki/Inequality_(mathematics): 89489
+	http://en.wikipedia.org/wiki/Addition: 61338
+	http://en.wikipedia.org/wiki/Linear_programming: 43730
+	http://en.wikipedia.org/wiki/Multiplication: 20845
+	http://en.wikipedia.org/wiki/Column_vector: 149968
+	http://en.wikipedia.org/wiki/Ordered_field: 22430
+
+Numbers &amp; Computation|Addition and Subtraction|Addition and Subtraction with Negative Numbers:
+	http://en.wikipedia.org/wiki/Additive_inverse: 228312
+	http://en.wikipedia.org/wiki/Number_line: 287188
+	http://en.wikipedia.org/wiki/0_(number): 34513
+	http://en.wikipedia.org/wiki/Ring_(mathematics): 48404
+	http://en.wikipedia.org/wiki/Irrational_number: 20647689
+	http://en.wikipedia.org/wiki/Equivalence_relation: 9259
+	http://en.wikipedia.org/wiki/Surreal_number: 51432
+	http://en.wikipedia.org/wiki/Addition: 61338
+	http://en.wikipedia.org/wiki/Subtraction: 74141
+	http://en.wikipedia.org/wiki/P-adic_number: 51423
+	http://en.wikipedia.org/wiki/Integer: 14563
+	http://en.wikipedia.org/wiki/Natural_number: 21474
+	http://en.wikipedia.org/wiki/Integer: 14563
+	http://en.wikipedia.org/wiki/Negative_number: 154616
+	http://en.wikipedia.org/wiki/Ordinal_number: 26547932
+	http://en.wikipedia.org/wiki/Rational_number: 19727024
+	http://en.wikipedia.org/wiki/Plus_and_minus_signs: 245206
+	http://en.wikipedia.org/wiki/Plus_and_minus_signs: 245206
+	http://en.wikipedia.org/wiki/Hyperreal_number: 51429
+	http://en.wikipedia.org/wiki/Exponentiation: 99491
+	http://en.wikipedia.org/wiki/Signed_zero: 2907387
+	http://en.wikipedia.org/wiki/Division_(mathematics): 53696
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+	http://en.wikipedia.org/wiki/Operation_(mathematics): 4140245
+
+Algebra|Rational Expressions, Equations &amp; Functions|Simplifying Rational Expressions:
+
+Data Analysis, Probability, &amp; Statistics|Data Representation|Stem and leaf plot:
+	http://en.wikipedia.org/wiki/Design_of_experiments: 9541
+	http://en.wikipedia.org/wiki/Statistics: 26685
+	http://en.wikipedia.org/wiki/Statistical_theory: 27579
+	http://en.wikipedia.org/wiki/Pie_chart: 728487
+	http://en.wikipedia.org/wiki/Scatter_plot: 412544
+	http://en.wikipedia.org/wiki/Control_chart: 435754
+	http://en.wikipedia.org/wiki/Bootstrapping_(statistics): 6885770
+	http://en.wikipedia.org/wiki/Skewness: 28212
+	http://en.wikipedia.org/wiki/Box_plot: 160960
+	http://en.wikipedia.org/wiki/Descriptive_statistics: 8187
+	http://en.wikipedia.org/wiki/Probability_distribution: 23543
+	http://en.wikipedia.org/wiki/Histogram: 13266
+	http://en.wikipedia.org/wiki/Stem-and-leaf_display: 977649
+	http://en.wikipedia.org/wiki/Statistical_hypothesis_testing: 30284
+	http://en.wikipedia.org/wiki/Median: 18837
+	http://en.wikipedia.org/wiki/Exploratory_data_analysis: 416589
+	http://en.wikipedia.org/wiki/Standard_deviation: 27590
+	http://en.wikipedia.org/wiki/Statistical_inference: 27577
+	http://en.wikipedia.org/wiki/Run_chart: 6392749
+	http://en.wikipedia.org/wiki/Bar_chart: 393311
+	http://en.wikipedia.org/wiki/Regression_analysis: 826997
+	http://en.wikipedia.org/wiki/Outlier: 160951
+	http://en.wikipedia.org/wiki/Statistical_graphics: 15934463
+	http://en.wikipedia.org/wiki/Exponential_family: 339174
+	http://en.wikipedia.org/wiki/Principal_component_analysis: 76340
+	http://en.wikipedia.org/wiki/Order_statistic: 160986
+	http://en.wikipedia.org/wiki/Trend_estimation: 477060
+	http://en.wikipedia.org/wiki/John_Tukey: 415974
+	http://en.wikipedia.org/wiki/Robust_statistics: 2885691
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Inverse of Functions:
+	http://en.wikipedia.org/wiki/Sunset: 190933
+	http://en.wikipedia.org/wiki/Calculus: 5176
+	http://en.wikipedia.org/wiki/Principal_branch: 972441
+	http://en.wikipedia.org/wiki/Multiplicative_inverse: 229940
+	http://en.wikipedia.org/wiki/Derivative: 7921
+	http://en.wikipedia.org/wiki/Inverse_hyperbolic_function: 3804557
+	http://en.wikipedia.org/wiki/Multivalued_function: 222367
+	http://en.wikipedia.org/wiki/Inverse_trigonometric_functions: 374220
+	http://en.wikipedia.org/wiki/Domain_of_a_function: 50263
+	http://en.wikipedia.org/wiki/Principal_value: 408225
+	http://en.wikipedia.org/wiki/Square_root: 29208
+	http://en.wikipedia.org/wiki/Inverse_function: 14907
+	http://en.wikipedia.org/wiki/Analytic_function: 61478
+	http://en.wikipedia.org/wiki/Range_(mathematics): 275991
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Sine: 5010838
+	http://en.wikipedia.org/wiki/Trigonometric_functions: 30367
+	http://en.wikipedia.org/wiki/Trigonometric_functions: 30367
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Evaluating algebraic expressions:
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Algebraic_expression: 4283745
+	http://en.wikipedia.org/wiki/Algebraic_closure: 3129
+	http://en.wikipedia.org/wiki/Function_(mathematics): 185427
+	http://en.wikipedia.org/wiki/Special_functions: 23709110
+
+Geometry &amp; Trigonometry|Transformations|Translations:
+
+Data Analysis, Probability, &amp; Statistics|Data Representation|Line graph:
+	http://en.wikipedia.org/wiki/Hypergraph: 232535
+	http://en.wikipedia.org/wiki/Diamond_graph: 20796238
+	http://en.wikipedia.org/wiki/Mathematical_Reviews: 1485646
+	http://en.wikipedia.org/wiki/Clique_(graph_theory): 524466
+	http://en.wikipedia.org/wiki/Line_graph_of_a_hypergraph: 16181442
+	http://en.wikipedia.org/wiki/Discrete_Mathematics_(journal): 21988115
+	http://en.wikipedia.org/wiki/Line_graph: 675231
+	http://en.wikipedia.org/wiki/Intersection_graph: 7726759
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Domain and Range:
+	http://en.wikipedia.org/wiki/Bijection: 3942
+	http://en.wikipedia.org/wiki/Group_(mathematics): 19447
+	http://en.wikipedia.org/wiki/Set_(mathematics): 26691
+
+Geometry &amp; Trigonometry|Coordinate and Analytic Geometry|Cartesian Coordinate Plane:
+	http://en.wikipedia.org/wiki/Orthant: 1283725
+	http://en.wikipedia.org/wiki/Ordered_pair: 22362
+	http://en.wikipedia.org/wiki/Abscissa: 60487
+	http://en.wikipedia.org/wiki/Octant_(solid_geometry): 36160226
+	http://en.wikipedia.org/wiki/Binary_relation: 3931
+	http://en.wikipedia.org/wiki/Ordinate: 170251
+	http://en.wikipedia.org/wiki/PlanetMath: 161623
+	http://en.wikipedia.org/wiki/Cartesian_coordinate_system: 7706
+	http://en.wikipedia.org/wiki/Quadrant_(plane_geometry): 18315778
+	http://en.wikipedia.org/wiki/Clockwise: 26569682
+	http://en.wikipedia.org/wiki/Roman_numerals: 25657
+
+Geometry &amp; Trigonometry|Transformations|Reflections:
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Relations and Functions:
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Binary_relation: 3931
+
+Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Geometric Sequence:
+	http://en.wikipedia.org/wiki/Harmonic_series_(mathematics): 142488
+	http://en.wikipedia.org/wiki/Geometric_progression: 23474670
+	http://en.wikipedia.org/wiki/Arithmetico-geometric_sequence: 37668047
+	http://en.wikipedia.org/wiki/Series_(mathematics): 15287
+	http://en.wikipedia.org/wiki/Alternating_series: 494308
+	http://en.wikipedia.org/wiki/Arithmetic_progression: 168389
+	http://en.wikipedia.org/wiki/Divergent_series: 876428
+	http://en.wikipedia.org/wiki/Geometric_series: 12630
+	http://en.wikipedia.org/wiki/Derivative: 7921
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Slope of a Line:
+	http://en.wikipedia.org/wiki/Differential_calculus: 50416
+	http://en.wikipedia.org/wiki/Sign_(mathematics): 7951270
+	http://en.wikipedia.org/wiki/Czech_Republic: 5321
+	http://en.wikipedia.org/wiki/Division_by_zero: 185663
+	http://en.wikipedia.org/wiki/Grade_separation: 1055011
+	http://en.wikipedia.org/wiki/Linear_function_(calculus): 39712387
+	http://en.wikipedia.org/wiki/Line_(geometry): 946975
+	http://en.wikipedia.org/wiki/Grade_(slope): 259162
+	http://en.wikipedia.org/wiki/0_(number): 34513
+	http://en.wikipedia.org/wiki/Linear_function: 152111
+	http://en.wikipedia.org/wiki/Derivative: 7921
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Y-intercept: 464331
+	http://en.wikipedia.org/wiki/Theil%E2%80%93Sen_estimator: 32292709
+	http://en.wikipedia.org/wiki/Infinity: 20110824
+	http://en.wikipedia.org/wiki/Mean_value_theorem: 19662
+	http://en.wikipedia.org/wiki/Per_mille: 248896
+	http://en.wikipedia.org/wiki/Perpendicular: 76944
+	http://en.wikipedia.org/wiki/Euclidean_distance: 53932
+	http://en.wikipedia.org/wiki/Gradient: 12461
+	http://en.wikipedia.org/wiki/Tangent: 31482
+	http://en.wikipedia.org/wiki/Trigonometric_functions: 30367
+	http://en.wikipedia.org/wiki/Track_(rail_transport): 321365
+	http://en.wikipedia.org/wiki/Limit_of_a_function: 285759
+	http://en.wikipedia.org/wiki/Secant_line: 241886
+	http://en.wikipedia.org/wiki/Trigonometric_functions: 30367
+	http://en.wikipedia.org/wiki/Parallel_(geometry): 664497
+	http://en.wikipedia.org/wiki/Absolute_value: 991
+	http://en.wikipedia.org/wiki/Netherlands: 21148
+	http://en.wikipedia.org/wiki/Percent_sign: 1712680
+	http://en.wikipedia.org/wiki/Negative_number: 154616
+	http://en.wikipedia.org/wiki/Derivative: 7921
+	http://en.wikipedia.org/wiki/Poland: 22936
+	http://en.wikipedia.org/wiki/Median: 18837
+	http://en.wikipedia.org/wiki/Meols_railway_station: 4595819
+	http://en.wikipedia.org/wiki/Line_(geometry): 946975
+	http://en.wikipedia.org/wiki/Civil_engineering: 5762
+	http://en.wikipedia.org/wiki/Inclined_plane: 38954
+	http://en.wikipedia.org/wiki/Curve: 89246
+	http://en.wikipedia.org/wiki/Rack_railway: 143945
+	http://en.wikipedia.org/wiki/Trigonometry: 18717261
+	http://en.wikipedia.org/wiki/Road: 25897
+	http://en.wikipedia.org/wiki/Slope: 29368
+	http://en.wikipedia.org/wiki/Linear_equation: 17570
+	http://en.wikipedia.org/wiki/Constant_function: 320861
+	http://en.wikipedia.org/wiki/United_Kingdom: 31717
+	http://en.wikipedia.org/wiki/0_(number): 34513
+	http://en.wikipedia.org/wiki/Delta_(letter): 8124
+	http://en.wikipedia.org/wiki/Steep_grade_railway: 39860163
+	http://en.wikipedia.org/wiki/Geography: 18963910
+
+Geometry &amp; Trigonometry|Coordinate and Analytic Geometry|Distance Formula:
+	http://en.wikipedia.org/wiki/Distance: 39378
+	http://en.wikipedia.org/wiki/Hamming_distance: 41227
+	http://en.wikipedia.org/wiki/Plane_(geometry): 84029
+	http://en.wikipedia.org/wiki/Geometry: 18973446
+	http://en.wikipedia.org/wiki/Chessboard: 47449
+	http://en.wikipedia.org/wiki/King_(chess): 47485
+	http://en.wikipedia.org/wiki/Arc_length: 1898401
+	http://en.wikipedia.org/wiki/Chebyshev_distance: 1503963
+	http://en.wikipedia.org/wiki/Cartesian_coordinate_system: 7706
+	http://en.wikipedia.org/wiki/Metric_space: 20018
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+	http://en.wikipedia.org/wiki/Rotation: 39789
+	http://en.wikipedia.org/wiki/Taxicab_geometry: 408354
+	http://en.wikipedia.org/wiki/Metric_(mathematics): 1561467
+
+Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Series:
+
+Data Analysis, Probability, &amp; Statistics|Probability|Outcomes and Events:
+	http://en.wikipedia.org/wiki/Complementary_event: 1965377
+	http://en.wikipedia.org/wiki/Experiment_(probability_theory): 19621951
+	http://en.wikipedia.org/wiki/Random_variable: 25685
+	http://en.wikipedia.org/wiki/Conditional_probability: 24104134
+	http://en.wikipedia.org/wiki/Sample_space: 22958
+	http://en.wikipedia.org/wiki/Venn_diagram: 61701
+	http://en.wikipedia.org/wiki/Set_(mathematics): 26691
+	http://en.wikipedia.org/wiki/Conditional_independence: 801135
+	http://en.wikipedia.org/wiki/Marginal_distribution: 506077
+	http://en.wikipedia.org/wiki/Joint_probability_distribution: 879637
+	http://en.wikipedia.org/wiki/Bayes%27_theorem: 49569
+	http://en.wikipedia.org/wiki/Law_of_large_numbers: 157055
+	http://en.wikipedia.org/wiki/Bernoulli_trial: 102653
+	http://en.wikipedia.org/wiki/Law_of_total_probability: 312383
+	http://en.wikipedia.org/wiki/Probability_measure: 45437
+	http://en.wikipedia.org/wiki/Tree_diagram_(probability_theory): 37303714
+	http://en.wikipedia.org/wiki/Probability_space: 43325
+	http://en.wikipedia.org/wiki/Probability_theory: 23542
+	http://en.wikipedia.org/wiki/Event_(probability_theory): 22961
+	http://en.wikipedia.org/wiki/Boole%27s_inequality: 344887
+	http://en.wikipedia.org/wiki/Probability_axioms: 23539
+	http://en.wikipedia.org/wiki/Probability: 22934
+	http://en.wikipedia.org/wiki/Independence_(probability_theory): 27593
+	http://en.wikipedia.org/wiki/Elementary_event: 22960
+	http://en.wikipedia.org/wiki/Sigma-algebra: 29586
+	http://en.wikipedia.org/wiki/Outcome_(probability): 39778851
+
+Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Surface Area:
+	http://en.wikipedia.org/wiki/Surface-area-to-volume_ratio: 7282499
+	http://en.wikipedia.org/wiki/Surface_area: 27725
+
+Numbers &amp; Computation|Addition and Subtraction|Exponents:
+
+Algebra|Exponents, Radicals, and Logarithmic Equations &amp; Functions|Imaginary and complex numbers:
+	http://en.wikipedia.org/wiki/Circle_group: 508177
+	http://en.wikipedia.org/wiki/Complex_conjugate: 173918
+	http://en.wikipedia.org/wiki/Euler%27s_formula: 9613
+	http://en.wikipedia.org/wiki/Imaginary_unit: 52358
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/Nth_root: 235029
+	http://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra: 51414
+	http://en.wikipedia.org/wiki/Principal_value: 408225
+	http://en.wikipedia.org/wiki/Imaginary_number: 14554
+	http://en.wikipedia.org/wiki/Complex_plane: 217628
+	http://en.wikipedia.org/wiki/Square_(algebra): 659942
+	http://en.wikipedia.org/wiki/Quaternion: 51440
+	http://en.wikipedia.org/wiki/Absolute_value: 991
+	http://en.wikipedia.org/wiki/Integer: 14563
+	http://en.wikipedia.org/wiki/Polynomial: 23000
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+
+Geometry &amp; Trigonometry|2-Dimensional Shapes|Circles:
+	http://en.wikipedia.org/wiki/Geometry: 18973446
+	http://en.wikipedia.org/wiki/Circle: 6220
+	http://en.wikipedia.org/wiki/Eric_W._Weisstein: 836189
+	http://en.wikipedia.org/wiki/MathWorld: 374235
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Literal equations:
+	http://en.wikipedia.org/wiki/Euclid%27s_Elements: 244107
+	http://en.wikipedia.org/wiki/Completing_the_square: 303500
+	http://en.wikipedia.org/wiki/Indian_mathematics: 1848052
+	http://en.wikipedia.org/wiki/Discriminant: 55607
+	http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes: 25525
+	http://en.wikipedia.org/wiki/Quadratic_equation: 25175
+	http://en.wikipedia.org/wiki/Galois_theory: 61316
+	http://en.wikipedia.org/wiki/Conic_section: 19008673
+	http://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra: 51414
+	http://en.wikipedia.org/wiki/Square_root: 29208
+	http://en.wikipedia.org/wiki/Brahmagupta: 297206
+	http://en.wikipedia.org/wiki/Arithmetica: 1777555
+	http://en.wikipedia.org/wiki/Diophantus: 9110
+	http://en.wikipedia.org/wiki/Polynomial: 23000
+	http://en.wikipedia.org/wiki/Elementary_algebra: 9710
+	http://en.wikipedia.org/wiki/Euclid: 9331
+	http://en.wikipedia.org/wiki/Cubic_function: 243709
+	http://en.wikipedia.org/wiki/Algebra: 18716923
+	http://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art: 204207
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Piecewise Functions:
+	http://en.wikipedia.org/wiki/Absolute_value: 991
+	http://en.wikipedia.org/wiki/Spline_(mathematics): 457680
+	http://en.wikipedia.org/wiki/Piecewise: 404130
+	http://en.wikipedia.org/wiki/PDIFF: 10131478
+	http://en.wikipedia.org/wiki/Function_(mathematics): 185427
+	http://en.wikipedia.org/wiki/Continuous_function: 6122
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Piecewise_linear_function: 444224
+
+Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Dividing Polynomials:
+
+Geometry &amp; Trigonometry|Angles|Angles formed by parallel lines and a transversal:
+	http://en.wikipedia.org/wiki/Parallel_postulate: 33731493
+	http://en.wikipedia.org/wiki/Transversal_(geometry): 13295107
+	http://en.wikipedia.org/wiki/Plane_(geometry): 84029
+	http://en.wikipedia.org/wiki/Geometry: 18973446
+	http://en.wikipedia.org/wiki/Playfair%27s_axiom: 33731592
+	http://en.wikipedia.org/wiki/Congruence_(geometry): 39330
+	http://en.wikipedia.org/wiki/Parallel_(geometry): 664497
+	http://en.wikipedia.org/wiki/Euclid: 9331
+	http://en.wikipedia.org/wiki/Parallel_(geometry): 664497
+	http://en.wikipedia.org/wiki/Proclus: 24797
+
+Geometry &amp; Trigonometry|2-Dimensional Shapes|Area:
+
+Numbers &amp; Computation|Multiplication and Division|Multiplication and Division with Negative Numbers:
+	http://en.wikipedia.org/wiki/Natural_number: 21474
+	http://en.wikipedia.org/wiki/Coefficient: 51203
+	http://en.wikipedia.org/wiki/Exponentiation: 99491
+	http://en.wikipedia.org/wiki/Rational_number: 19727024
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/Brahmagupta: 297206
+	http://en.wikipedia.org/wiki/Algebra: 18716923
+	http://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art: 204207
+	http://en.wikipedia.org/wiki/Ring_(mathematics): 48404
+	http://en.wikipedia.org/wiki/Addition: 61338
+	http://en.wikipedia.org/wiki/Quaternion: 51440
+	http://en.wikipedia.org/wiki/Additive_inverse: 228312
+	http://en.wikipedia.org/wiki/Subtraction: 74141
+	http://en.wikipedia.org/wiki/Rational_number: 19727024
+	http://en.wikipedia.org/wiki/Integer: 14563
+	http://en.wikipedia.org/wiki/Division_(mathematics): 53696
+	http://en.wikipedia.org/wiki/Liber_Abaci: 167699
+	http://en.wikipedia.org/wiki/Operation_(mathematics): 4140245
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+	http://en.wikipedia.org/wiki/Subscript_and_superscript: 12690616
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Solving Single Variable Equations:
+	http://en.wikipedia.org/wiki/Equation_solving: 537048
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/Numerical_linear_algebra: 7330660
+	http://en.wikipedia.org/wiki/Computer_science: 5323
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Solution_set: 567840
+	http://en.wikipedia.org/wiki/Mathematical_model: 20590
+	http://en.wikipedia.org/wiki/Nonlinear_system: 146103
+	http://en.wikipedia.org/wiki/Computer_simulation: 375416
+	http://en.wikipedia.org/wiki/System_of_linear_equations: 113087
+	http://en.wikipedia.org/wiki/Linearization: 1118789
+	http://en.wikipedia.org/wiki/Integer: 14563
+	http://en.wikipedia.org/wiki/Euclidean_vector: 32533
+	http://en.wikipedia.org/wiki/Algorithm: 775
+	http://en.wikipedia.org/wiki/Linear_algebra: 18422
+	http://en.wikipedia.org/wiki/Economics: 9223
+	http://en.wikipedia.org/wiki/Variable_(mathematics): 3728109
+	http://en.wikipedia.org/wiki/Gaussian_elimination: 13035
+	http://en.wikipedia.org/wiki/Rational_number: 19727024
+	http://en.wikipedia.org/wiki/Chemistry: 5180
+	http://en.wikipedia.org/wiki/Physics: 22939
+	http://en.wikipedia.org/wiki/Dimension: 8398
+	http://en.wikipedia.org/wiki/Field_(mathematics): 10603
+	http://en.wikipedia.org/wiki/Linear_equation: 17570
+	http://en.wikipedia.org/wiki/Approximation: 336271
+	http://en.wikipedia.org/wiki/Engineering: 9251
+	http://en.wikipedia.org/wiki/Cartesian_coordinate_system: 7706
+	http://en.wikipedia.org/wiki/Polynomial: 23000
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+
+Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Factoring Quadratics:
+	http://en.wikipedia.org/wiki/Quadratic_function: 187240
+	http://en.wikipedia.org/wiki/Quadratic_equation: 25175
+
+Numbers &amp; Computation|Multiplication and Division|Square Roots:
+	http://en.wikipedia.org/wiki/Square_number: 213919
+	http://en.wikipedia.org/wiki/Exponentiation: 99491
+	http://en.wikipedia.org/wiki/Square_root_of_a_matrix: 2929701
+	http://en.wikipedia.org/wiki/List_of_square_roots: 32798788
+	http://en.wikipedia.org/wiki/Square_root: 29208
+	http://en.wikipedia.org/wiki/Square_root_of_5: 12599267
+	http://en.wikipedia.org/wiki/Square_root_of_2: 341682
+	http://en.wikipedia.org/wiki/Square_root_of_3: 9126665
+	http://en.wikipedia.org/wiki/Imaginary_unit: 52358
+
+Algebra|Radicals|Simplifying radical expressions:
+	http://en.wikipedia.org/wiki/Nth_root: 235029
+	http://en.wikipedia.org/wiki/Nested_radical: 2503693
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Operations on Functions:
+	http://en.wikipedia.org/wiki/Vector_space: 32370
+	http://en.wikipedia.org/wiki/Unary_operation: 161006
+	http://en.wikipedia.org/wiki/Set_(mathematics): 26691
+	http://en.wikipedia.org/wiki/Function_(mathematics): 185427
+	http://en.wikipedia.org/wiki/Truth_value: 161711
+	http://en.wikipedia.org/wiki/Binary_operation: 3948
+	http://en.wikipedia.org/wiki/Multiplication: 20845
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Function_composition: 195947
+	http://en.wikipedia.org/wiki/Codomain: 50264
+	http://en.wikipedia.org/wiki/Operation_(mathematics): 4140245
+
+Data Analysis, Probability, &amp; Statistics|Data Representation|Bar graph:
+	http://en.wikipedia.org/wiki/Edward_Tufte: 263977
+	http://en.wikipedia.org/wiki/Scientific_modelling: 3224795
+	http://en.wikipedia.org/wiki/Circular_analysis: 38811093
+	http://en.wikipedia.org/wiki/Charles_Joseph_Minard: 3761071
+	http://en.wikipedia.org/wiki/Area_chart: 11731170
+	http://en.wikipedia.org/wiki/Engineering_drawing: 171414
+	http://en.wikipedia.org/wiki/Visualization_(computer_graphics): 660850
+	http://en.wikipedia.org/wiki/Loaded_language: 237167
+	http://en.wikipedia.org/wiki/Flow_visualization: 5036574
+	http://en.wikipedia.org/wiki/Technical_drawing: 54952
+	http://en.wikipedia.org/wiki/Diagram: 598669
+	http://en.wikipedia.org/wiki/Visual_analytics: 18152904
+	http://en.wikipedia.org/wiki/Small_multiple: 531362
+	http://en.wikipedia.org/wiki/Lies,_damned_lies,_and_statistics: 302244
+	http://en.wikipedia.org/wiki/Mental_image: 599917
+	http://en.wikipedia.org/wiki/Sampling_bias: 17692
+	http://en.wikipedia.org/wiki/Scatter_plot: 412544
+	http://en.wikipedia.org/wiki/Impression_management: 601795
+	http://en.wikipedia.org/wiki/Misleading_graph: 36197584
+	http://en.wikipedia.org/wiki/Misuse_of_statistics: 1217358
+	http://en.wikipedia.org/wiki/Annual_report: 1272420
+	http://en.wikipedia.org/wiki/Graph_drawing: 325813
+	http://en.wikipedia.org/wiki/Michael_Maltz: 3352998
+	http://en.wikipedia.org/wiki/Exploratory_data_analysis: 416589
+	http://en.wikipedia.org/wiki/Bruce_H._McCormick: 18354780
+	http://en.wikipedia.org/wiki/Software_visualization: 3070397
+	http://en.wikipedia.org/wiki/Statistical_inference: 27577
+	http://en.wikipedia.org/wiki/Run_chart: 6392749
+	http://en.wikipedia.org/wiki/Adolphe_Quetelet: 184215
+	http://en.wikipedia.org/wiki/Cartography: 7294
+	http://en.wikipedia.org/wiki/Computer_vision: 6596
+	http://en.wikipedia.org/wiki/Volume_rendering: 698016
+	http://en.wikipedia.org/wiki/Information_design: 234824
+	http://en.wikipedia.org/wiki/Sacramento_City_College: 1186173
+	http://en.wikipedia.org/wiki/Chemical_imaging: 8288266
+	http://en.wikipedia.org/wiki/International_Standard_Serial_Number: 234930
+	http://en.wikipedia.org/wiki/Jim_Blinn: 1782155
+	http://en.wikipedia.org/wiki/Statistics: 26685
+	http://en.wikipedia.org/wiki/Arthur_H._Robinson: 1172123
+	http://en.wikipedia.org/wiki/How_to_Lie_with_Statistics: 2099648
+	http://en.wikipedia.org/wiki/Jacques_Bertin: 18135328
+	http://en.wikipedia.org/wiki/Line_chart: 6879051
+	http://en.wikipedia.org/wiki/Priming_(psychology): 21312306
+	http://en.wikipedia.org/wiki/Data_analysis: 2720954
+	http://en.wikipedia.org/wiki/John_Tukey: 415974
+	http://en.wikipedia.org/wiki/Neuroimaging: 3557219
+	http://en.wikipedia.org/wiki/Stuart_Card: 1885965
+	http://en.wikipedia.org/wiki/Plot_(graphics): 19774918
+	http://en.wikipedia.org/wiki/Pittsburg_State_University: 1232825
+	http://en.wikipedia.org/wiki/Darrell_Huff: 316593
+	http://en.wikipedia.org/wiki/Photograph: 25080
+	http://en.wikipedia.org/wiki/PubMed: 503009
+	http://en.wikipedia.org/wiki/Biological_data_visualization: 23265863
+	http://en.wikipedia.org/wiki/Slope: 29368
+	http://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster: 403717
+	http://en.wikipedia.org/wiki/Gaspard_Monge: 77840
+	http://en.wikipedia.org/wiki/Statistical_graphics: 15934463
+	http://en.wikipedia.org/wiki/Graphic_design: 12799
+	http://en.wikipedia.org/wiki/Psychophysics: 438004
+	http://en.wikipedia.org/wiki/Fernanda_Vi%C3%A9gas: 5813818
+	http://en.wikipedia.org/wiki/Patent_drawing: 21529160
+	http://en.wikipedia.org/wiki/Mathematical_diagram: 19266946
+	http://en.wikipedia.org/wiki/George_Furnas: 2232116
+	http://en.wikipedia.org/wiki/Cartogram: 938069
+	http://en.wikipedia.org/wiki/Graphic_organizer: 261161
+	http://en.wikipedia.org/wiki/Cognitive_psychology: 5961
+	http://en.wikipedia.org/wiki/Correlation_does_not_imply_causation: 39834
+	http://en.wikipedia.org/wiki/Sparkline: 1743077
+	http://en.wikipedia.org/wiki/User_interface: 45249
+	http://en.wikipedia.org/wiki/Scientific_visualization: 575963
+	http://en.wikipedia.org/wiki/Chartjunk: 743794
+	http://en.wikipedia.org/wiki/Howard_Wainer: 30741761
+	http://en.wikipedia.org/wiki/Histogram: 13266
+	http://en.wikipedia.org/wiki/York_University: 34310
+	http://en.wikipedia.org/wiki/Statistical_model: 27576
+	http://en.wikipedia.org/wiki/User_interface_design: 2261519
+	http://en.wikipedia.org/wiki/Data: 18985040
+	http://en.wikipedia.org/wiki/False_advertising: 932935
+	http://en.wikipedia.org/wiki/Pareto_chart: 4060171
+	http://en.wikipedia.org/wiki/Data_visualization: 3461736
+	http://en.wikipedia.org/wiki/Database: 8377
+	http://en.wikipedia.org/wiki/Clifford_A._Pickover: 268170
+	http://en.wikipedia.org/wiki/Jock_D._Mackinlay: 18327153
+	http://en.wikipedia.org/wiki/Computer_graphics_(computer_science): 18567168
+	http://en.wikipedia.org/wiki/Molecular_graphics: 4927505
+	http://en.wikipedia.org/wiki/Ben_Shneiderman: 1833304
+	http://en.wikipedia.org/wiki/Regression_analysis: 826997
+	http://en.wikipedia.org/wiki/Data_science: 35458904
+	http://en.wikipedia.org/wiki/Otto_Neurath: 50089
+	http://en.wikipedia.org/wiki/Technical_illustration: 3820851
+	http://en.wikipedia.org/wiki/Information: 18985062
+	http://en.wikipedia.org/wiki/List_of_information_graphics_software: 2891117
+	http://en.wikipedia.org/wiki/Computer_graphics: 18567210
+	http://en.wikipedia.org/wiki/Big_data: 27051151
+	http://en.wikipedia.org/wiki/Imaging_science: 1103247
+	http://en.wikipedia.org/wiki/Alan_MacEachren: 19891696
+	http://en.wikipedia.org/wiki/Visual_culture: 1600443
+	http://en.wikipedia.org/wiki/Florence_Nightingale: 100127
+	http://en.wikipedia.org/wiki/Graph_of_a_function: 87352
+	http://en.wikipedia.org/wiki/Pie_chart: 728487
+	http://en.wikipedia.org/wiki/Information_science: 149354
+	http://en.wikipedia.org/wiki/Schematic: 41679
+	http://en.wikipedia.org/wiki/Box_plot: 160960
+	http://en.wikipedia.org/wiki/Control_chart: 435754
+	http://en.wikipedia.org/wiki/Map: 19877
+	http://en.wikipedia.org/wiki/Ideogram: 14731
+	http://en.wikipedia.org/wiki/Descriptive_statistics: 8187
+	http://en.wikipedia.org/wiki/Three-dimensional_space: 3054853
+	http://en.wikipedia.org/wiki/Chart: 164460
+	http://en.wikipedia.org/wiki/Medical_imaging: 234714
+	http://en.wikipedia.org/wiki/Nigel_Holmes: 7118712
+	http://en.wikipedia.org/wiki/Information_visualization: 89587
+	http://en.wikipedia.org/wiki/Visual_perception: 21280496
+	http://en.wikipedia.org/wiki/Perspective_(visual): 478325
+	http://en.wikipedia.org/wiki/Lawrence_J._Rosenblum: 18352206
+	http://en.wikipedia.org/wiki/Spatial_analysis: 3190431
+	http://en.wikipedia.org/wiki/Stem-and-leaf_display: 977649
+	http://en.wikipedia.org/wiki/Crime_mapping: 1386551
+	http://en.wikipedia.org/wiki/George_G._Robertson: 18320672
+	http://en.wikipedia.org/wiki/Edward_Tufte: 263977
+	http://en.wikipedia.org/wiki/Michael_Friendly: 18328629
+	http://en.wikipedia.org/wiki/Table_(information): 337862
+	http://en.wikipedia.org/wiki/Thomas_A._DeFanti: 5430727
+	http://en.wikipedia.org/wiki/Pictogram: 168313
+	http://en.wikipedia.org/wiki/Infographic: 992525
+	http://en.wikipedia.org/wiki/William_Playfair: 1411831
+	http://en.wikipedia.org/wiki/Bar_chart: 393311
+	http://en.wikipedia.org/wiki/Geovisualization: 2794830
+
+Data Analysis, Probability, &amp; Statistics|Probability|Combinations:
+
+Algebra|Rational Expressions, Equations &amp; Functions|Operations with Rational Expressions:
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Continued_fraction: 46802
+	http://en.wikipedia.org/wiki/Algebraic_closure: 3129
+	http://en.wikipedia.org/wiki/Division_by_zero: 185663
+
+Data Analysis, Probability, &amp; Statistics|Probability|Permutations:
+
+Geometry &amp; Trigonometry|Angles|Complementary Angles:
+	http://en.wikipedia.org/wiki/Geometry: 18973446
+
+Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Prism:
+
+Geometry &amp; Trigonometry|Angles|Supplementary Angles:
+	http://en.wikipedia.org/wiki/Proof_by_contradiction: 25418
+	http://en.wikipedia.org/wiki/Plane_(geometry): 84029
+	http://en.wikipedia.org/wiki/Geometry: 18973446
+	http://en.wikipedia.org/wiki/Playfair%27s_axiom: 33731592
+	http://en.wikipedia.org/wiki/Point_(geometry): 593693
+	http://en.wikipedia.org/wiki/Line_(geometry): 946975
+	http://en.wikipedia.org/wiki/Right_angle: 76956
+	http://en.wikipedia.org/wiki/Congruence_(geometry): 39330
+	http://en.wikipedia.org/wiki/Parallel_postulate: 33731493
+	http://en.wikipedia.org/wiki/Euclid: 9331
+	http://en.wikipedia.org/wiki/Angle: 1196
+	http://en.wikipedia.org/wiki/Parallel_(geometry): 664497
+	http://en.wikipedia.org/wiki/Menelaus%27_theorem: 1480484
+	http://en.wikipedia.org/wiki/Proclus: 24797
+
+Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Rates:
+	http://en.wikipedia.org/wiki/Property_tax: 373814
+	http://en.wikipedia.org/wiki/Rates_in_the_United_Kingdom: 41527118
+	http://en.wikipedia.org/wiki/Council_Tax: 156661
+	http://en.wikipedia.org/wiki/Business_rates_in_England_and_Wales: 6056045
+	http://en.wikipedia.org/wiki/United_Kingdom: 31717
+	http://en.wikipedia.org/wiki/Business_rates_in_Scotland: 12599103
+	http://en.wikipedia.org/wiki/Domestic_rates_in_Northern_Ireland: 41526502
+	http://en.wikipedia.org/wiki/Domestic_rates_in_Northern_Ireland: 41526502
+
+Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Systems of Linear Equations &amp; Inequalities:
+
+Geometry &amp; Trigonometry|Trigonometric Functions|Sine, Cosine, and Tangent:
+	http://en.wikipedia.org/wiki/Angle: 1196
+	http://en.wikipedia.org/wiki/Encyclopedia_of_Mathematics: 4647594
+	http://en.wikipedia.org/wiki/Degree_(angle): 1195294
+	http://en.wikipedia.org/wiki/MathWorld: 374235
+	http://en.wikipedia.org/wiki/Similarity_(geometry): 39377
+	http://en.wikipedia.org/wiki/Law_of_tangents: 319484
+	http://en.wikipedia.org/wiki/Derivative: 7921
+	http://en.wikipedia.org/wiki/Circle: 6220
+	http://en.wikipedia.org/wiki/Right_triangle: 39420
+	http://en.wikipedia.org/wiki/Pythagorean_theorem: 26513034
+	http://en.wikipedia.org/wiki/Calculus: 5176
+	http://en.wikipedia.org/wiki/Latin: 17730
+	http://en.wikipedia.org/wiki/Triangle: 30654
+	http://en.wikipedia.org/wiki/Inverse_trigonometric_functions: 374220
+	http://en.wikipedia.org/wiki/Tangent: 31482
+	http://en.wikipedia.org/wiki/Function_(mathematics): 185427
+	http://en.wikipedia.org/wiki/Limit_of_a_function: 285759
+	http://en.wikipedia.org/wiki/Secant_line: 241886
+	http://en.wikipedia.org/wiki/Trigonometric_functions: 30367
+	http://en.wikipedia.org/wiki/Logarithm: 17860
+	http://en.wikipedia.org/wiki/Mnemonic: 40411
+	http://en.wikipedia.org/wiki/%C4%80ryabha%E1%B9%AD%C4%ABya: 4678056
+	http://en.wikipedia.org/wiki/Law_of_sines: 113222
+	http://en.wikipedia.org/wiki/Euclidean_geometry: 9417
+	http://en.wikipedia.org/wiki/Exponential_function: 9678
+	http://en.wikipedia.org/wiki/Hypotenuse: 251366
+	http://en.wikipedia.org/wiki/Indian_astronomy: 2781944
+	http://en.wikipedia.org/wiki/Law_of_cosines: 19480890
+	http://en.wikipedia.org/wiki/Multiplicative_inverse: 229940
+	http://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz: 12281
+	http://en.wikipedia.org/wiki/Trigonometry: 18717261
+	http://en.wikipedia.org/wiki/Slope: 29368
+	http://en.wikipedia.org/wiki/Inverse_function: 14907
+	http://en.wikipedia.org/wiki/Cartesian_coordinate_system: 7706
+	http://en.wikipedia.org/wiki/Chord_(geometry): 297947
+
+Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Adding and Subtracting Polynomials:
+	http://en.wikipedia.org/wiki/Polynomial: 23000
+	http://en.wikipedia.org/wiki/Polynomial_long_division: 314205
+	http://en.wikipedia.org/wiki/Algebra: 18716923
+
+Data Analysis, Probability, &amp; Statistics|Data Representation|Venn diagram:
+	http://en.wikipedia.org/wiki/Venn_diagram: 61701
+	http://en.wikipedia.org/wiki/Sunset: 190933
+	http://en.wikipedia.org/wiki/John_Venn: 251482
+	http://en.wikipedia.org/wiki/Truth_table: 25512250
+	http://en.wikipedia.org/wiki/Set_(mathematics): 26691
+	http://en.wikipedia.org/wiki/Set_theory: 27553
+	http://en.wikipedia.org/wiki/Element_(mathematics): 682629
+	http://en.wikipedia.org/wiki/Leonhard_Euler: 17902
+	http://en.wikipedia.org/wiki/Christian_Weise: 34885135
+	http://en.wikipedia.org/wiki/Bertrand_Russell: 4163
+	http://en.wikipedia.org/wiki/Clarence_Irving_Lewis: 433707
+	http://en.wikipedia.org/wiki/Diagram: 598669
+	http://en.wikipedia.org/wiki/Empty_set: 9566
+	http://en.wikipedia.org/wiki/Propositional_calculus: 18154
+	http://en.wikipedia.org/wiki/Schematic: 41679
+	http://en.wikipedia.org/wiki/New_Math: 404988
+	http://en.wikipedia.org/wiki/Intersection_(set_theory): 23476429
+	http://en.wikipedia.org/wiki/Principia_Mathematica: 24133
+	http://en.wikipedia.org/wiki/Hypercube: 39783
+	http://en.wikipedia.org/wiki/Euler_diagram: 2427526
+	http://en.wikipedia.org/wiki/Syllogism: 48046
+
+Numbers &amp; Computation|Number Concepts|Real Numbers:
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/Compact_space: 6042
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Dual_number: 42169
+	http://en.wikipedia.org/wiki/Countable_set: 6026
+	http://en.wikipedia.org/wiki/Irrational_number: 20647689
+	http://en.wikipedia.org/wiki/Constructible_number: 7439
+	http://en.wikipedia.org/wiki/Computable_number: 6206
+	http://en.wikipedia.org/wiki/Complete_lattice: 44777
+	http://en.wikipedia.org/wiki/Surreal_number: 51432
+	http://en.wikipedia.org/wiki/Cardinal_number: 6173
+	http://en.wikipedia.org/wiki/Quaternion: 51440
+	http://en.wikipedia.org/wiki/Exponential_function: 9678
+	http://en.wikipedia.org/wiki/P-adic_number: 51423
+	http://en.wikipedia.org/wiki/List_of_types_of_numbers: 29528690
+	http://en.wikipedia.org/wiki/Topology: 29954
+	http://en.wikipedia.org/wiki/Natural_number: 21474
+	http://en.wikipedia.org/wiki/Calculus: 5176
+	http://en.wikipedia.org/wiki/Absolute_value: 991
+	http://en.wikipedia.org/wiki/Transcendental_number: 30325
+	http://en.wikipedia.org/wiki/Hyperreal_number: 51429
+	http://en.wikipedia.org/wiki/Levi-Civita_field: 22105661
+	http://en.wikipedia.org/wiki/Arithmetical_set: 2342451
+	http://en.wikipedia.org/wiki/Continuous_function: 6122
+	http://en.wikipedia.org/wiki/Ring_of_periods: 7437222
+	http://en.wikipedia.org/wiki/Cayley%E2%80%93Dickson_construction: 175609
+	http://en.wikipedia.org/wiki/Ordinal_number: 26547932
+	http://en.wikipedia.org/wiki/Rational_number: 19727024
+	http://en.wikipedia.org/wiki/Integer: 14563
+	http://en.wikipedia.org/wiki/Supernatural_numbers: 18668810
+	http://en.wikipedia.org/wiki/Sedenion: 51434
+	http://en.wikipedia.org/wiki/Field_(mathematics): 10603
+	http://en.wikipedia.org/wiki/Order_topology: 213650
+	http://en.wikipedia.org/wiki/Algebraic_number: 1158
+	http://en.wikipedia.org/wiki/Octonion: 51436
+	http://en.wikipedia.org/wiki/Split-complex_number: 893559
+	http://en.wikipedia.org/wiki/Unit_interval: 49324
+	http://en.wikipedia.org/wiki/Real_projective_line: 1014534
+	http://en.wikipedia.org/wiki/Number: 21690
+	http://en.wikipedia.org/wiki/Superreal_number: 1065871
+	http://en.wikipedia.org/wiki/Measure_(mathematics): 19873
+	http://en.wikipedia.org/wiki/Hypercomplex_number: 51438
+	http://en.wikipedia.org/wiki/Real_number: 20646438
+
+Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Factoring polynomials:
+	http://en.wikipedia.org/wiki/Polynomial: 23000
+	http://en.wikipedia.org/wiki/Polynomial_long_division: 314205
+
+Data Analysis, Probability, &amp; Statistics|Data Analysis &amp; Statistics|Samples and Populations:
+	http://en.wikipedia.org/wiki/Percentile: 354907
+	http://en.wikipedia.org/wiki/Statistics: 26685
+	http://en.wikipedia.org/wiki/Descriptive_statistics: 8187
+
+Algebra|Radicals|Solving and analyzing radical functions:
+	http://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem: 152518
+	http://en.wikipedia.org/wiki/Encyclopedia_of_Mathematics: 4647594
+	http://en.wikipedia.org/wiki/Serge_Lang: 872991
+	http://en.wikipedia.org/wiki/Complex_number: 5826
+	http://en.wikipedia.org/wiki/Analogy: 103533
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Niccol%C3%B2_Fontana_Tartaglia: 22148
+	http://en.wikipedia.org/wiki/Group_theory: 41890
+	http://en.wikipedia.org/wiki/Abstract_algebra: 19616384
+	http://en.wikipedia.org/wiki/Quadratic_equation: 25175
+	http://en.wikipedia.org/wiki/Niels_Henrik_Abel: 21573
+	http://en.wikipedia.org/wiki/Algebraic_equation: 404001
+	http://en.wikipedia.org/wiki/Finite_field: 11615
+	http://en.wikipedia.org/wiki/Monic_polynomial: 314730
+	http://en.wikipedia.org/wiki/Lodovico_Ferrari: 18720
+	http://en.wikipedia.org/wiki/Economics: 9223
+	http://en.wikipedia.org/wiki/Cambridge_University_Press: 73199
+	http://en.wikipedia.org/wiki/Rational_number: 19727024
+	http://en.wikipedia.org/wiki/Rational_function: 361210
+	http://en.wikipedia.org/wiki/Field_(mathematics): 10603
+	http://en.wikipedia.org/wiki/Zero_of_a_function: 264210
+	http://en.wikipedia.org/wiki/Galois_theory: 61316
+	http://en.wikipedia.org/wiki/%C3%89variste_Galois: 9815
+	http://en.wikipedia.org/wiki/Vieta%27s_formulas: 714050
+	http://en.wikipedia.org/wiki/Polynomial: 23000
+	http://en.wikipedia.org/wiki/Gerolamo_Cardano: 13145
+	http://en.wikipedia.org/wiki/Algebraic_geometry: 1997
+
+Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Recursive Sequence:
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Eric_W._Weisstein: 836189
+	http://en.wikipedia.org/wiki/MathWorld: 374235
+
+Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Cylinder:
+	http://en.wikipedia.org/wiki/Cube: 6285
+	http://en.wikipedia.org/wiki/Parabola: 23231
+	http://en.wikipedia.org/wiki/Cylinder_(geometry): 859283
+	http://en.wikipedia.org/wiki/Homeomorphism: 13660
+	http://en.wikipedia.org/wiki/Differential_geometry: 8625
+	http://en.wikipedia.org/wiki/Ellipse: 9277
+
+Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Cone:
+	http://en.wikipedia.org/wiki/Polygon: 23621
+	http://en.wikipedia.org/wiki/Geometry: 18973446
+	http://en.wikipedia.org/wiki/Cylinder_(geometry): 859283
+	http://en.wikipedia.org/wiki/Cone: 782427
+	http://en.wikipedia.org/wiki/Circle: 6220
+	http://en.wikipedia.org/wiki/Ellipse: 9277
+
+Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Sphere:
+	http://en.wikipedia.org/wiki/Spherical_coordinate_system: 29181
+	http://en.wikipedia.org/wiki/Rotation_group_SO(3): 173965
+	http://en.wikipedia.org/wiki/Great_circle: 48082
+	http://en.wikipedia.org/wiki/Geometry: 18973446
+	http://en.wikipedia.org/wiki/Longitude: 17617
+	http://en.wikipedia.org/wiki/Sphere: 27859
+	http://en.wikipedia.org/wiki/Circle_of_a_sphere: 349704
+	http://en.wikipedia.org/wiki/Compact_space: 6042
+	http://en.wikipedia.org/wiki/Topological_manifold: 2119193
+	http://en.wikipedia.org/wiki/Latitude: 17616
+	http://en.wikipedia.org/wiki/Equator: 20611356
+	http://en.wikipedia.org/wiki/Riemann_sphere: 30876799
+	http://en.wikipedia.org/wiki/Gaussian_curvature: 285623
+	http://en.wikipedia.org/wiki/Topology: 29954
+
+Data Analysis, Probability, &amp; Statistics|Data Representation|Circle graph:
+	http://en.wikipedia.org/wiki/Circle: 6220
+	http://en.wikipedia.org/wiki/Graph_theory: 12401
+	http://en.wikipedia.org/wiki/Circle_graph: 1399873
+	http://en.wikipedia.org/wiki/Intersection_graph: 7726759
+
+Geometry &amp; Trigonometry|Transformations|Rotations:
+	http://en.wikipedia.org/wiki/Isometry: 254777
+	http://en.wikipedia.org/wiki/Rotation_group_SO(3): 173965
+	http://en.wikipedia.org/wiki/Quaternion: 51440
+	http://en.wikipedia.org/wiki/Group_(mathematics): 19447
+	http://en.wikipedia.org/wiki/Mathematics: 18831
+	http://en.wikipedia.org/wiki/Rotation_(mathematics): 410009
+
