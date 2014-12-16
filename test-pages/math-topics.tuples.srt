@@ -1,11 +1,9 @@
 10 = &#8201; &#215; &#8201; 
 10 = &#952; is the 
-10 = (also known as 
 10 = (decorations and medals) 
 10 = , , and 
 10 = , which is 
 10 = 0 is the 
-10 = = c and 
 10 = === Examples === 
 10 = Cambridge University Press, ISBN 
 10 = Gr &#246; bner 
@@ -19,7 +17,6 @@
 10 = The study of 
 10 = The surface area of 
 10 = There are also 
-10 = a = c 
 10 = a Euclidean space 
 10 = a combination of 
 10 = a coordinate system 
@@ -205,7 +202,6 @@
 10 = the distance between two 
 10 = the distances from 
 10 = the elements of S 
-10 = the end of the 
 10 = the group of 
 10 = the hypotenuse is 
 10 = the hypotenuse of 
@@ -251,13 +247,11 @@
 10 = with the property 
 10 = written as the 
 10 = x, y, and z 
-10 = y = f(x) 
 10 = y, and z 
 11 = &#215; n matrix 
 11 = &#8212; that is, 
 11 = &#952; ) = 
 11 = , where is 
-11 = = 0 is 
 11 = == Definition == 
 11 = A is the 
 11 = An Introduction to 
@@ -346,7 +340,6 @@
 11 = in this case, 
 11 = in three-dimensional space 
 11 = in which case the 
-11 = is also known as 
 11 = is an arbitrary 
 11 = is defined by the 
 11 = is determined by 
@@ -455,7 +448,6 @@
 11 = treated as a 
 11 = trigonometric functions are 
 11 = two of the 
-11 = version of the 
 11 = x is the 
 12 = &#215; 10 &#8722; 
 12 = &#8201; &#8722; 1 
@@ -488,7 +480,6 @@
 12 = a rational function 
 12 = a table of 
 12 = a unique factorization 
-12 = a variety of 
 12 = an equilateral triangle 
 12 = and only if it is 
 12 = and y are 
@@ -536,7 +527,6 @@
 12 = is an algebraic 
 12 = is an element 
 12 = is an element of 
-12 = is based on the 
 12 = is not an 
 12 = is simply the 
 12 = is that the 
@@ -574,7 +564,6 @@
 12 = of the product 
 12 = of the real numbers 
 12 = of the root 
-12 = of the series 
 12 = of x is 
 12 = on the set 
 12 = only if it is 
@@ -753,7 +742,6 @@
 13 = the cardinality of 
 13 = the centre of the 
 13 = the coefficient of 
-13 = the end of 
 13 = the inverse function of 
 13 = the length of the hypotenuse 
 13 = the logarithmic norm 
@@ -799,7 +787,6 @@
 14 = a random variable 
 14 = a, b, and c 
 14 = all real numbers 
-14 = also known as the 
 14 = angle between the 
 14 = angle is the 
 14 = area of any 
@@ -823,7 +810,6 @@
 14 = difference between the 
 14 = digits to the 
 14 = does not change 
-14 = end of the 
 14 = equation can be 
 14 = equation of a 
 14 = example, consider the 
@@ -898,7 +884,6 @@
 14 = which case the 
 14 = x, y, and 
 15 = 2 &#215; 2 
-15 = = &#8722; 1. 
 15 = An example of 
 15 = In mathematics, the 
 15 = In this case 
@@ -936,11 +921,9 @@
 15 = is a special case 
 15 = is a special case of 
 15 = is defined as a 
-15 = is one of the 
 15 = is the only 
 15 = it follows that 
 15 = may be written 
-15 = more than one 
 15 = n is a 
 15 = of a geometric 
 15 = of the opposite 
@@ -983,7 +966,6 @@
 15 = vertices of the 
 15 = viewed as a 
 15 = written in the 
-16 = = 0 and 
 16 = A and B, 
 16 = Cartesian coordinate system 
 16 = For example, consider 
@@ -1088,7 +1070,6 @@
 17 = independent of the 
 17 = is a linear 
 17 = is a rational 
-17 = is one of 
 17 = is perpendicular to the 
 17 = is the angle 
 17 = is the length of 
@@ -1213,7 +1194,6 @@
 19 = expressed in terms 
 19 = expressed in terms of 
 19 = from a point 
-19 = in order to 
 19 = in the following 
 19 = is a positive 
 19 = is represented by 
@@ -1307,7 +1287,6 @@
 21 = distance from the 
 21 = does not have 
 21 = function is a 
-21 = is known as the 
 21 = is not the 
 21 = is the sum of the 
 21 = may be used 
@@ -1326,9 +1305,6 @@
 21 = there are two 
 21 = this is the 
 21 = two or more 
-22 = == Further reading 
-22 = == Further reading == 
-22 = Further reading == 
 22 = a line is 
 22 = an element of 
 22 = form of the 
@@ -1372,7 +1348,6 @@
 23 = the line is 
 23 = the radius of 
 24 = In this case, 
-24 = It is a 
 24 = The area of 
 24 = The concept of 
 24 = The determinant of 
@@ -1401,7 +1376,6 @@
 25 = a product of 
 25 = a root of 
 25 = angles of a 
-25 = based on the 
 25 = be thought of as 
 25 = can be represented 
 25 = can be shown 
@@ -1530,7 +1504,6 @@
 33 = Michiel, ed. (2001), 
 33 = a and b are 
 33 = a complex number 
-33 = also known as 
 33 = and b are 
 33 = be expressed as 
 33 = defined by the 
@@ -1633,7 +1606,6 @@
 46 = the real numbers 
 46 = the roots of 
 46 = with respect to 
-47 = a number of 
 47 = ratio of the 
 47 = the lengths of 
 48 = of the same 
@@ -1645,11 +1617,9 @@
 51 = can be found 
 51 = which can be 
 52 = of the line 
-52 = part of the 
 52 = the area of the 
 52 = the definition of 
 52 = the graph of 
-53 = as well as 
 53 = can be defined 
 53 = the set of all 
 53 = the square of 
@@ -1667,8 +1637,6 @@
 58 = the fact that 
 60 = == Notes == 
 60 = is defined as 
-60 = known as the 
-61 = such as the 
 61 = value of the 
 62 = a set of 
 62 = is equivalent to 
@@ -1694,15 +1662,11 @@
 93 = sum of the 
 93 = the length of the 
 96 = is equal to 
-96 = one of the 
 97 = the square root 
 99 = is called a 
 100 = can also be 
 104 = length of the 
 107 = is given by 
-112 = == External links 
-112 = == External links == 
-112 = External links == 
 114 = the area of 
 117 = be used to 
 118 = in terms of 
@@ -1714,9 +1678,6 @@
 125 = the length of 
 129 = the sum of 
 130 = For example, the 
-139 = == See also 
-139 = == See also == 
-139 = See also == 
 142 = == References == 
 162 = the set of 
 208 = the number of 

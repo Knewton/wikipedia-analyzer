@@ -24,7 +24,7 @@ def get_tuples(filename, mincount):
     return (tupledict, tupletotal)
 
 def main():
-    tupledict, tupletotal = get_tuples(sys.argv[1], sys.argv[2])
+    tupledict, tupletotal = get_tuples(sys.argv[1], int(sys.argv[2]))
     page = sys.argv[3]
     text = wikipedia.WikipediaPage(page).content.encode('ascii', 'xmlcharrefreplace')
     score = 0.0

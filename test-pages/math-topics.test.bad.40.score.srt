@@ -1,0 +1,165 @@
+0.019997 Brian Friel Theatre
+0.019997 CRC Press
+0.019997 Carl Anton Bretschneider
+0.019997 Comedian Paulus Singing
+0.019997 Gordon Royle
+0.019997 Hermann Laurent
+0.019997 IPOPT
+0.019997 Irving Stringham
+0.019997 Joan of Arc (1900 film)
+0.019997 Joseph Ludwig Raabe
+0.019997 Kolmogorov's inequality
+0.019997 List of statistical topics
+0.019997 Quality control
+0.019997 Reform mathematics
+0.019997 The Nine Chapters on the Mathematical Art
+0.019997 Tom M. Apostol
+0.019997 Triangular distribution
+0.019997 Uniform 1 k2 polytope
+0.025630 List of heads of state by diplomatic precedence
+0.026053 Axiology
+0.026053 The Art of Computer Programming
+0.026334 5-cell
+0.026334 GMR (cryptography)
+0.026757 Invariance of domain
+0.027038 David Wheeler (computer scientist)
+0.027179 Single-valued function
+0.027602 Christos Papadimitriou
+0.027602 Outline of statistics
+0.028728 Michael Spivak
+0.029432 First Babylonian Dynasty
+0.029432 Robert Adrain
+0.030700 Order of precedence in Nova Scotia
+0.032953 Mathematician
+0.033516 Probability vector
+0.034080 Guildhall
+0.034080 MOSEK
+0.036051 Leonid Khachiyan
+0.037178 Coordinate rotations and reflections
+0.037600 Feynman point
+0.039854 User (computing)
+0.046613 Wolfe duality
+0.047317 Daniel Bernoulli
+0.047740 Kepler-Poinsot polyhedron
+0.049007 Angeln
+0.049289 Arity
+0.051401 Vedic civilization
+0.055063 Descending chain condition
+0.055485 Empty graph
+0.055626 Homogeneous differential equation
+0.055908 Estuary
+0.058302 Folded normal distribution
+0.059992 Table of Newtonian series
+0.062386 AD
+0.064357 Neil Robertson (mathematician)
+0.069568 Weyl's inequality
+0.069849 Instability
+0.071962 Doubling the cube
+0.074778 Semi-minor axis
+0.078017 Class (set theory)
+0.079989 Chauci
+0.080270 Antiprism
+0.080552 Bifurcation point
+0.080552 Stochastic music
+0.085340 Truncated icosidodecahedron
+0.086326 Eggplant
+0.086608 Hilbert's irreducibility theorem
+0.089142 Third derivative
+0.090269 Sample (statistics)
+0.092945 Standard basis
+0.093649 Biological sciences
+0.096606 Jackson Pollock
+0.097733 Nonhypotenuse number
+0.099845 Infinite impulse response
+0.100408 Astronomical system of units
+0.101113 Bend minimization
+0.102239 Runic calendar
+0.102521 Ear
+0.107872 Contractible
+0.109421 London
+0.109985 Richter scale
+0.110407 Pseudorandomness
+0.114209 Morocco
+0.114350 Television series
+0.115477 Exterior angle
+0.115618 Symmetric
+0.115899 Piecewise linear continuation
+0.116603 American and British English spelling differences
+0.117026 Signal (information theory)
+0.118997 Scalar (mathematics)
+0.119279 Virginia
+0.124771 Experimental design
+0.125757 Master theorem
+0.126179 Nigeria
+0.127165 Unit vector
+0.127588 Pharmacy
+0.128573 Paradox
+0.129418 Concatenation
+0.132798 Heavy-tailed distribution
+0.134488 Conjugate transpose
+0.138009 Orientation (geometry)
+0.140262 Merge sort
+0.144487 Ratio distribution
+0.145472 Root-finding algorithms
+0.150261 Fractal
+0.155753 Substitution (algebra)
+0.156175 Great circles
+0.158006 Euler's Formula
+0.158147 Transcendental functions
+0.159273 Plato
+0.160259 Limit of a sequence
+0.163216 Multiplicativeness
+0.164906 Dimensionless
+0.166174 Napier's rods
+0.167864 Minimal surface
+0.168709 Real number line
+0.169272 Gibbs phenomenon
+0.173215 Complete elliptic integral of the second kind
+0.175609 Propagation of error
+0.178144 Operational amplifier applications
+0.181101 Least absolute deviations
+0.183918 Rainbow
+0.184340 Fair dice
+0.185608 Imaginary-base logarithm
+0.186593 Space
+0.187298 Normed space
+0.188565 Babylonian mathematics
+0.191100 Langobardi
+0.193916 Adjacent transposition
+0.195465 Aleph number
+0.202929 Georg Cantor
+0.203352 Compound Poisson distribution
+0.207013 Scientific revolution
+0.208562 Hand (poker)
+0.215463 Codomain
+0.216308 Renormalization group
+0.219265 Function composition
+0.224335 Pythagorean tiling
+0.226306 Peano axioms
+0.230390 Partial fractions in integration
+0.233488 Periodic continued fraction
+0.236727 Sexagesimal
+0.237572 Prime ideal
+0.239262 Statistical power
+0.241515 Supremum
+0.253908 Smooth function
+0.269258 Matter
+0.275736 Quicksort
+0.276440 Central limit theorem
+0.276722 Generating function
+0.288410 Categorical variable
+0.295592 Differential form
+0.301366 Arclength
+0.308689 Z-transform
+0.310942 Numerical analysis
+0.316998 Interest
+0.318828 Divergent series
+0.322912 Polynomial ring
+0.340938 Abstract polytope
+0.343614 Gaussian curvature
+0.371779 Speed of light
+0.374595 Wave
+0.393888 Curvature
+0.445430 Types of angles
+0.450359 Polarization (waves)
+0.476130 Mandelbrot set
