@@ -5,6 +5,7 @@ class TopicMatchStore:
     """A helper for persisting matching topic/url pairs to SqLite"""
     _TABLE_NAME = "TopicMatches"
     _TOPIC_COL = "topic"
+    _PAGEID_COL = "pageid"
     _URL_COL = "url"
     _CONFIDENCE_COL = "confidence"
 
@@ -22,74 +23,77 @@ class TopicMatchStore:
                 id TEXT PRIMARY KEY,
                 {} TEXT,
                 {} TEXT,
+                {} TEXT,
                 {} REAL
             )
             '''.format(TopicMatchStore._TABLE_NAME,
                        TopicMatchStore._TOPIC_COL,
+                       TopicMatchStore._PAGEID_COL,
                        TopicMatchStore._URL_COL,
                        TopicMatchStore._CONFIDENCE_COL))
         self._db.commit()
 
-    def _does_match_exist(self, topic, id, url):
+    def _does_match_exist(self, topic, pageid, url):
         """
         :param str topic: A string uniquely identifying a topic
-        :param str id: The potentially matching id
+        :param str pageid: The potentially matching id
         :param str url: The potentially matching url
         :return bool: True if a the given topic has the given url as a match in the db.
         """
         cursor = self._db.cursor()
-        cursor.execute("SELECT * FROM {} WHERE topic=? AND id=? AND url=?"
-                       .format(TopicMatchStore._TABLE_NAME), (topic, id, url))
+        cursor.execute("SELECT * FROM {} WHERE topic=? AND pageid=? AND url=?"
+                       .format(TopicMatchStore._TABLE_NAME), (topic, pageid, url))
         return cursor.fetchone() is not None
 
-    def add_or_update_match(self, topic, id, url, confidence):
+    def add_or_update_match(self, topic, pageid, url, confidence):
         """
         Add a url for a page matching a particular topic, or update
         the confidence of an existing match.
         :param str topic: A string uniquely identifying a topic
-        :param str id: A string uniquely identifying an article
+        :param str pageid: A string uniquely identifying an article
         :param str url: The url of the matching page
         :param float confidence: A float between 0 and 1, indicating
         the confidence in the match, 1 being more confident.
         :return: None
         """
         cursor = self._db.cursor()
-        if self._does_match_exist(topic, id, url):
-            cursor.execute("UPDATE {} SET confidence=? WHERE topic=? AND id=? AND url=?"
-                           .format(TopicMatchStore._TABLE_NAME), (confidence, topic, id, url))
+        if self._does_match_exist(topic, pageid, url):
+            cursor.execute("UPDATE {} SET confidence=? WHERE topic=? AND pageid=? AND url=?"
+                           .format(TopicMatchStore._TABLE_NAME), (confidence, topic, pageid, url))
         else:
-            cursor.execute("INSERT INTO {} VALUES (?, ?, ?, ?)"
-                           .format(TopicMatchStore._TABLE_NAME), (id, topic, url, confidence))
+            id = str(uuid.uuid4())
+            cursor.execute("INSERT INTO {} VALUES (?, ?, ?, ?, ?)"
+                           .format(TopicMatchStore._TABLE_NAME), (id, topic, pageid, url, confidence))
         self._db.commit()
 
-    def remove_match(self, topic, id, url):
+    def remove_match(self, topic, pageid, url):
         """
         Remove a match.
         :param str topic: A string uniquely identifying a topic
-        :param str id: The id to remove
+        :param str pageid: The id to remove
         :param str url: The url to remove
         :return:
         """
         cursor = self._db.cursor()
-        cursor.execute("DELETE FROM {} WHERE topic=? AND id=? AND url=?"
-                       .format(TopicMatchStore._TABLE_NAME), (topic, id, url))
+        cursor.execute("DELETE FROM {} WHERE topic=? AND pageid=? AND url=?"
+                       .format(TopicMatchStore._TABLE_NAME), (topic, pageid, url))
         self._db.commit()
 
-    def get_confidence(self, topic, id, url):
+    def get_confidence(self, topic, pageid, url):
         """
         Get the confidence of a match.
         :param topic: The topic of the match
-        :param id: The matching id
+        :param pageid: The matching id
         :param url: The matching url
         :return float: The confidence of the match
         """
         cursor = self._db.cursor()
-        cursor.execute("SELECT {} FROM {} WHERE topic=? AND id=? AND url=?"
+        cursor.execute("SELECT {} FROM {} WHERE topic=? AND pageid=? AND url=?"
                        .format(TopicMatchStore._CONFIDENCE_COL, TopicMatchStore._TABLE_NAME),
-                       (topic, id, url))
+                       (topic, pageid, url))
         confidence = cursor.fetchone()
         if confidence is None:
-            raise ValueError("No match found for topic {} id {} url {}".format(topic, id, url))
+            raise ValueError("No match found for topic {} pageid {} url {}".format(topic, pageid, url))
         return float(confidence[0])
 
     def get_matches(self, topic, threshold=0):
@@ -117,7 +121,7 @@ class TopicMatchStore:
         """
         cursor = self._db.cursor()
         return cursor.execute("SELECT {0},{1},{2} FROM {3} WHERE {4}=? AND {2}>=? ORDER BY {2} DESC"
-                       .format("id", TopicMatchStore._URL_COL,
+                       .format(TopicMatchStore._PAGEID_COL, TopicMatchStore._URL_COL,
                                TopicMatchStore._CONFIDENCE_COL,
                                TopicMatchStore._TABLE_NAME,
                                TopicMatchStore._TOPIC_COL),

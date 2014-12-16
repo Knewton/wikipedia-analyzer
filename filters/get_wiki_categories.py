@@ -27,7 +27,9 @@ from collections import defaultdict
 from wikipedia.exceptions import DisambiguationError
 from wikipedia.exceptions import PageError
 
+from datastore.topic_match_store import TopicMatchStore
 
+SQLITE_FILE = "data/topic_match_store.db"
 # The number of pages downloaded for the purpose of category analysis
 FIRST_PASS_RESULT_COUNT = 20
 # The number of pages considered for the best category result output
@@ -54,6 +56,7 @@ CONFIDENCE_THRESHOLD = 0.7
 
 # Cache wiki page when retrieving it. It's a slow call.
 page_cache = {}
+topic_match_store = TopicMatchStore(SQLITE_FILE)
 
 
 @click.command()
@@ -144,7 +147,7 @@ def get_categories(knewton_path, analyzed_query_count, best_match_query_count, o
                 result_score -= 1
             match_index += 1
 
-        # Sort page-titles (keys of "cateogories" map) by their assigned score
+        # Sort page-titles (keys of "categories" map) by their assigned score
         relevant_category_keys = sorted(categories, key=category_relevance_score.get,
                                         reverse=True)
 
@@ -190,6 +193,8 @@ def get_categories(knewton_path, analyzed_query_count, best_match_query_count, o
         message = path + ':\n'
         for link in relevant_link_data:
             data = relevant_link_data[link]
+            for taxon in keywords:
+                topic_match_store.add_or_update_match(taxon, str(data.pageid), data.url, 0)
             try:
                 message += '\t%s: %s\n' % (data.url, data.pageid)
             except UnicodeDecodeError:
