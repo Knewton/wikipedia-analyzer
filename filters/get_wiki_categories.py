@@ -193,11 +193,13 @@ def get_categories(knewton_path, analyzed_query_count, best_match_query_count, o
         message = path + ':\n'
         for link in relevant_link_data:
             data = relevant_link_data[link]
-            for taxon in keywords:
-                topic_match_store.add_or_update_match(taxon, str(data.pageid), data.url, 0)
             try:
-                message += '\t%s: %s\n' % (data.url, data.pageid)
+                url = str(data.url).encode("utf8")
+                message += '\t%s: %s\n' % (url, data.pageid)
+                for taxon in keywords:
+                    topic_match_store.add_or_update_match(taxon, str(data.pageid), url, 0)
             except UnicodeDecodeError:
+                click.echo("8-bit bytestring: " + url)
                 continue
 
         relevant_links_output[path] = message
