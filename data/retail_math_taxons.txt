@@ -2,7 +2,7 @@ Algebra|Exponents, Radicals, and Logarithmic Equations and Functions|Exponential
 Algebra|Exponents, Radicals, and Logarithmic Equations and Functions|Imaginary and complex numbers
 Algebra|Logarithms|Properties of Logarithms
 Algebra|Logarithms|Solving Logarithmic Equations
-Algebra|Pythagorean Theorem
+Algebra|Exponents, Radicals, and Logarithmic Equations and Functions|Pythagorean Theorem
 Algebra|Radicals|Operations with radical expressions
 Algebra|Radicals|Radicals with index > 2
 Algebra|Radicals|Rationalizing radicals in the denominator
