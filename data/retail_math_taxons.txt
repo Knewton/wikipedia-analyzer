@@ -1,102 +1,102 @@
-Algebra|Exponents, Radicals, and Logarithmic Equations &amp; Functions|Exponential Equations and Functions
-Algebra|Exponents, Radicals, and Logarithmic Equations &amp; Functions|Imaginary and complex numbers
+Algebra|Exponents, Radicals, and Logarithmic Equations and Functions|Exponential Equations and Functions
+Algebra|Exponents, Radicals, and Logarithmic Equations and Functions|Imaginary and complex numbers
 Algebra|Logarithms|Properties of Logarithms
 Algebra|Logarithms|Solving Logarithmic Equations
 Algebra|Pythagorean Theorem
 Algebra|Radicals|Operations with radical expressions
-Algebra|Radicals|Radicals with index &gt; 2
+Algebra|Radicals|Radicals with index > 2
 Algebra|Radicals|Rationalizing radicals in the denominator
 Algebra|Radicals|Simplifying radical expressions
 Algebra|Radicals|Solving and analyzing radical functions
 Algebra|Simplifying Exponents
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Absolute Value Equations and Inequalities
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Domain and Range
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Equation of a Line
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Evaluating Functions
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Evaluating algebraic expressions
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Graphing Linear Equations
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Graphing Linear Inequalities
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Inverse of Functions
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Literal equations
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Operations on Functions
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Piecewise Functions
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Relations and Functions
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Simplifying Expressions
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Slope &amp; Equations of a line
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Slope of a Line
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Solving Single Variable Equations
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Systems of Linear Equations &amp; Inequalities
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Understanding single variable inequalities
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Writing algebraic equations
-Algebra|Linear Equations, Expressions, Inequalities &amp; Functions|Writing algebraic expressions
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Absolute Value Equations and Inequalities
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Domain and Range
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Equation of a Line
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Evaluating Functions
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Evaluating algebraic expressions
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Graphing Linear Equations
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Graphing Linear Inequalities
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Inverse of Functions
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Literal equations
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Operations on Functions
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Piecewise Functions
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Relations and Functions
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Simplifying Expressions
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Slope and Equations of a line
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Slope of a Line
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Solving Single Variable Equations
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Systems of Linear Equations and Inequalities
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Understanding single variable inequalities
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Writing algebraic equations
+Algebra|Linear Equations, Expressions, Inequalities and Functions|Writing algebraic expressions
 Algebra|Matrix Algebra|Determinants and Cramer’s Rule
 Algebra|Matrix Algebra|Matrix Operations
 Algebra|Matrix Algebra|Properties of Matrices
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Adding and Subtracting Polynomials
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Comparing Linear, Quadratic, and Exponential Functions
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Dividing Polynomials
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Factoring Quadratics
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Factoring polynomials
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Multiplying Polynomials
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Solving Polynomial Equations Degree &gt; 2
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Solving Quadratic Equations and Inequalities
-Algebra|Quadratics &amp; Polynomials: Equations, Functions &amp; Factoring|Using the Discriminant
-Algebra|Rational Expressions, Equations &amp; Functions|Direct and Inverse Variation
-Algebra|Rational Expressions, Equations &amp; Functions|Domain of Rational Functions
-Algebra|Rational Expressions, Equations &amp; Functions|Operations with Rational Expressions
-Algebra|Rational Expressions, Equations &amp; Functions|Simplifying Rational Expressions
-Algebra|Rational Expressions, Equations &amp; Functions|Solving Rational Equations and Inequalities
-Data Analysis, Probability, &amp; Statistics|Data Analysis &amp; Statistics|Measures of Central Tendency
-Data Analysis, Probability, &amp; Statistics|Data Analysis &amp; Statistics|Measures of Dispersion
-Data Analysis, Probability, &amp; Statistics|Data Analysis &amp; Statistics|Samples and Populations
-Data Analysis, Probability, &amp; Statistics|Data Representation|Bar graph
-Data Analysis, Probability, &amp; Statistics|Data Representation|Box and whiskers plot
-Data Analysis, Probability, &amp; Statistics|Data Representation|Circle graph
-Data Analysis, Probability, &amp; Statistics|Data Representation|Line graph
-Data Analysis, Probability, &amp; Statistics|Data Representation|Stem and leaf plot
-Data Analysis, Probability, &amp; Statistics|Data Representation|Venn diagram
-Data Analysis, Probability, &amp; Statistics|Probability|Combinations
-Data Analysis, Probability, &amp; Statistics|Probability|Outcomes and Events
-Data Analysis, Probability, &amp; Statistics|Probability|Permutations
-Geometry &amp; Trigonometry|2-Dimensional Shapes|Area
-Geometry &amp; Trigonometry|2-Dimensional Shapes|Circles
-Geometry &amp; Trigonometry|2-Dimensional Shapes|Perimeter
-Geometry &amp; Trigonometry|Polygons|Congruent Figures and Similar Figures
-Geometry &amp; Trigonometry|Polygons|Triangles
-Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Cone
-Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Cylinder
-Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Prism
-Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Pyramid
-Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Sphere
-Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Surface Area
-Geometry &amp; Trigonometry|3-Dimensional Shapes and Solids|Volume
-Geometry &amp; Trigonometry|Coordinate and Analytic Geometry|Cartesian Coordinate Plane
-Geometry &amp; Trigonometry|Coordinate and Analytic Geometry|Distance Formula
-Geometry &amp; Trigonometry|Transformations|Dilations
-Geometry &amp; Trigonometry|Transformations|Reflections
-Geometry &amp; Trigonometry|Transformations|Rotations
-Geometry &amp; Trigonometry|Transformations|Translations
-Geometry &amp; Trigonometry|Angles|Angles formed by parallel lines and a transversal
-Geometry &amp; Trigonometry|Angles|Complementary Angles
-Geometry &amp; Trigonometry|Angles|Supplementary Angles
-Geometry &amp; Trigonometry|Angles|Segments
-Geometry &amp; Trigonometry|Trigonometric Functions|Sine, Cosine, and Tangent
-Numbers &amp; Computation|Number Concepts|Absolute Value
-Numbers &amp; Computation|Number Concepts|Real Numbers
-Numbers &amp; Computation|Addition and Subtraction|Addition and Subtraction with Negative Numbers
-Numbers &amp; Computation|Addition and Subtraction|Estimation
-Numbers &amp; Computation|Addition and Subtraction|Exponents
-Numbers &amp; Computation|Multiplication and Division|Multiplication and Division with Negative Numbers
-Numbers &amp; Computation|Multiplication and Division|Multiplication and Division with Whole Numbers
-Numbers &amp; Computation|Multiplication and Division|Order of Operations
-Numbers &amp; Computation|Multiplication and Division|Scientific Notation
-Numbers &amp; Computation|Multiplication and Division|Square Roots
-Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Arithmetic Sequence
-Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Geometric Sequence
-Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Recursive Sequence
-Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Rules-Based
-Numbers &amp; Computation|Patterns, Sequences, &amp; Series|Series
-Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Percents
-Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Proportions
-Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Rates
-Numbers &amp; Computation|Rates, Ratios &amp; Proportions|Ratios
+Algebra|Quadratics and Polynomials: Equations, Functions and Factoring|Adding and Subtracting Polynomials
+Algebra|Quadratics and Polynomials: Equations, Functions and Factoring|Comparing Linear, Quadratic, and Exponential Functions
+Algebra|Quadratics and Polynomials: Equations, Functions and Factoring|Dividing Polynomials
+Algebra|Quadratics and Polynomials: Equations, Functions and Factoring|Factoring Quadratics
+Algebra|Quadratics and Polynomials: Equations, Functions and Factoring|Factoring polynomials
+Algebra|Quadratics and Polynomials: Equations, Functions and Factoring|Multiplying Polynomials
+Algebra|Quadratics and Polynomials: Equations, Functions and Factoring|Solving Polynomial Equations Degree &gt; 2
+Algebra|Quadratics and Polynomials: Equations, Functions and Factoring|Solving Quadratic Equations and Inequalities
+Algebra|Quadratics and Polynomials: Equations, Functions and Factoring|Using the Discriminant
+Algebra|Rational Expressions, Equations and Functions|Direct and Inverse Variation
+Algebra|Rational Expressions, Equations and Functions|Domain of Rational Functions
+Algebra|Rational Expressions, Equations and Functions|Operations with Rational Expressions
+Algebra|Rational Expressions, Equations and Functions|Simplifying Rational Expressions
+Algebra|Rational Expressions, Equations and Functions|Solving Rational Equations and Inequalities
+Data Analysis, Probability, and Statistics|Data Analysis and Statistics|Measures of Central Tendency
+Data Analysis, Probability, and Statistics|Data Analysis and Statistics|Measures of Dispersion
+Data Analysis, Probability, and Statistics|Data Analysis and Statistics|Samples and Populations
+Data Analysis, Probability, and Statistics|Data Representation|Bar graph
+Data Analysis, Probability, and Statistics|Data Representation|Box and whiskers plot
+Data Analysis, Probability, and Statistics|Data Representation|Circle graph
+Data Analysis, Probability, and Statistics|Data Representation|Line graph
+Data Analysis, Probability, and Statistics|Data Representation|Stem and leaf plot
+Data Analysis, Probability, and Statistics|Data Representation|Venn diagram
+Data Analysis, Probability, and Statistics|Probability|Combinations
+Data Analysis, Probability, and Statistics|Probability|Outcomes and Events
+Data Analysis, Probability, and Statistics|Probability|Permutations
+Geometry and Trigonometry|2-Dimensional Shapes|Area
+Geometry and Trigonometry|2-Dimensional Shapes|Circles
+Geometry and Trigonometry|2-Dimensional Shapes|Perimeter
+Geometry and Trigonometry|Polygons|Congruent Figures and Similar Figures
+Geometry and Trigonometry|Polygons|Triangles
+Geometry and Trigonometry|3-Dimensional Shapes and Solids|Cone
+Geometry and Trigonometry|3-Dimensional Shapes and Solids|Cylinder
+Geometry and Trigonometry|3-Dimensional Shapes and Solids|Prism
+Geometry and Trigonometry|3-Dimensional Shapes and Solids|Pyramid
+Geometry and Trigonometry|3-Dimensional Shapes and Solids|Sphere
+Geometry and Trigonometry|3-Dimensional Shapes and Solids|Surface Area
+Geometry and Trigonometry|3-Dimensional Shapes and Solids|Volume
+Geometry and Trigonometry|Coordinate and Analytic Geometry|Cartesian Coordinate Plane
+Geometry and Trigonometry|Coordinate and Analytic Geometry|Distance Formula
+Geometry and Trigonometry|Transformations|Dilations
+Geometry and Trigonometry|Transformations|Reflections
+Geometry and Trigonometry|Transformations|Rotations
+Geometry and Trigonometry|Transformations|Translations
+Geometry and Trigonometry|Angles|Angles formed by parallel lines and a transversal
+Geometry and Trigonometry|Angles|Complementary Angles
+Geometry and Trigonometry|Angles|Supplementary Angles
+Geometry and Trigonometry|Angles|Segments
+Geometry and Trigonometry|Trigonometric Functions|Sine, Cosine, and Tangent
+Numbers and Computation|Number Concepts|Absolute Value
+Numbers and Computation|Number Concepts|Real Numbers
+Numbers and Computation|Addition and Subtraction|Addition and Subtraction with Negative Numbers
+Numbers and Computation|Addition and Subtraction|Estimation
+Numbers and Computation|Addition and Subtraction|Exponents
+Numbers and Computation|Multiplication and Division|Multiplication and Division with Negative Numbers
+Numbers and Computation|Multiplication and Division|Multiplication and Division with Whole Numbers
+Numbers and Computation|Multiplication and Division|Order of Operations
+Numbers and Computation|Multiplication and Division|Scientific Notation
+Numbers and Computation|Multiplication and Division|Square Roots
+Numbers and Computation|Patterns, Sequences, and Series|Arithmetic Sequence
+Numbers and Computation|Patterns, Sequences, and Series|Geometric Sequence
+Numbers and Computation|Patterns, Sequences, and Series|Recursive Sequence
+Numbers and Computation|Patterns, Sequences, and Series|Rules-Based
+Numbers and Computation|Patterns, Sequences, and Series|Series
+Numbers and Computation|Rates, Ratios and Proportions|Percents
+Numbers and Computation|Rates, Ratios and Proportions|Proportions
+Numbers and Computation|Rates, Ratios and Proportions|Rates
+Numbers and Computation|Rates, Ratios and Proportions|Ratios

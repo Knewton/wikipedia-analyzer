@@ -19,6 +19,7 @@ score as the most relevant for the given Knewton query.
 """
 
 import click
+import math
 import os
 import re
 import wikipedia
@@ -31,9 +32,9 @@ from datastore.topic_match_store import TopicMatchStore
 
 SQLITE_FILE = "data/topic_match_store.db"
 # The number of pages downloaded for the purpose of category analysis
-FIRST_PASS_RESULT_COUNT = 20
+FIRST_PASS_RESULT_COUNT = 8
 # The number of pages considered for the best category result output
-BEST_MATCH_COUNT = 5
+BEST_MATCH_COUNT = 4
 # Keywords commonly occurring only in Wikipedia internal and meta categories,
 # i.e. "Articles with dead links", "Topic on ..."
 INTERNAL_CATEGORY_KEYWORDS = set(['articles', 'category template', 'chapter', 'commons', 'cs1', 'CS1', 'dmy', 'error',
@@ -68,9 +69,11 @@ topic_match_store = TopicMatchStore(SQLITE_FILE)
 @click.option('--best_match_query_count', default=BEST_MATCH_COUNT,
               prompt='Best-match page count to consider in the input',
               help='This many best-match pages will be considered for the output')
+@click.option('--page_score_threshold', default=CONFIDENCE_THRESHOLD,
+              prompt='A number in [0, 1]. The higher it is, the more confidence in the page relevance, but fewer results')
 @click.option('--output_file', default="",
               prompt='Output filename', help='Output filename.')
-def get_categories(knewton_path, analyzed_query_count, best_match_query_count, output_file):
+def get_categories(knewton_path, analyzed_query_count, best_match_query_count, page_score_threshold, output_file):
     """
     For a given Knewton taxonomy path/concept description, analyze wiki pages that are among
     the most relevant search results, get a couple of those, refine the analysis by analyzing
@@ -121,7 +124,7 @@ def get_categories(knewton_path, analyzed_query_count, best_match_query_count, o
             # Returned search results are presumably returned sorted by relevance (however, we're not
             # sure of the context). Give this order some weight by using the result_score (decreasing from
             # len(matches) -> 1) as a multiplicative factor when calculating the category relevance score.
-            result_score = len(matches)
+            result_score = 1
             for match in matches:
                 try:
                     page = wikipedia.page(match)
@@ -144,7 +147,8 @@ def get_categories(knewton_path, analyzed_query_count, best_match_query_count, o
                 category_relevance_score[page.title] += result_score * _get_category_relevance_score(
                     categories[page.title], page_title_words, path, MATCH_SET_WEIGHTS[match_index])
 
-                result_score -= 1
+                # For k-th returned result, the weight assigned is 1/sqrt(k)
+                result_score = math.sqrt(result_score/(result_score + 1))
             match_index += 1
 
         # Sort page-titles (keys of "categories" map) by their assigned score
@@ -187,7 +191,7 @@ def get_categories(knewton_path, analyzed_query_count, best_match_query_count, o
             click.echo(message)
 
         # Get links from the analyzed pages, evaluated as relevant.
-        relevant_links = _get_relevant_links(links, linkset_list, weight_list)
+        relevant_links = _get_relevant_links(links, linkset_list, weight_list, page_score_threshold)
         relevant_link_data = _map_titles_to_urls_ids(relevant_links)
 
         message = path + ':\n'
@@ -263,7 +267,7 @@ def _capitalize_internal_keywords(wordset):
     wordset.update(capitalized)
 
 
-def _get_relevant_links(all_links, link_sets, weights):
+def _get_relevant_links(all_links, link_sets, weights, page_score_threshold):
     """
     Get links that are significant for a set of link-sets gathered
     from several wiki pages.
@@ -298,7 +302,7 @@ def _get_relevant_links(all_links, link_sets, weights):
             if link in link_set:
                 score += max(weights[index], 1)
             index += 1
-        if score > max_score * CONFIDENCE_THRESHOLD and not _has_substring_from_set(link, META_LINK_KEYWORDS):
+        if score > max_score * page_score_threshold and not _has_substring_from_set(link, META_LINK_KEYWORDS):
             relevant.append(link)
 
     relevant.sort(reverse=True)
